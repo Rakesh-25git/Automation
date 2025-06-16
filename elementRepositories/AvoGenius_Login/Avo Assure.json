@@ -1,0 +1,349 @@
+{
+    "_id": "684fdcc7f215ceedc289ef78",
+    "projectId": "68355fe5d9d9f7a5ff38b34a",
+    "title": "Avo Assure",
+    "folderId": "684fdcc7f215ceedc289ef70",
+    "createdBy": "67fcd112d1b76ee1a98a21e7",
+    "createdOn": "2025-06-16T08:58:47.641Z",
+    "createdByRole": "5db0022cf87fdec084ae49ab",
+    "userName": "nagendra",
+    "modifiedBy": "67fcd112d1b76ee1a98a21e7",
+    "modifiedOn": "2025-06-16T08:58:47.641Z",
+    "displayOn": "2025-06-16T08:58:47.641Z",
+    "type": "elementRepo",
+    "appType": "Web",
+    "scrapedUrl": "false",
+    "description": "",
+    "repository": false,
+    "isLeaf": false,
+    "versions": [],
+    "selfHeal": false,
+    "elements": [
+        {
+            "_id": "684fdcc7f215ceedc289ef80",
+            "name": "here",
+            "height": 0,
+            "hiddentag": "No",
+            "left": 0,
+            "tag": "a",
+            "top": 0,
+            "url": "https://automateqa.avoassurecloud.com/",
+            "width": 0,
+            "xpath": "NaN",
+            "tempOrderId": "b4a6a956-54b7-4f0a-a1d1-4ed53a7402a6",
+            "identifiers": {
+                "cssselector": "a[class=\"base__redirect\"]",
+                "id": "None",
+                "xpath": "/html/body/div[2]/div/div[2]/div/div[2]/div/div/span/a",
+                "rxpath": "//div[2]/div/div/span/a",
+                "name": "None",
+                "classname": "base__redirect",
+                "href": "/login",
+                "label": "here",
+                "custom1": "None",
+                "custom2": "None"
+            },
+            "identifierpriority": [
+                {
+                    "id": 1,
+                    "identifier": "cssselector",
+                    "_id": "684fdcc7f215ceedc289ef81"
+                },
+                {
+                    "id": 2,
+                    "identifier": "id",
+                    "_id": "684fdcc7f215ceedc289ef82"
+                },
+                {
+                    "id": 3,
+                    "identifier": "xpath",
+                    "_id": "684fdcc7f215ceedc289ef83"
+                },
+                {
+                    "id": 4,
+                    "identifier": "rxpath",
+                    "_id": "684fdcc7f215ceedc289ef84"
+                },
+                {
+                    "id": 5,
+                    "identifier": "name",
+                    "_id": "684fdcc7f215ceedc289ef85"
+                },
+                {
+                    "id": 6,
+                    "identifier": "classname",
+                    "_id": "684fdcc7f215ceedc289ef86"
+                },
+                {
+                    "id": 7,
+                    "identifier": "href",
+                    "_id": "684fdcc7f215ceedc289ef87"
+                },
+                {
+                    "id": 8,
+                    "identifier": "label",
+                    "_id": "684fdcc7f215ceedc289ef88"
+                },
+                {
+                    "id": 9,
+                    "identifier": "custom1",
+                    "_id": "684fdcc7f215ceedc289ef89"
+                },
+                {
+                    "id": 10,
+                    "identifier": "custom2",
+                    "_id": "684fdcc7f215ceedc289ef8a"
+                }
+            ],
+            "elementrepoid": "684fdcc7f215ceedc289ef78",
+            "appType": "Web",
+            "isCustom": false,
+            "__v": 0
+        },
+        {
+            "_id": "684fdcc7f215ceedc289ef8b",
+            "name": "Username",
+            "height": 0,
+            "hiddentag": "No",
+            "left": 0,
+            "tag": "input",
+            "top": 0,
+            "url": "https://automateqa.avoassurecloud.com/login",
+            "width": 0,
+            "xpath": "NaN",
+            "tempOrderId": "bea05510-7134-4928-af23-0de30bc84f01",
+            "identifiers": {
+                "cssselector": "input[id=\"username\"]",
+                "id": "username",
+                "xpath": "/html/body/div[2]/div/div[2]/div/div[2]/div/div/form/div[1]/div/span/input",
+                "rxpath": "//div[1]/div/span/input",
+                "name": "None",
+                "classname": "ant-input css-m4timi[0]",
+                "href": "None",
+                "label": "Username",
+                "custom1": "None",
+                "custom2": "None"
+            },
+            "identifierpriority": [
+                {
+                    "id": 1,
+                    "identifier": "cssselector",
+                    "_id": "684fdcc7f215ceedc289ef8c"
+                },
+                {
+                    "id": 2,
+                    "identifier": "id",
+                    "_id": "684fdcc7f215ceedc289ef8d"
+                },
+                {
+                    "id": 3,
+                    "identifier": "xpath",
+                    "_id": "684fdcc7f215ceedc289ef8e"
+                },
+                {
+                    "id": 4,
+                    "identifier": "rxpath",
+                    "_id": "684fdcc7f215ceedc289ef8f"
+                },
+                {
+                    "id": 5,
+                    "identifier": "name",
+                    "_id": "684fdcc7f215ceedc289ef90"
+                },
+                {
+                    "id": 6,
+                    "identifier": "classname",
+                    "_id": "684fdcc7f215ceedc289ef91"
+                },
+                {
+                    "id": 7,
+                    "identifier": "href",
+                    "_id": "684fdcc7f215ceedc289ef92"
+                },
+                {
+                    "id": 8,
+                    "identifier": "label",
+                    "_id": "684fdcc7f215ceedc289ef93"
+                },
+                {
+                    "id": 9,
+                    "identifier": "custom1",
+                    "_id": "684fdcc7f215ceedc289ef94"
+                },
+                {
+                    "id": 10,
+                    "identifier": "custom2",
+                    "_id": "684fdcc7f215ceedc289ef95"
+                }
+            ],
+            "elementrepoid": "684fdcc7f215ceedc289ef78",
+            "appType": "Web",
+            "isCustom": false,
+            "__v": 0
+        },
+        {
+            "_id": "684fdcc7f215ceedc289ef96",
+            "name": "Password",
+            "height": 0,
+            "hiddentag": "No",
+            "left": 0,
+            "tag": "input",
+            "top": 0,
+            "url": "https://automateqa.avoassurecloud.com/login",
+            "width": 0,
+            "xpath": "NaN",
+            "tempOrderId": "087d9380-42b6-4898-a4ae-312282ca8509",
+            "identifiers": {
+                "cssselector": "input[id=\"password\"]",
+                "id": "password",
+                "xpath": "/html/body/div[2]/div/div[2]/div/div[2]/div/div/form/div[2]/div/span/input",
+                "rxpath": "//div[2]/div/span/input",
+                "name": "None",
+                "classname": "ant-input css-m4timi[1]",
+                "href": "None",
+                "label": "Password",
+                "custom1": "None",
+                "custom2": "None"
+            },
+            "identifierpriority": [
+                {
+                    "id": 1,
+                    "identifier": "cssselector",
+                    "_id": "684fdcc7f215ceedc289ef97"
+                },
+                {
+                    "id": 2,
+                    "identifier": "id",
+                    "_id": "684fdcc7f215ceedc289ef98"
+                },
+                {
+                    "id": 3,
+                    "identifier": "xpath",
+                    "_id": "684fdcc7f215ceedc289ef99"
+                },
+                {
+                    "id": 4,
+                    "identifier": "rxpath",
+                    "_id": "684fdcc7f215ceedc289ef9a"
+                },
+                {
+                    "id": 5,
+                    "identifier": "name",
+                    "_id": "684fdcc7f215ceedc289ef9b"
+                },
+                {
+                    "id": 6,
+                    "identifier": "classname",
+                    "_id": "684fdcc7f215ceedc289ef9c"
+                },
+                {
+                    "id": 7,
+                    "identifier": "href",
+                    "_id": "684fdcc7f215ceedc289ef9d"
+                },
+                {
+                    "id": 8,
+                    "identifier": "label",
+                    "_id": "684fdcc7f215ceedc289ef9e"
+                },
+                {
+                    "id": 9,
+                    "identifier": "custom1",
+                    "_id": "684fdcc7f215ceedc289ef9f"
+                },
+                {
+                    "id": 10,
+                    "identifier": "custom2",
+                    "_id": "684fdcc7f215ceedc289efa0"
+                }
+            ],
+            "elementrepoid": "684fdcc7f215ceedc289ef78",
+            "appType": "Web",
+            "isCustom": false,
+            "__v": 0
+        },
+        {
+            "_id": "684fdcc7f215ceedc289efa1",
+            "name": "Login",
+            "height": 0,
+            "hiddentag": "No",
+            "left": 0,
+            "tag": "span",
+            "top": 0,
+            "url": "https://automateqa.avoassurecloud.com/login",
+            "width": 0,
+            "xpath": "NaN",
+            "tempOrderId": "e70263d5-a4a7-475e-bb73-a9b1a7e8a71e",
+            "identifiers": {
+                "cssselector": "span[class=\"p-button-label p-c\"]",
+                "id": "None",
+                "xpath": "/html/body/div[2]/div/div[2]/div/div[2]/div/div/form/div[4]/button/span",
+                "rxpath": "//div[4]/button/span",
+                "name": "None",
+                "classname": "p-button-label p-c",
+                "href": "None",
+                "label": "None",
+                "custom1": "None",
+                "custom2": "None"
+            },
+            "identifierpriority": [
+                {
+                    "id": 1,
+                    "identifier": "cssselector",
+                    "_id": "684fdcc7f215ceedc289efa2"
+                },
+                {
+                    "id": 2,
+                    "identifier": "id",
+                    "_id": "684fdcc7f215ceedc289efa3"
+                },
+                {
+                    "id": 3,
+                    "identifier": "xpath",
+                    "_id": "684fdcc7f215ceedc289efa4"
+                },
+                {
+                    "id": 4,
+                    "identifier": "rxpath",
+                    "_id": "684fdcc7f215ceedc289efa5"
+                },
+                {
+                    "id": 5,
+                    "identifier": "name",
+                    "_id": "684fdcc7f215ceedc289efa6"
+                },
+                {
+                    "id": 6,
+                    "identifier": "classname",
+                    "_id": "684fdcc7f215ceedc289efa7"
+                },
+                {
+                    "id": 7,
+                    "identifier": "href",
+                    "_id": "684fdcc7f215ceedc289efa8"
+                },
+                {
+                    "id": 8,
+                    "identifier": "label",
+                    "_id": "684fdcc7f215ceedc289efa9"
+                },
+                {
+                    "id": 9,
+                    "identifier": "custom1",
+                    "_id": "684fdcc7f215ceedc289efaa"
+                },
+                {
+                    "id": 10,
+                    "identifier": "custom2",
+                    "_id": "684fdcc7f215ceedc289efab"
+                }
+            ],
+            "elementrepoid": "684fdcc7f215ceedc289ef78",
+            "appType": "Web",
+            "isCustom": false,
+            "__v": 0
+        }
+    ],
+    "name": "Avo Assure",
+    "parentPath": "AvoGenius_Login"
+}

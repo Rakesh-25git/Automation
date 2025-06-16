@@ -1,0 +1,1116 @@
+{
+    "_id": "6835a5af0aa7c448e548b524",
+    "name": "Test Case (Prateek)",
+    "projectId": "68355fe5d9d9f7a5ff38b34a",
+    "testCaseFolderId": "683562b0d9d9f7a5ff38b6d9",
+    "appType": "Web",
+    "assignedTo": "nagendra",
+    "description": "",
+    "createdOn": "2025-05-27T11:44:46.991Z",
+    "displayOn": "2025-05-27T11:44:46.991Z",
+    "createdBy": "67ff3246e9689353c6b0e3c5",
+    "createdByRole": "5db0022cf87fdec084ae49ab",
+    "modifiedBy": "67fcd112d1b76ee1a98a21e7",
+    "modifiedByRole": "5db0022cf87fdec084ae49ab",
+    "modifiedOn": "2025-06-16T08:55:35.469Z",
+    "isTestCaseRecoveryStep": false,
+    "tag": [],
+    "versions": [],
+    "__v": 0,
+    "parentPath": "Automate QA",
+    "testStepGroups": [
+        {
+            "_id": "684fbdf3a00debf3efef24ee",
+            "name": "Test case",
+            "projectId": "68355fe5d9d9f7a5ff38b34a",
+            "testCaseId": "6835a5af0aa7c448e548b524",
+            "appType": "Web",
+            "assignedTo": "nagendra",
+            "groupIndex": 1,
+            "createdBy": "67fcd112d1b76ee1a98a21e7",
+            "createdByRole": "5db0022cf87fdec084ae49ab",
+            "modifiedBy": "67fcd112d1b76ee1a98a21e7",
+            "modifiedByRole": "5db0022cf87fdec084ae49ab",
+            "createdOn": "2025-06-16T08:55:35.451Z",
+            "displayOn": "2025-06-16T08:55:35.451Z",
+            "modifiedOn": "2025-06-16T08:55:35.451Z",
+            "testSteps": [
+                {
+                    "_id": "684fbdf3a00debf3efef24f3",
+                    "name": "Test Case",
+                    "elementRepoId": "684fbdf3a00debf3efef2354",
+                    "elementId": "684fbdf3a00debf3efef235c",
+                    "stepNo": 1,
+                    "keywordVal": "click",
+                    "appType": "Web",
+                    "inputVal": [
+                        ""
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "684fbdf3a00debf3efef24ee",
+                    "parentName": "Test case",
+                    "modifiedBy": "67fcd112d1b76ee1a98a21e7",
+                    "__v": 0
+                },
+                {
+                    "_id": "684fbdf3a00debf3efef24f4",
+                    "name": "create folder",
+                    "elementRepoId": "684fbdf3a00debf3efef2354",
+                    "elementId": "684fbdf3a00debf3efef2367",
+                    "stepNo": 2,
+                    "keywordVal": "click",
+                    "appType": "Web",
+                    "inputVal": [
+                        ""
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "684fbdf3a00debf3efef24ee",
+                    "parentName": "Test case",
+                    "modifiedBy": "67fcd112d1b76ee1a98a21e7",
+                    "__v": 0
+                },
+                {
+                    "_id": "684fbdf3a00debf3efef24f5",
+                    "name": "Create new folder",
+                    "elementRepoId": "684fbdf3a00debf3efef2354",
+                    "elementId": "684fbdf3a00debf3efef2372",
+                    "stepNo": 3,
+                    "keywordVal": "click",
+                    "appType": "Web",
+                    "inputVal": [
+                        ""
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "684fbdf3a00debf3efef24ee",
+                    "parentName": "Test case",
+                    "modifiedBy": "67fcd112d1b76ee1a98a21e7",
+                    "__v": 0
+                },
+                {
+                    "_id": "684fbdf3a00debf3efef24f6",
+                    "name": "Enter Folder Name",
+                    "elementRepoId": "684fbdf3a00debf3efef2354",
+                    "elementId": "684fbdf3a00debf3efef237d",
+                    "stepNo": 4,
+                    "keywordVal": "clearText",
+                    "appType": "Web",
+                    "inputVal": [
+                        ""
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "684fbdf3a00debf3efef24ee",
+                    "parentName": "Test case",
+                    "modifiedBy": "67fcd112d1b76ee1a98a21e7",
+                    "__v": 0
+                },
+                {
+                    "_id": "684fbdf3a00debf3efef24f7",
+                    "name": "@Browser",
+                    "elementRepoId": "684fbdf3a00debf3efef2354",
+                    "elementId": "684fbdf3a00debf3efef23f6",
+                    "stepNo": 6,
+                    "keywordVal": "sendKeys",
+                    "appType": "Web",
+                    "inputVal": [
+                        "Enter"
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "684fbdf3a00debf3efef24ee",
+                    "parentName": "Test case",
+                    "modifiedBy": "67fcd112d1b76ee1a98a21e7",
+                    "__v": 0
+                },
+                {
+                    "_id": "684fbdf3a00debf3efef24f8",
+                    "name": "Create Test Case",
+                    "elementRepoId": "684fbdf3a00debf3efef2354",
+                    "elementId": "684fbdf3a00debf3efef2388",
+                    "stepNo": 7,
+                    "keywordVal": "click",
+                    "appType": "Web",
+                    "inputVal": [
+                        ""
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "684fbdf3a00debf3efef24ee",
+                    "parentName": "Test case",
+                    "modifiedBy": "67fcd112d1b76ee1a98a21e7",
+                    "__v": 0
+                },
+                {
+                    "_id": "684fbdf3a00debf3efef24f9",
+                    "name": "Enter Test case Name",
+                    "elementRepoId": "684fbdf3a00debf3efef2354",
+                    "elementId": "684fbdf3a00debf3efef2393",
+                    "stepNo": 8,
+                    "keywordVal": "clearText",
+                    "appType": "Web",
+                    "inputVal": [
+                        ""
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "684fbdf3a00debf3efef24ee",
+                    "parentName": "Test case",
+                    "modifiedBy": "67fcd112d1b76ee1a98a21e7",
+                    "__v": 0
+                },
+                {
+                    "_id": "684fbdf3a00debf3efef24fa",
+                    "name": "@Browser",
+                    "elementRepoId": "684fbdf3a00debf3efef2354",
+                    "elementId": "684fbdf3a00debf3efef23f6",
+                    "stepNo": 10,
+                    "keywordVal": "sendKeys",
+                    "appType": "Web",
+                    "inputVal": [
+                        "Enter"
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "684fbdf3a00debf3efef24ee",
+                    "parentName": "Test case",
+                    "modifiedBy": "67fcd112d1b76ee1a98a21e7",
+                    "__v": 0
+                },
+                {
+                    "_id": "684fbdf3a00debf3efef24fb",
+                    "name": "Create Test Step Group",
+                    "elementRepoId": "684fbdf3a00debf3efef2354",
+                    "elementId": "684fbdf3a00debf3efef239e",
+                    "stepNo": 11,
+                    "keywordVal": "click",
+                    "appType": "Web",
+                    "inputVal": [
+                        ""
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "684fbdf3a00debf3efef24ee",
+                    "parentName": "Test case",
+                    "modifiedBy": "67fcd112d1b76ee1a98a21e7",
+                    "__v": 0
+                },
+                {
+                    "_id": "684fbdf3a00debf3efef24fc",
+                    "name": "Add new test step group",
+                    "elementRepoId": "684fbdf3a00debf3efef2354",
+                    "elementId": "684fbdf3a00debf3efef23a9",
+                    "stepNo": 12,
+                    "keywordVal": "click",
+                    "appType": "Web",
+                    "inputVal": [
+                        ""
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "684fbdf3a00debf3efef24ee",
+                    "parentName": "Test case",
+                    "modifiedBy": "67fcd112d1b76ee1a98a21e7",
+                    "__v": 0
+                },
+                {
+                    "_id": "684fbdf3a00debf3efef24fd",
+                    "name": "inputNONAME1",
+                    "elementRepoId": "684fbdf3a00debf3efef2354",
+                    "elementId": "684fbdf3a00debf3efef23b4",
+                    "stepNo": 13,
+                    "keywordVal": "clearText",
+                    "appType": "Web",
+                    "inputVal": [
+                        ""
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "684fbdf3a00debf3efef24ee",
+                    "parentName": "Test case",
+                    "modifiedBy": "67fcd112d1b76ee1a98a21e7",
+                    "__v": 0
+                },
+                {
+                    "_id": "684fbdf3a00debf3efef24fe",
+                    "name": "Web",
+                    "elementRepoId": "684fbdf3a00debf3efef2354",
+                    "elementId": "684fbdf3a00debf3efef23bf",
+                    "stepNo": 15,
+                    "keywordVal": "click",
+                    "appType": "Web",
+                    "inputVal": [
+                        ""
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "684fbdf3a00debf3efef24ee",
+                    "parentName": "Test case",
+                    "modifiedBy": "67fcd112d1b76ee1a98a21e7",
+                    "__v": 0
+                },
+                {
+                    "_id": "684fbdf3a00debf3efef24ff",
+                    "name": "Web_34",
+                    "elementRepoId": "684fbdf3a00debf3efef2354",
+                    "elementId": "684fbdf3a00debf3efef23ca",
+                    "stepNo": 16,
+                    "keywordVal": "click",
+                    "appType": "Web",
+                    "inputVal": [
+                        ""
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "684fbdf3a00debf3efef24ee",
+                    "parentName": "Test case",
+                    "modifiedBy": "67fcd112d1b76ee1a98a21e7",
+                    "__v": 0
+                },
+                {
+                    "_id": "684fbdf3a00debf3efef2500",
+                    "name": "Create",
+                    "elementRepoId": "684fbdf3a00debf3efef2354",
+                    "elementId": "684fbdf3a00debf3efef23d5",
+                    "stepNo": 17,
+                    "keywordVal": "click",
+                    "appType": "Web",
+                    "inputVal": [
+                        ""
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "684fbdf3a00debf3efef24ee",
+                    "parentName": "Test case",
+                    "modifiedBy": "67fcd112d1b76ee1a98a21e7",
+                    "__v": 0
+                },
+                {
+                    "_id": "684fbdf3a00debf3efef2501",
+                    "name": "Add manually",
+                    "elementRepoId": "684fbdf3a00debf3efef2354",
+                    "elementId": "684fbdf3a00debf3efef23e0",
+                    "stepNo": 18,
+                    "keywordVal": "click",
+                    "appType": "Web",
+                    "inputVal": [
+                        ""
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "684fbdf3a00debf3efef24ee",
+                    "parentName": "Test case",
+                    "modifiedBy": "67fcd112d1b76ee1a98a21e7",
+                    "__v": 0
+                },
+                {
+                    "_id": "684fbdf3a00debf3efef2502",
+                    "name": "@Generic",
+                    "elementRepoId": "684fbdf3a00debf3efef2354",
+                    "elementId": "684fbdf3a00debf3efef23eb",
+                    "stepNo": 19,
+                    "keywordVal": "compareJsonContent",
+                    "appType": "Generic",
+                    "inputVal": [
+                        ""
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "684fbdf3a00debf3efef24ee",
+                    "parentName": "Test case",
+                    "modifiedBy": "67fcd112d1b76ee1a98a21e7",
+                    "__v": 0
+                },
+                {
+                    "_id": "684fbdf3a00debf3efef2503",
+                    "name": "@Browser",
+                    "elementRepoId": "684fbdf3a00debf3efef2354",
+                    "elementId": "684fbdf3a00debf3efef23f6",
+                    "stepNo": 21,
+                    "keywordVal": "click",
+                    "appType": "Web",
+                    "inputVal": [
+                        ""
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "684fbdf3a00debf3efef24ee",
+                    "parentName": "Test case",
+                    "modifiedBy": "67fcd112d1b76ee1a98a21e7",
+                    "__v": 0
+                },
+                {
+                    "_id": "684fbdf3a00debf3efef2504",
+                    "name": "add_new_icon",
+                    "elementRepoId": "684fbdf3a00debf3efef2354",
+                    "elementId": "684fbdf3a00debf3efef2401",
+                    "stepNo": 22,
+                    "keywordVal": "click",
+                    "appType": "Web",
+                    "inputVal": [
+                        ""
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "684fbdf3a00debf3efef24ee",
+                    "parentName": "Test case",
+                    "modifiedBy": "67fcd112d1b76ee1a98a21e7",
+                    "__v": 0
+                },
+                {
+                    "_id": "684fbdf3a00debf3efef2505",
+                    "name": "Add step manually",
+                    "elementRepoId": "684fbdf3a00debf3efef2354",
+                    "elementId": "684fbdf3a00debf3efef240c",
+                    "stepNo": 23,
+                    "keywordVal": "click",
+                    "appType": "Web",
+                    "inputVal": [
+                        ""
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "684fbdf3a00debf3efef24ee",
+                    "parentName": "Test case",
+                    "modifiedBy": "67fcd112d1b76ee1a98a21e7",
+                    "__v": 0
+                },
+                {
+                    "_id": "684fbdf3a00debf3efef2506",
+                    "name": "@Generic_35",
+                    "elementRepoId": "684fbdf3a00debf3efef2354",
+                    "elementId": "684fbdf3a00debf3efef2417",
+                    "stepNo": 24,
+                    "keywordVal": "click",
+                    "appType": "Web",
+                    "inputVal": [
+                        ""
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "684fbdf3a00debf3efef24ee",
+                    "parentName": "Test case",
+                    "modifiedBy": "67fcd112d1b76ee1a98a21e7",
+                    "__v": 0
+                },
+                {
+                    "_id": "684fbdf3a00debf3efef2507",
+                    "name": "@Browser_36",
+                    "elementRepoId": "684fbdf3a00debf3efef2354",
+                    "elementId": "684fbdf3a00debf3efef2422",
+                    "stepNo": 25,
+                    "keywordVal": "click",
+                    "appType": "Web",
+                    "inputVal": [
+                        ""
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "684fbdf3a00debf3efef24ee",
+                    "parentName": "Test case",
+                    "modifiedBy": "67fcd112d1b76ee1a98a21e7",
+                    "__v": 0
+                },
+                {
+                    "_id": "684fbdf3a00debf3efef2508",
+                    "name": "Open Browser",
+                    "elementRepoId": "684fbdf3a00debf3efef2354",
+                    "elementId": "684fbdf3a00debf3efef242d",
+                    "stepNo": 26,
+                    "keywordVal": "click",
+                    "appType": "Web",
+                    "inputVal": [
+                        ""
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "684fbdf3a00debf3efef24ee",
+                    "parentName": "Test case",
+                    "modifiedBy": "67fcd112d1b76ee1a98a21e7",
+                    "__v": 0
+                },
+                {
+                    "_id": "684fbdf3a00debf3efef2509",
+                    "name": "Open Browser_37",
+                    "elementRepoId": "684fbdf3a00debf3efef2354",
+                    "elementId": "684fbdf3a00debf3efef2438",
+                    "stepNo": 27,
+                    "keywordVal": "click",
+                    "appType": "Web",
+                    "inputVal": [
+                        ""
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "684fbdf3a00debf3efef24ee",
+                    "parentName": "Test case",
+                    "modifiedBy": "67fcd112d1b76ee1a98a21e7",
+                    "__v": 0
+                },
+                {
+                    "_id": "684fbdf3a00debf3efef250a",
+                    "name": "Navigate to URL",
+                    "elementRepoId": "684fbdf3a00debf3efef2354",
+                    "elementId": "684fbdf3a00debf3efef2443",
+                    "stepNo": 28,
+                    "keywordVal": "click",
+                    "appType": "Web",
+                    "inputVal": [
+                        ""
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "684fbdf3a00debf3efef24ee",
+                    "parentName": "Test case",
+                    "modifiedBy": "67fcd112d1b76ee1a98a21e7",
+                    "__v": 0
+                },
+                {
+                    "_id": "684fbdf3a00debf3efef250b",
+                    "name": "Save",
+                    "elementRepoId": "684fbdf3a00debf3efef2354",
+                    "elementId": "684fbdf3a00debf3efef244e",
+                    "stepNo": 29,
+                    "keywordVal": "click",
+                    "appType": "Web",
+                    "inputVal": [
+                        ""
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "684fbdf3a00debf3efef24ee",
+                    "parentName": "Test case",
+                    "modifiedBy": "67fcd112d1b76ee1a98a21e7",
+                    "__v": 0
+                },
+                {
+                    "_id": "684fbdf3a00debf3efef250f",
+                    "name": "check selected1",
+                    "elementRepoId": "",
+                    "elementId": "",
+                    "stepNo": 33,
+                    "keywordVal": "click",
+                    "appType": "Web",
+                    "inputVal": [
+                        ""
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "684fbdf3a00debf3efef24ee",
+                    "parentName": "Test case",
+                    "modifiedBy": "67fcd112d1b76ee1a98a21e7",
+                    "__v": 0
+                },
+                {
+                    "_id": "684fbdf3a00debf3efef2510",
+                    "name": "Check Select2",
+                    "elementRepoId": "",
+                    "elementId": "",
+                    "stepNo": 34,
+                    "keywordVal": "click",
+                    "appType": "Web",
+                    "inputVal": [
+                        ""
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "684fbdf3a00debf3efef24ee",
+                    "parentName": "Test case",
+                    "modifiedBy": "67fcd112d1b76ee1a98a21e7",
+                    "__v": 0
+                },
+                {
+                    "_id": "684fbdf3a00debf3efef2512",
+                    "name": "create_folder_blue_icon",
+                    "elementRepoId": "684fbdf3a00debf3efef2354",
+                    "elementId": "684fbdf3a00debf3efef249b",
+                    "stepNo": 36,
+                    "keywordVal": "click",
+                    "appType": "Web",
+                    "inputVal": [
+                        ""
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "684fbdf3a00debf3efef24ee",
+                    "parentName": "Test case",
+                    "modifiedBy": "67fcd112d1b76ee1a98a21e7",
+                    "__v": 0
+                },
+                {
+                    "_id": "684fbdf3a00debf3efef2513",
+                    "name": "Add from repository",
+                    "elementRepoId": "684fbdf3a00debf3efef2354",
+                    "elementId": "684fbdf3a00debf3efef24a6",
+                    "stepNo": 37,
+                    "keywordVal": "click",
+                    "appType": "Web",
+                    "inputVal": [
+                        ""
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "684fbdf3a00debf3efef24ee",
+                    "parentName": "Test case",
+                    "modifiedBy": "67fcd112d1b76ee1a98a21e7",
+                    "__v": 0
+                },
+                {
+                    "_id": "684fbdf3a00debf3efef2516",
+                    "name": "save_new_icon",
+                    "elementRepoId": "684fbdf3a00debf3efef2354",
+                    "elementId": "684fbdf3a00debf3efef24c7",
+                    "stepNo": 40,
+                    "keywordVal": "click",
+                    "appType": "Web",
+                    "inputVal": [
+                        ""
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "684fbdf3a00debf3efef24ee",
+                    "parentName": "Test case",
+                    "modifiedBy": "67fcd112d1b76ee1a98a21e7",
+                    "__v": 0
+                },
+                {
+                    "_id": "684fbdf3a00debf3efef2517",
+                    "name": "export",
+                    "elementRepoId": "684fbdf3a00debf3efef2354",
+                    "elementId": "684fbdf3a00debf3efef24d2",
+                    "stepNo": 41,
+                    "keywordVal": "click",
+                    "appType": "Web",
+                    "inputVal": [
+                        ""
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "684fbdf3a00debf3efef24ee",
+                    "parentName": "Test case",
+                    "modifiedBy": "67fcd112d1b76ee1a98a21e7",
+                    "__v": 0
+                },
+                {
+                    "_id": "684fbdf3a00debf3efef2518",
+                    "name": "Export",
+                    "elementRepoId": "684fbdf3a00debf3efef2354",
+                    "elementId": "684fbdf3a00debf3efef24dd",
+                    "stepNo": 42,
+                    "keywordVal": "click",
+                    "appType": "Web",
+                    "inputVal": [
+                        ""
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "684fbdf3a00debf3efef24ee",
+                    "parentName": "Test case",
+                    "modifiedBy": "67fcd112d1b76ee1a98a21e7",
+                    "__v": 0
+                },
+                {
+                    "_id": "684fbe88a00debf3efef27ef",
+                    "name": "Enter Folder Name",
+                    "elementRepoId": "684fbdf3a00debf3efef2354",
+                    "elementId": "684fbdf3a00debf3efef237d",
+                    "stepNo": 5,
+                    "keywordVal": "setText",
+                    "appType": "Web",
+                    "inputVal": [
+                        "Test case 1"
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "684fbdf3a00debf3efef24ee",
+                    "parentName": "Test case",
+                    "modifiedBy": "67fcd112d1b76ee1a98a21e7",
+                    "__v": 0
+                },
+                {
+                    "_id": "684fbef2a00debf3efef2923",
+                    "name": "Enter Test case Name",
+                    "elementRepoId": "684fbdf3a00debf3efef2354",
+                    "elementId": "684fbdf3a00debf3efef2393",
+                    "stepNo": 9,
+                    "keywordVal": "setText",
+                    "appType": "Web",
+                    "inputVal": [
+                        "TC1"
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "684fbdf3a00debf3efef24ee",
+                    "parentName": "Test case",
+                    "modifiedBy": "67fcd112d1b76ee1a98a21e7",
+                    "__v": 0
+                },
+                {
+                    "_id": "684fbef2a00debf3efef2924",
+                    "name": "inputNONAME1",
+                    "elementRepoId": "684fbdf3a00debf3efef2354",
+                    "elementId": "684fbdf3a00debf3efef23b4",
+                    "stepNo": 14,
+                    "keywordVal": "setText",
+                    "appType": "Web",
+                    "inputVal": [
+                        "TSG1"
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "684fbdf3a00debf3efef24ee",
+                    "parentName": "Test case",
+                    "modifiedBy": "67fcd112d1b76ee1a98a21e7",
+                    "__v": 0
+                },
+                {
+                    "_id": "684fc16aa00debf3efef2ec6",
+                    "name": "Save",
+                    "elementRepoId": "684fbdf3a00debf3efef2354",
+                    "elementId": "684fbdf3a00debf3efef244e",
+                    "stepNo": 20,
+                    "keywordVal": "click",
+                    "appType": "Web",
+                    "inputVal": [
+                        ""
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "684fbdf3a00debf3efef24ee",
+                    "parentName": "Test case",
+                    "modifiedBy": "67fcd112d1b76ee1a98a21e7",
+                    "__v": 0
+                },
+                {
+                    "_id": "684fc3fea00debf3efef4177",
+                    "name": " Repo 1 Drag",
+                    "elementRepoId": "684fc2eba00debf3efef3c83",
+                    "elementId": "684fc3ada00debf3efef3f8e",
+                    "stepNo": 38,
+                    "keywordVal": "drag",
+                    "appType": "Web",
+                    "inputVal": [
+                        ""
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "684fbdf3a00debf3efef24ee",
+                    "parentName": "Test case",
+                    "modifiedBy": "67fcd112d1b76ee1a98a21e7",
+                    "__v": 0
+                },
+                {
+                    "_id": "684fc428a00debf3efef4224",
+                    "name": "Open Browser",
+                    "elementRepoId": "684fbdf3a00debf3efef2354",
+                    "elementId": "684fbdf3a00debf3efef242d",
+                    "stepNo": 39,
+                    "keywordVal": "drop",
+                    "appType": "Web",
+                    "inputVal": [
+                        ""
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "684fbdf3a00debf3efef24ee",
+                    "parentName": "Test case",
+                    "modifiedBy": "67fcd112d1b76ee1a98a21e7",
+                    "__v": 0
+                },
+                {
+                    "_id": "684fc7faa00debf3efef6fce",
+                    "name": "import",
+                    "elementRepoId": "684fbdf3a00debf3efef2354",
+                    "elementId": "684fbdf3a00debf3efef2459",
+                    "stepNo": 30,
+                    "keywordVal": "click",
+                    "appType": "Web",
+                    "inputVal": [
+                        ""
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "684fbdf3a00debf3efef24ee",
+                    "parentName": "Test case",
+                    "modifiedBy": "67fcd112d1b76ee1a98a21e7",
+                    "__v": 0
+                },
+                {
+                    "_id": "684fc7faa00debf3efef6fcf",
+                    "name": "Upload File (Only .json):",
+                    "elementRepoId": "684fbdf3a00debf3efef2354",
+                    "elementId": "684fbdf3a00debf3efef2464",
+                    "stepNo": 31,
+                    "keywordVal": "uploadFile",
+                    "appType": "Web",
+                    "inputVal": [
+                        "C:\\Users\\nagendra.r\\Downloads;Dataparam.json"
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "684fbdf3a00debf3efef24ee",
+                    "parentName": "Test case",
+                    "modifiedBy": "67fcd112d1b76ee1a98a21e7",
+                    "__v": 0
+                },
+                {
+                    "_id": "684fc7faa00debf3efef6fd0",
+                    "name": "NONAME1",
+                    "elementRepoId": "684fbdf3a00debf3efef2354",
+                    "elementId": "684fbdf3a00debf3efef246f",
+                    "stepNo": 32,
+                    "keywordVal": "clickElement",
+                    "appType": "Web",
+                    "inputVal": [
+                        ""
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "684fbdf3a00debf3efef24ee",
+                    "parentName": "Test case",
+                    "modifiedBy": "67fcd112d1b76ee1a98a21e7",
+                    "__v": 0
+                },
+                {
+                    "_id": "684fc7faa00debf3efef6fd1",
+                    "name": "Import",
+                    "elementRepoId": "684fbdf3a00debf3efef2354",
+                    "elementId": "684fbdf3a00debf3efef2490",
+                    "stepNo": 35,
+                    "keywordVal": "clickElement",
+                    "appType": "Web",
+                    "inputVal": [
+                        ""
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "684fbdf3a00debf3efef24ee",
+                    "parentName": "Test case",
+                    "modifiedBy": "67fcd112d1b76ee1a98a21e7",
+                    "__v": 0
+                }
+            ],
+            "__v": 0
+        },
+        {
+            "_id": "684fc64ca00debf3efef6a5d",
+            "name": "TC 1",
+            "projectId": "68355fe5d9d9f7a5ff38b34a",
+            "testCaseId": "6835a5af0aa7c448e548b524",
+            "appType": "Web",
+            "assignedTo": "nagendra",
+            "groupIndex": 2,
+            "createdBy": "67fcd112d1b76ee1a98a21e7",
+            "createdByRole": "5db0022cf87fdec084ae49ab",
+            "modifiedBy": "67fcd112d1b76ee1a98a21e7",
+            "modifiedByRole": "5db0022cf87fdec084ae49ab",
+            "createdOn": "2025-06-16T08:55:35.464Z",
+            "displayOn": "2025-06-16T08:55:35.464Z",
+            "modifiedOn": "2025-06-16T08:55:35.464Z",
+            "testSteps": [
+                {
+                    "_id": "684fc64ca00debf3efef6a60",
+                    "name": "on1",
+                    "elementRepoId": "684fc503a00debf3efef490c",
+                    "elementId": "684fc627a00debf3efef68db",
+                    "stepNo": 1,
+                    "keywordVal": "selectCheckbox",
+                    "appType": "Web",
+                    "inputVal": [
+                        ""
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "684fc64ca00debf3efef6a5d",
+                    "parentName": "TC 1",
+                    "modifiedBy": "67fcd112d1b76ee1a98a21e7",
+                    "__v": 0
+                },
+                {
+                    "_id": "684fc64ca00debf3efef6a61",
+                    "name": "on2",
+                    "elementRepoId": "684fc503a00debf3efef490c",
+                    "elementId": "684fc627a00debf3efef68e6",
+                    "stepNo": 2,
+                    "keywordVal": "selectCheckbox",
+                    "appType": "Web",
+                    "inputVal": [
+                        ""
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "684fc64ca00debf3efef6a5d",
+                    "parentName": "TC 1",
+                    "modifiedBy": "67fcd112d1b76ee1a98a21e7",
+                    "__v": 0
+                },
+                {
+                    "_id": "684fc64ca00debf3efef6a62",
+                    "name": "on3",
+                    "elementRepoId": "684fc503a00debf3efef490c",
+                    "elementId": "684fc627a00debf3efef68f1",
+                    "stepNo": 3,
+                    "keywordVal": "selectCheckbox",
+                    "appType": "Web",
+                    "inputVal": [
+                        ""
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "684fc64ca00debf3efef6a5d",
+                    "parentName": "TC 1",
+                    "modifiedBy": "67fcd112d1b76ee1a98a21e7",
+                    "__v": 0
+                },
+                {
+                    "_id": "684fc64ca00debf3efef6a63",
+                    "name": "delete_new_icon",
+                    "elementRepoId": "684fc503a00debf3efef490c",
+                    "elementId": "684fc627a00debf3efef68fc",
+                    "stepNo": 4,
+                    "keywordVal": "click",
+                    "appType": "Web",
+                    "inputVal": [
+                        ""
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "684fc64ca00debf3efef6a5d",
+                    "parentName": "TC 1",
+                    "modifiedBy": "67fcd112d1b76ee1a98a21e7",
+                    "__v": 0
+                },
+                {
+                    "_id": "684fc64ca00debf3efef6a64",
+                    "name": "OK",
+                    "elementRepoId": "684fc503a00debf3efef490c",
+                    "elementId": "684fc627a00debf3efef6907",
+                    "stepNo": 5,
+                    "keywordVal": "clickElement",
+                    "appType": "Web",
+                    "inputVal": [
+                        ""
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "684fc64ca00debf3efef6a5d",
+                    "parentName": "TC 1",
+                    "modifiedBy": "67fcd112d1b76ee1a98a21e7",
+                    "__v": 0
+                },
+                {
+                    "_id": "684fc64ca00debf3efef6a65",
+                    "name": "Debug",
+                    "elementRepoId": "684fc503a00debf3efef490c",
+                    "elementId": "684fc627a00debf3efef6912",
+                    "stepNo": 10,
+                    "keywordVal": "clickElement",
+                    "appType": "Web",
+                    "inputVal": [
+                        ""
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "684fc64ca00debf3efef6a5d",
+                    "parentName": "TC 1",
+                    "modifiedBy": "67fcd112d1b76ee1a98a21e7",
+                    "__v": 0
+                },
+                {
+                    "_id": "684fc64ca00debf3efef6a67",
+                    "name": "Debug_full",
+                    "elementRepoId": "684fc503a00debf3efef490c",
+                    "elementId": "684fc627a00debf3efef6928",
+                    "stepNo": 12,
+                    "keywordVal": "clickElement",
+                    "appType": "Web",
+                    "inputVal": [
+                        ""
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "684fc64ca00debf3efef6a5d",
+                    "parentName": "TC 1",
+                    "modifiedBy": "67fcd112d1b76ee1a98a21e7",
+                    "__v": 0
+                },
+                {
+                    "_id": "684fc842a00debf3efef7112",
+                    "name": "import",
+                    "elementRepoId": "684fbdf3a00debf3efef2354",
+                    "elementId": "684fbdf3a00debf3efef2459",
+                    "stepNo": 6,
+                    "keywordVal": "click",
+                    "appType": "Web",
+                    "inputVal": [
+                        ""
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "684fc64ca00debf3efef6a5d",
+                    "parentName": "TC 1",
+                    "modifiedBy": "67fcd112d1b76ee1a98a21e7",
+                    "__v": 0
+                },
+                {
+                    "_id": "684fc842a00debf3efef7113",
+                    "name": "Upload File (Only .json):",
+                    "elementRepoId": "684fbdf3a00debf3efef2354",
+                    "elementId": "684fbdf3a00debf3efef2464",
+                    "stepNo": 7,
+                    "keywordVal": "uploadFile",
+                    "appType": "Web",
+                    "inputVal": [
+                        "C:\\Users\\nagendra.r\\Downloads;Dataparam.json"
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "684fc64ca00debf3efef6a5d",
+                    "parentName": "TC 1",
+                    "modifiedBy": "67fcd112d1b76ee1a98a21e7",
+                    "__v": 0
+                },
+                {
+                    "_id": "684fc842a00debf3efef7114",
+                    "name": "NONAME1",
+                    "elementRepoId": "684fbdf3a00debf3efef2354",
+                    "elementId": "684fbdf3a00debf3efef246f",
+                    "stepNo": 8,
+                    "keywordVal": "clickElement",
+                    "appType": "Web",
+                    "inputVal": [
+                        ""
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "684fc64ca00debf3efef6a5d",
+                    "parentName": "TC 1",
+                    "modifiedBy": "67fcd112d1b76ee1a98a21e7",
+                    "__v": 0
+                },
+                {
+                    "_id": "684fc842a00debf3efef7115",
+                    "name": "Import",
+                    "elementRepoId": "684fbdf3a00debf3efef2354",
+                    "elementId": "684fbdf3a00debf3efef2490",
+                    "stepNo": 9,
+                    "keywordVal": "clickElement",
+                    "appType": "Web",
+                    "inputVal": [
+                        ""
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "684fc64ca00debf3efef6a5d",
+                    "parentName": "TC 1",
+                    "modifiedBy": "67fcd112d1b76ee1a98a21e7",
+                    "__v": 0
+                },
+                {
+                    "_id": "684fdc07f215ceedc289e69b",
+                    "name": "on_All",
+                    "elementRepoId": "684fdb5df215ceedc289e1b9",
+                    "elementId": "684fdbb8f215ceedc289e3d4",
+                    "stepNo": 11,
+                    "keywordVal": "selectCheckbox",
+                    "appType": "Web",
+                    "inputVal": [
+                        ""
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "684fc64ca00debf3efef6a5d",
+                    "parentName": "TC 1",
+                    "modifiedBy": "67fcd112d1b76ee1a98a21e7",
+                    "__v": 0
+                }
+            ],
+            "__v": 0
+        }
+    ],
+    "associatedrepopaths": [
+        "Admin Screen/Automateqa Login",
+        "Admin Screen/User Creation",
+        "Admin Screen/Logout",
+        "Imported Login/Creating a new Project",
+        "Imported Login/Design Studio (ER)",
+        "Admin Screen/Accept Policy Download client",
+        "Element Repository/Creating Folder",
+        "Admin Screen/User Delete",
+        "Execution Profile/Testcase Creation",
+        "Execution Profile/Add Testcase to list",
+        "AvoGenius_ER and TC_Prateek/Avo Assure",
+        "AvoGenius_ER and TC_Prateek/Extra",
+        "Avo Client/Client Install",
+        "Element Repository/Importing",
+        "Element Repository/Selfheal",
+        "AvoGenius_Test Case (Prateek)/Avo Assure",
+        "Test Case/Drag and Drop",
+        "Test Case/Delete all",
+        "Test Case/Debug",
+        "AvoGenius_Logout/Avo Assure",
+        "AvoGenius_Login/Avo Assure"
+    ],
+    "associated": [
+        "elementRepositories\\AvoGenius_Test Case (Prateek)\\Avo Assure.json",
+        "elementRepositories\\Test Case\\Drag and Drop.json",
+        "elementRepositories\\Test Case\\Delete all.json",
+        "elementRepositories\\Test Case\\Debug.json"
+    ]
+}

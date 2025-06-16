@@ -1,0 +1,125 @@
+{
+    "_id": "684fdc30f215ceedc289e86f",
+    "name": "Logout",
+    "projectId": "68355fe5d9d9f7a5ff38b34a",
+    "testCaseFolderId": "683562b0d9d9f7a5ff38b6d9",
+    "appType": "Web",
+    "assignedTo": "nagendra",
+    "description": "",
+    "createdOn": "2025-06-16T08:56:16.412Z",
+    "displayOn": "2025-06-16T08:56:16.412Z",
+    "createdBy": "67fcd112d1b76ee1a98a21e7",
+    "createdByRole": "5db0022cf87fdec084ae49ab",
+    "modifiedBy": "67fcd112d1b76ee1a98a21e7",
+    "modifiedByRole": "5db0022cf87fdec084ae49ab",
+    "modifiedOn": "2025-06-16T09:10:24.513Z",
+    "isTestCaseRecoveryStep": false,
+    "tag": [],
+    "versions": [],
+    "__v": 0,
+    "parentPath": "Automate QA",
+    "testStepGroups": [
+        {
+            "_id": "684fdc53f215ceedc289ea03",
+            "name": "Avo Assure",
+            "projectId": "68355fe5d9d9f7a5ff38b34a",
+            "testCaseId": "684fdc30f215ceedc289e86f",
+            "appType": "Web",
+            "assignedTo": "",
+            "groupIndex": 1,
+            "createdBy": "67fcd112d1b76ee1a98a21e7",
+            "createdByRole": "5db0022cf87fdec084ae49ab",
+            "modifiedBy": "67fcd112d1b76ee1a98a21e7",
+            "modifiedByRole": "5db0022cf87fdec084ae49ab",
+            "createdOn": "2025-06-16T08:56:51.130Z",
+            "displayOn": "2025-06-16T08:56:51.130Z",
+            "modifiedOn": "2025-06-16T08:56:51.130Z",
+            "testSteps": [
+                {
+                    "_id": "684fdc53f215ceedc289ea08",
+                    "name": "PH",
+                    "elementRepoId": "684fdc52f215ceedc289e9d2",
+                    "elementId": "684fdc52f215ceedc289e9da",
+                    "stepNo": 1,
+                    "keywordVal": "click",
+                    "appType": "Web",
+                    "inputVal": [
+                        ""
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "684fdc53f215ceedc289ea03",
+                    "parentName": "Avo Assure",
+                    "modifiedBy": "67fcd112d1b76ee1a98a21e7",
+                    "__v": 0
+                },
+                {
+                    "_id": "684fdc53f215ceedc289ea09",
+                    "name": "Log Out",
+                    "elementRepoId": "684fdc52f215ceedc289e9d2",
+                    "elementId": "684fdc52f215ceedc289e9e5",
+                    "stepNo": 2,
+                    "keywordVal": "click",
+                    "appType": "Web",
+                    "inputVal": [
+                        ""
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "684fdc53f215ceedc289ea03",
+                    "parentName": "Avo Assure",
+                    "modifiedBy": "67fcd112d1b76ee1a98a21e7",
+                    "__v": 0
+                },
+                {
+                    "_id": "684fdc53f215ceedc289ea0a",
+                    "name": "Yes",
+                    "elementRepoId": "684fdc52f215ceedc289e9d2",
+                    "elementId": "684fdc52f215ceedc289e9f0",
+                    "stepNo": 3,
+                    "keywordVal": "click",
+                    "appType": "Web",
+                    "inputVal": [
+                        ""
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "684fdc53f215ceedc289ea03",
+                    "parentName": "Avo Assure",
+                    "modifiedBy": "67fcd112d1b76ee1a98a21e7",
+                    "__v": 0
+                }
+            ],
+            "__v": 0
+        }
+    ],
+    "associatedrepopaths": [
+        "Admin Screen/Automateqa Login",
+        "Admin Screen/User Creation",
+        "Admin Screen/Logout",
+        "Imported Login/Creating a new Project",
+        "Imported Login/Design Studio (ER)",
+        "Admin Screen/Accept Policy Download client",
+        "Element Repository/Creating Folder",
+        "Admin Screen/User Delete",
+        "Execution Profile/Testcase Creation",
+        "Execution Profile/Add Testcase to list",
+        "AvoGenius_ER and TC_Prateek/Avo Assure",
+        "AvoGenius_ER and TC_Prateek/Extra",
+        "Avo Client/Client Install",
+        "Element Repository/Importing",
+        "Element Repository/Selfheal",
+        "AvoGenius_Test Case (Prateek)/Avo Assure",
+        "Test Case/Drag and Drop",
+        "Test Case/Delete all",
+        "Test Case/Debug",
+        "AvoGenius_Logout/Avo Assure",
+        "AvoGenius_Login/Avo Assure"
+    ],
+    "associated": [
+        "elementRepositories\\AvoGenius_Logout\\Avo Assure.json"
+    ]
+}

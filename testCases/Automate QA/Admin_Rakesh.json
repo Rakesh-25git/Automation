@@ -1,0 +1,1002 @@
+{
+    "_id": "683562bfd9d9f7a5ff38b6ed",
+    "name": "Admin_Rakesh",
+    "projectId": "68355fe5d9d9f7a5ff38b34a",
+    "testCaseFolderId": "683562b0d9d9f7a5ff38b6d9",
+    "appType": "Web",
+    "assignedTo": "nagendra",
+    "description": "",
+    "createdOn": "2025-05-27T06:59:11.486Z",
+    "displayOn": "2025-05-27T06:59:11.486Z",
+    "createdBy": "677b5757e630ee1a15602a19",
+    "createdByRole": "5db0022cf87fdec084ae49ab",
+    "modifiedBy": "67fcd112d1b76ee1a98a21e7",
+    "modifiedByRole": "5db0022cf87fdec084ae49ab",
+    "modifiedOn": "2025-06-13T12:12:35.879Z",
+    "isTestCaseRecoveryStep": false,
+    "tag": [],
+    "versions": [],
+    "__v": 0,
+    "parentPath": "Automate QA",
+    "testStepGroups": [
+        {
+            "_id": "68356306d9d9f7a5ff38b711",
+            "name": "Login to admin",
+            "projectId": "68355fe5d9d9f7a5ff38b34a",
+            "testCaseId": "683562bfd9d9f7a5ff38b6ed",
+            "appType": "Web",
+            "assignedTo": "nagendra",
+            "groupIndex": 1,
+            "createdBy": "67fcd112d1b76ee1a98a21e7",
+            "createdByRole": "5db0022cf87fdec084ae49ab",
+            "modifiedBy": "67fcd112d1b76ee1a98a21e7",
+            "modifiedByRole": "5db0022cf87fdec084ae49ab",
+            "createdOn": "2025-06-13T12:12:35.846Z",
+            "displayOn": "2025-06-13T12:12:35.846Z",
+            "modifiedOn": "2025-06-13T12:12:35.846Z",
+            "testSteps": [
+                {
+                    "_id": "68356306d9d9f7a5ff38b714",
+                    "name": "@Browser",
+                    "elementRepoId": "",
+                    "elementId": "",
+                    "stepNo": 1,
+                    "keywordVal": "openBrowser",
+                    "appType": "Web",
+                    "inputVal": [
+                        ""
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "68356306d9d9f7a5ff38b711",
+                    "parentName": "Login to admin",
+                    "modifiedBy": "67fcd112d1b76ee1a98a21e7",
+                    "__v": 0
+                },
+                {
+                    "_id": "68356306d9d9f7a5ff38b715",
+                    "name": "@Browser",
+                    "elementRepoId": "",
+                    "elementId": "",
+                    "stepNo": 2,
+                    "keywordVal": "navigateToURL",
+                    "appType": "Web",
+                    "inputVal": [
+                        "https://automateqa.avoassurecloud.com"
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "68356306d9d9f7a5ff38b711",
+                    "parentName": "Login to admin",
+                    "modifiedBy": "67fcd112d1b76ee1a98a21e7",
+                    "__v": 0
+                },
+                {
+                    "_id": "68356306d9d9f7a5ff38b716",
+                    "name": "Username",
+                    "elementRepoId": "68356027d9d9f7a5ff38b3b4",
+                    "elementId": "6835609ad9d9f7a5ff38b422",
+                    "stepNo": 3,
+                    "keywordVal": "setText",
+                    "appType": "Web",
+                    "inputVal": [
+                        "admin"
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "68356306d9d9f7a5ff38b711",
+                    "parentName": "Login to admin",
+                    "modifiedBy": "67fcd112d1b76ee1a98a21e7",
+                    "__v": 0
+                },
+                {
+                    "_id": "68356306d9d9f7a5ff38b717",
+                    "name": "Password",
+                    "elementRepoId": "68356027d9d9f7a5ff38b3b4",
+                    "elementId": "6835609ad9d9f7a5ff38b42d",
+                    "stepNo": 4,
+                    "keywordVal": "setText",
+                    "appType": "Web",
+                    "inputVal": [
+                        "We!c0me@dmin"
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "68356306d9d9f7a5ff38b711",
+                    "parentName": "Login to admin",
+                    "modifiedBy": "67fcd112d1b76ee1a98a21e7",
+                    "__v": 0
+                },
+                {
+                    "_id": "68356306d9d9f7a5ff38b718",
+                    "name": "Login",
+                    "elementRepoId": "68356027d9d9f7a5ff38b3b4",
+                    "elementId": "6835609ad9d9f7a5ff38b438",
+                    "stepNo": 5,
+                    "keywordVal": "press",
+                    "appType": "Web",
+                    "inputVal": [
+                        ""
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "68356306d9d9f7a5ff38b711",
+                    "parentName": "Login to admin",
+                    "modifiedBy": "67fcd112d1b76ee1a98a21e7",
+                    "__v": 0
+                }
+            ],
+            "__v": 0
+        },
+        {
+            "_id": "683563bed9d9f7a5ff38b748",
+            "name": "Create User",
+            "projectId": "68355fe5d9d9f7a5ff38b34a",
+            "testCaseId": "683562bfd9d9f7a5ff38b6ed",
+            "appType": "Web",
+            "assignedTo": "nagendra",
+            "groupIndex": 2,
+            "createdBy": "67fcd112d1b76ee1a98a21e7",
+            "createdByRole": "5db0022cf87fdec084ae49ab",
+            "modifiedBy": "67fcd112d1b76ee1a98a21e7",
+            "modifiedByRole": "5db0022cf87fdec084ae49ab",
+            "createdOn": "2025-06-13T12:12:35.854Z",
+            "displayOn": "2025-06-13T12:12:35.854Z",
+            "modifiedOn": "2025-06-13T12:12:35.854Z",
+            "testSteps": [
+                {
+                    "_id": "683563dad9d9f7a5ff38b765",
+                    "name": "User management",
+                    "elementRepoId": "683560f7d9d9f7a5ff38b47b",
+                    "elementId": "68356170d9d9f7a5ff38b513",
+                    "stepNo": 1,
+                    "keywordVal": "clickElement",
+                    "appType": "Web",
+                    "inputVal": [
+                        ""
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "683563bed9d9f7a5ff38b748",
+                    "parentName": "Create User",
+                    "modifiedBy": "67fcd112d1b76ee1a98a21e7",
+                    "__v": 0
+                },
+                {
+                    "_id": "683563dad9d9f7a5ff38b766",
+                    "name": "Users Lists",
+                    "elementRepoId": "683560f7d9d9f7a5ff38b47b",
+                    "elementId": "6835621dd9d9f7a5ff38b5ef",
+                    "stepNo": 2,
+                    "keywordVal": "clickElement",
+                    "appType": "Web",
+                    "inputVal": [
+                        ""
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "683563bed9d9f7a5ff38b748",
+                    "parentName": "Create User",
+                    "modifiedBy": "67fcd112d1b76ee1a98a21e7",
+                    "__v": 0
+                },
+                {
+                    "_id": "683563dad9d9f7a5ff38b767",
+                    "name": "create",
+                    "elementRepoId": "683560f7d9d9f7a5ff38b47b",
+                    "elementId": "6835621dd9d9f7a5ff38b5fa",
+                    "stepNo": 3,
+                    "keywordVal": "click",
+                    "appType": "Web",
+                    "inputVal": [
+                        ""
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "683563bed9d9f7a5ff38b748",
+                    "parentName": "Create User",
+                    "modifiedBy": "67fcd112d1b76ee1a98a21e7",
+                    "__v": 0
+                },
+                {
+                    "_id": "683563dad9d9f7a5ff38b769",
+                    "name": "User Name *",
+                    "elementRepoId": "683560f7d9d9f7a5ff38b47b",
+                    "elementId": "6835621dd9d9f7a5ff38b61b",
+                    "stepNo": 6,
+                    "keywordVal": "setText",
+                    "appType": "Web",
+                    "inputVal": [
+                        "{User}"
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "683563bed9d9f7a5ff38b748",
+                    "parentName": "Create User",
+                    "modifiedBy": "67fcd112d1b76ee1a98a21e7",
+                    "__v": 0
+                },
+                {
+                    "_id": "683563dad9d9f7a5ff38b76a",
+                    "name": "Email Id *",
+                    "elementRepoId": "683560f7d9d9f7a5ff38b47b",
+                    "elementId": "6835621dd9d9f7a5ff38b626",
+                    "stepNo": 7,
+                    "keywordVal": "setText",
+                    "appType": "Web",
+                    "inputVal": [
+                        "{User}@gmail.com"
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "683563bed9d9f7a5ff38b748",
+                    "parentName": "Create User",
+                    "modifiedBy": "67fcd112d1b76ee1a98a21e7",
+                    "__v": 0
+                },
+                {
+                    "_id": "683563dad9d9f7a5ff38b76b",
+                    "name": "First Name *",
+                    "elementRepoId": "683560f7d9d9f7a5ff38b47b",
+                    "elementId": "6835621dd9d9f7a5ff38b631",
+                    "stepNo": 8,
+                    "keywordVal": "setText",
+                    "appType": "Web",
+                    "inputVal": [
+                        "{User}"
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "683563bed9d9f7a5ff38b748",
+                    "parentName": "Create User",
+                    "modifiedBy": "67fcd112d1b76ee1a98a21e7",
+                    "__v": 0
+                },
+                {
+                    "_id": "683563dad9d9f7a5ff38b76c",
+                    "name": "Last Name *",
+                    "elementRepoId": "683560f7d9d9f7a5ff38b47b",
+                    "elementId": "6835621dd9d9f7a5ff38b63c",
+                    "stepNo": 9,
+                    "keywordVal": "setText",
+                    "appType": "Web",
+                    "inputVal": [
+                        "{Last}"
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "683563bed9d9f7a5ff38b748",
+                    "parentName": "Create User",
+                    "modifiedBy": "67fcd112d1b76ee1a98a21e7",
+                    "__v": 0
+                },
+                {
+                    "_id": "683563dad9d9f7a5ff38b76d",
+                    "name": "Enter Password",
+                    "elementRepoId": "683560f7d9d9f7a5ff38b47b",
+                    "elementId": "6835621dd9d9f7a5ff38b647",
+                    "stepNo": 12,
+                    "keywordVal": "setText",
+                    "appType": "Web",
+                    "inputVal": [
+                        "{Pwd}@{PwdNum}"
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "683563bed9d9f7a5ff38b748",
+                    "parentName": "Create User",
+                    "modifiedBy": "67fcd112d1b76ee1a98a21e7",
+                    "__v": 0
+                },
+                {
+                    "_id": "683563dad9d9f7a5ff38b76e",
+                    "name": "Enter Confirm Password",
+                    "elementRepoId": "683560f7d9d9f7a5ff38b47b",
+                    "elementId": "6835621dd9d9f7a5ff38b652",
+                    "stepNo": 13,
+                    "keywordVal": "setText",
+                    "appType": "Web",
+                    "inputVal": [
+                        "{Pwd}@{PwdNum}"
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "683563bed9d9f7a5ff38b748",
+                    "parentName": "Create User",
+                    "modifiedBy": "67fcd112d1b76ee1a98a21e7",
+                    "__v": 0
+                },
+                {
+                    "_id": "6835661fd9d9f7a5ff38b9b5",
+                    "name": "@Generic",
+                    "elementRepoId": "",
+                    "elementId": "",
+                    "stepNo": 4,
+                    "keywordVal": "stringGeneration",
+                    "appType": "Generic",
+                    "inputVal": [
+                        "Char;5"
+                    ],
+                    "outputVal": "{User}",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "683563bed9d9f7a5ff38b748",
+                    "parentName": "Create User",
+                    "modifiedBy": "67fcd112d1b76ee1a98a21e7",
+                    "__v": 0
+                },
+                {
+                    "_id": "6835661fd9d9f7a5ff38b9b6",
+                    "name": "@Generic",
+                    "elementRepoId": "",
+                    "elementId": "",
+                    "stepNo": 5,
+                    "keywordVal": "stringGeneration",
+                    "appType": "Generic",
+                    "inputVal": [
+                        "Char;4"
+                    ],
+                    "outputVal": "{Last}",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "683563bed9d9f7a5ff38b748",
+                    "parentName": "Create User",
+                    "modifiedBy": "67fcd112d1b76ee1a98a21e7",
+                    "__v": 0
+                },
+                {
+                    "_id": "6835661fd9d9f7a5ff38b9b7",
+                    "name": "@Generic",
+                    "elementRepoId": "",
+                    "elementId": "",
+                    "stepNo": 10,
+                    "keywordVal": "stringGeneration",
+                    "appType": "Generic",
+                    "inputVal": [
+                        "Char;6"
+                    ],
+                    "outputVal": "{Pwd}",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "683563bed9d9f7a5ff38b748",
+                    "parentName": "Create User",
+                    "modifiedBy": "67fcd112d1b76ee1a98a21e7",
+                    "__v": 0
+                },
+                {
+                    "_id": "683566dfd9d9f7a5ff38ba2b",
+                    "name": "@Generic",
+                    "elementRepoId": "",
+                    "elementId": "",
+                    "stepNo": 11,
+                    "keywordVal": "stringGeneration",
+                    "appType": "Generic",
+                    "inputVal": [
+                        "Num;4"
+                    ],
+                    "outputVal": "{PwdNum}",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "683563bed9d9f7a5ff38b748",
+                    "parentName": "Create User",
+                    "modifiedBy": "67fcd112d1b76ee1a98a21e7",
+                    "__v": 0
+                },
+                {
+                    "_id": "68356831d9d9f7a5ff38bc2e",
+                    "name": "Select Role1",
+                    "elementRepoId": "683560f7d9d9f7a5ff38b47b",
+                    "elementId": "68356810d9d9f7a5ff38bb77",
+                    "stepNo": 14,
+                    "keywordVal": "clickElement",
+                    "appType": "Web",
+                    "inputVal": [
+                        ""
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "683563bed9d9f7a5ff38b748",
+                    "parentName": "Create User",
+                    "modifiedBy": "67fcd112d1b76ee1a98a21e7",
+                    "__v": 0
+                },
+                {
+                    "_id": "68357bd0d9d9f7a5ff38c1e2",
+                    "name": "Quality Manager",
+                    "elementRepoId": "683560f7d9d9f7a5ff38b47b",
+                    "elementId": "683568e9d9d9f7a5ff38bc7e",
+                    "stepNo": 15,
+                    "keywordVal": "clickElement",
+                    "appType": "Web",
+                    "inputVal": [
+                        ""
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "683563bed9d9f7a5ff38b748",
+                    "parentName": "Create User",
+                    "modifiedBy": "67fcd112d1b76ee1a98a21e7",
+                    "__v": 0
+                },
+                {
+                    "_id": "68357ffcd9d9f7a5ff38c7b9",
+                    "name": "Create_User_Btn",
+                    "elementRepoId": "683560f7d9d9f7a5ff38b47b",
+                    "elementId": "68357d3fd9d9f7a5ff38c408",
+                    "stepNo": 17,
+                    "keywordVal": "click",
+                    "appType": "Web",
+                    "inputVal": [
+                        ""
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "683563bed9d9f7a5ff38b748",
+                    "parentName": "Create User",
+                    "modifiedBy": "67fcd112d1b76ee1a98a21e7",
+                    "__v": 0
+                },
+                {
+                    "_id": "68357ffcd9d9f7a5ff38c7ba",
+                    "name": "Copy_Token",
+                    "elementRepoId": "683560f7d9d9f7a5ff38b47b",
+                    "elementId": "68357d3fd9d9f7a5ff38c41e",
+                    "stepNo": 19,
+                    "keywordVal": "clickElement",
+                    "appType": "Web",
+                    "inputVal": [
+                        ""
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "683563bed9d9f7a5ff38b748",
+                    "parentName": "Create User",
+                    "modifiedBy": "67fcd112d1b76ee1a98a21e7",
+                    "__v": 0
+                },
+                {
+                    "_id": "68357ffcd9d9f7a5ff38c7bb",
+                    "name": "Download_Token",
+                    "elementRepoId": "683560f7d9d9f7a5ff38b47b",
+                    "elementId": "68357d3fd9d9f7a5ff38c429",
+                    "stepNo": 20,
+                    "keywordVal": "clickElement",
+                    "appType": "Web",
+                    "inputVal": [
+                        ""
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "683563bed9d9f7a5ff38b748",
+                    "parentName": "Create User",
+                    "modifiedBy": "67fcd112d1b76ee1a98a21e7",
+                    "__v": 0
+                },
+                {
+                    "_id": "683580abd9d9f7a5ff38c81d",
+                    "name": "Generate_Token_Btn",
+                    "elementRepoId": "683560f7d9d9f7a5ff38b47b",
+                    "elementId": "68357d3fd9d9f7a5ff38c413",
+                    "stepNo": 18,
+                    "keywordVal": "click",
+                    "appType": "Web",
+                    "inputVal": [
+                        ""
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "683563bed9d9f7a5ff38b748",
+                    "parentName": "Create User",
+                    "modifiedBy": "67fcd112d1b76ee1a98a21e7",
+                    "__v": 0
+                },
+                {
+                    "_id": "6835811ad9d9f7a5ff38c958",
+                    "name": "Close",
+                    "elementRepoId": "683560f7d9d9f7a5ff38b47b",
+                    "elementId": "68358101d9d9f7a5ff38c8c1",
+                    "stepNo": 21,
+                    "keywordVal": "click",
+                    "appType": "Web",
+                    "inputVal": [
+                        ""
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "683563bed9d9f7a5ff38b748",
+                    "parentName": "Create User",
+                    "modifiedBy": "67fcd112d1b76ee1a98a21e7",
+                    "__v": 0
+                },
+                {
+                    "_id": "684c15b315cd59e28c3f09e2",
+                    "name": "Admin privige",
+                    "elementRepoId": "683585fbd9d9f7a5ff38d921",
+                    "elementId": "684c14ca15cd59e28c3f0754",
+                    "stepNo": 16,
+                    "keywordVal": "clickElement",
+                    "appType": "Web",
+                    "inputVal": [
+                        ""
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "683563bed9d9f7a5ff38b748",
+                    "parentName": "Create User",
+                    "modifiedBy": "67fcd112d1b76ee1a98a21e7",
+                    "__v": 0
+                }
+            ],
+            "__v": 0
+        },
+        {
+            "_id": "68358261d9d9f7a5ff38cd68",
+            "name": "Admin Logout",
+            "projectId": "68355fe5d9d9f7a5ff38b34a",
+            "testCaseId": "683562bfd9d9f7a5ff38b6ed",
+            "appType": "Web",
+            "assignedTo": "nagendra",
+            "groupIndex": 3,
+            "createdBy": "67fcd112d1b76ee1a98a21e7",
+            "createdByRole": "5db0022cf87fdec084ae49ab",
+            "modifiedBy": "67fcd112d1b76ee1a98a21e7",
+            "modifiedByRole": "5db0022cf87fdec084ae49ab",
+            "createdOn": "2025-06-13T12:12:35.868Z",
+            "displayOn": "2025-06-13T12:12:35.868Z",
+            "modifiedOn": "2025-06-13T12:12:35.868Z",
+            "testSteps": [
+                {
+                    "_id": "68358299d9d9f7a5ff38cddd",
+                    "name": "Profile",
+                    "elementRepoId": "6835819dd9d9f7a5ff38cb68",
+                    "elementId": "6835823cd9d9f7a5ff38ccc8",
+                    "stepNo": 1,
+                    "keywordVal": "clickElement",
+                    "appType": "Web",
+                    "inputVal": [
+                        ""
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "68358261d9d9f7a5ff38cd68",
+                    "parentName": "Admin Logout",
+                    "modifiedBy": "67fcd112d1b76ee1a98a21e7",
+                    "__v": 0
+                },
+                {
+                    "_id": "68358299d9d9f7a5ff38cdde",
+                    "name": "Log Out",
+                    "elementRepoId": "6835819dd9d9f7a5ff38cb68",
+                    "elementId": "6835823cd9d9f7a5ff38ccd3",
+                    "stepNo": 2,
+                    "keywordVal": "press",
+                    "appType": "Web",
+                    "inputVal": [
+                        ""
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "68358261d9d9f7a5ff38cd68",
+                    "parentName": "Admin Logout",
+                    "modifiedBy": "67fcd112d1b76ee1a98a21e7",
+                    "__v": 0
+                },
+                {
+                    "_id": "68358299d9d9f7a5ff38cddf",
+                    "name": "Yes_btn",
+                    "elementRepoId": "6835819dd9d9f7a5ff38cb68",
+                    "elementId": "6835823cd9d9f7a5ff38ccde",
+                    "stepNo": 3,
+                    "keywordVal": "click",
+                    "appType": "Web",
+                    "inputVal": [
+                        ""
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "68358261d9d9f7a5ff38cd68",
+                    "parentName": "Admin Logout",
+                    "modifiedBy": "67fcd112d1b76ee1a98a21e7",
+                    "__v": 0
+                },
+                {
+                    "_id": "68358299d9d9f7a5ff38cde0",
+                    "name": "Click_here",
+                    "elementRepoId": "6835819dd9d9f7a5ff38cb68",
+                    "elementId": "6835823cd9d9f7a5ff38cce9",
+                    "stepNo": 4,
+                    "keywordVal": "click",
+                    "appType": "Web",
+                    "inputVal": [
+                        ""
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "68358261d9d9f7a5ff38cd68",
+                    "parentName": "Admin Logout",
+                    "modifiedBy": "67fcd112d1b76ee1a98a21e7",
+                    "__v": 0
+                }
+            ],
+            "__v": 0
+        },
+        {
+            "_id": "683583d8d9d9f7a5ff38d58b",
+            "name": "User Login",
+            "projectId": "68355fe5d9d9f7a5ff38b34a",
+            "testCaseId": "683562bfd9d9f7a5ff38b6ed",
+            "appType": "Web",
+            "assignedTo": "nagendra",
+            "groupIndex": 4,
+            "createdBy": "67fcd112d1b76ee1a98a21e7",
+            "createdByRole": "5db0022cf87fdec084ae49ab",
+            "modifiedBy": "67fcd112d1b76ee1a98a21e7",
+            "modifiedByRole": "5db0022cf87fdec084ae49ab",
+            "createdOn": "2025-06-13T12:12:35.873Z",
+            "displayOn": "2025-06-13T12:12:35.873Z",
+            "modifiedOn": "2025-06-13T12:12:35.873Z",
+            "testSteps": [
+                {
+                    "_id": "68358404d9d9f7a5ff38d5b2",
+                    "name": "Username",
+                    "elementRepoId": "68356027d9d9f7a5ff38b3b4",
+                    "elementId": "6835609ad9d9f7a5ff38b422",
+                    "stepNo": 1,
+                    "keywordVal": "setText",
+                    "appType": "Web",
+                    "inputVal": [
+                        "{User}"
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "683583d8d9d9f7a5ff38d58b",
+                    "parentName": "User Login",
+                    "modifiedBy": "67fcd112d1b76ee1a98a21e7",
+                    "__v": 0
+                },
+                {
+                    "_id": "68358404d9d9f7a5ff38d5b3",
+                    "name": "Password",
+                    "elementRepoId": "68356027d9d9f7a5ff38b3b4",
+                    "elementId": "6835609ad9d9f7a5ff38b42d",
+                    "stepNo": 2,
+                    "keywordVal": "setText",
+                    "appType": "Web",
+                    "inputVal": [
+                        "{Pwd}@{PwdNum}"
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "683583d8d9d9f7a5ff38d58b",
+                    "parentName": "User Login",
+                    "modifiedBy": "67fcd112d1b76ee1a98a21e7",
+                    "__v": 0
+                },
+                {
+                    "_id": "68358404d9d9f7a5ff38d5b4",
+                    "name": "Login",
+                    "elementRepoId": "68356027d9d9f7a5ff38b3b4",
+                    "elementId": "6835609ad9d9f7a5ff38b438",
+                    "stepNo": 3,
+                    "keywordVal": "press",
+                    "appType": "Web",
+                    "inputVal": [
+                        ""
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "683583d8d9d9f7a5ff38d58b",
+                    "parentName": "User Login",
+                    "modifiedBy": "67fcd112d1b76ee1a98a21e7",
+                    "__v": 0
+                }
+            ],
+            "__v": 0
+        },
+        {
+            "_id": "683587a1d9d9f7a5ff38da31",
+            "name": "Accept Terms & Condition",
+            "projectId": "68355fe5d9d9f7a5ff38b34a",
+            "testCaseId": "683562bfd9d9f7a5ff38b6ed",
+            "appType": "Web",
+            "assignedTo": "nagendra",
+            "groupIndex": 5,
+            "createdBy": "67fcd112d1b76ee1a98a21e7",
+            "createdByRole": "5db0022cf87fdec084ae49ab",
+            "modifiedBy": "67fcd112d1b76ee1a98a21e7",
+            "modifiedByRole": "5db0022cf87fdec084ae49ab",
+            "createdOn": "2025-06-13T12:12:35.878Z",
+            "displayOn": "2025-06-13T12:12:35.878Z",
+            "modifiedOn": "2025-06-13T12:12:35.878Z",
+            "testSteps": [
+                {
+                    "_id": "683587a1d9d9f7a5ff38da36",
+                    "name": "content",
+                    "elementRepoId": "683585fbd9d9f7a5ff38d921",
+                    "elementId": "68358750d9d9f7a5ff38d986",
+                    "stepNo": 1,
+                    "keywordVal": "press",
+                    "appType": "Web",
+                    "inputVal": [
+                        ""
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "683587a1d9d9f7a5ff38da31",
+                    "parentName": "Accept Terms & Condition",
+                    "modifiedBy": "67fcd112d1b76ee1a98a21e7",
+                    "__v": 0
+                },
+                {
+                    "_id": "6835888fd9d9f7a5ff38dab1",
+                    "name": "@Generic",
+                    "elementRepoId": "",
+                    "elementId": "",
+                    "stepNo": 3,
+                    "keywordVal": "sendFunctionKeys",
+                    "appType": "Generic",
+                    "inputVal": [
+                        "down;5"
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "683587a1d9d9f7a5ff38da31",
+                    "parentName": "Accept Terms & Condition",
+                    "modifiedBy": "67fcd112d1b76ee1a98a21e7",
+                    "__v": 0
+                },
+                {
+                    "_id": "68358b3fd9d9f7a5ff38dcc1",
+                    "name": "I Agree",
+                    "elementRepoId": "683585fbd9d9f7a5ff38d921",
+                    "elementId": "68358688d9d9f7a5ff38d94d",
+                    "stepNo": 5,
+                    "keywordVal": "click",
+                    "appType": "Web",
+                    "inputVal": [
+                        ""
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "683587a1d9d9f7a5ff38da31",
+                    "parentName": "Accept Terms & Condition",
+                    "modifiedBy": "67fcd112d1b76ee1a98a21e7",
+                    "__v": 0
+                },
+                {
+                    "_id": "68358bc7d9d9f7a5ff38dd5f",
+                    "name": "@Generic",
+                    "elementRepoId": "",
+                    "elementId": "",
+                    "stepNo": 2,
+                    "keywordVal": "wait",
+                    "appType": "Generic",
+                    "inputVal": [
+                        "2"
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "683587a1d9d9f7a5ff38da31",
+                    "parentName": "Accept Terms & Condition",
+                    "modifiedBy": "67fcd112d1b76ee1a98a21e7",
+                    "__v": 0
+                },
+                {
+                    "_id": "68358d5fd9d9f7a5ff38debe",
+                    "name": "Download Avo Assure Client",
+                    "elementRepoId": "683585fbd9d9f7a5ff38d921",
+                    "elementId": "68358c38d9d9f7a5ff38ddbf",
+                    "stepNo": 6,
+                    "keywordVal": "click",
+                    "appType": "Web",
+                    "inputVal": [
+                        ""
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "683587a1d9d9f7a5ff38da31",
+                    "parentName": "Accept Terms & Condition",
+                    "modifiedBy": "67fcd112d1b76ee1a98a21e7",
+                    "__v": 0
+                },
+                {
+                    "_id": "68358d5fd9d9f7a5ff38dec3",
+                    "name": "Thanks for downloading !",
+                    "elementRepoId": "683585fbd9d9f7a5ff38d921",
+                    "elementId": "68358ccbd9d9f7a5ff38dddf",
+                    "stepNo": 7,
+                    "keywordVal": "waitForElementVisible",
+                    "appType": "Web",
+                    "inputVal": [
+                        ""
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "683587a1d9d9f7a5ff38da31",
+                    "parentName": "Accept Terms & Condition",
+                    "modifiedBy": "67fcd112d1b76ee1a98a21e7",
+                    "__v": 0
+                },
+                {
+                    "_id": "6836ae400aa7c448e548e8ba",
+                    "name": "By clicking the \u201cAgree\u201d button, Licensee",
+                    "elementRepoId": "683585fbd9d9f7a5ff38d921",
+                    "elementId": "68358688d9d9f7a5ff38d942",
+                    "stepNo": 4,
+                    "keywordVal": "doubleClick",
+                    "appType": "Web",
+                    "inputVal": [
+                        ""
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "683587a1d9d9f7a5ff38da31",
+                    "parentName": "Accept Terms & Condition",
+                    "modifiedBy": "67fcd112d1b76ee1a98a21e7",
+                    "__v": 0
+                },
+                {
+                    "_id": "684c155515cd59e28c3f0984",
+                    "name": "slid1",
+                    "elementRepoId": "683585fbd9d9f7a5ff38d921",
+                    "elementId": "684c14ca15cd59e28c3f076a",
+                    "stepNo": 8,
+                    "keywordVal": "clickElement",
+                    "appType": "Web",
+                    "inputVal": [
+                        ""
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "683587a1d9d9f7a5ff38da31",
+                    "parentName": "Accept Terms & Condition",
+                    "modifiedBy": "67fcd112d1b76ee1a98a21e7",
+                    "__v": 0
+                },
+                {
+                    "_id": "684c155515cd59e28c3f0985",
+                    "name": "slid2",
+                    "elementRepoId": "683585fbd9d9f7a5ff38d921",
+                    "elementId": "684c14ca15cd59e28c3f0775",
+                    "stepNo": 9,
+                    "keywordVal": "clickElement",
+                    "appType": "Web",
+                    "inputVal": [
+                        ""
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "683587a1d9d9f7a5ff38da31",
+                    "parentName": "Accept Terms & Condition",
+                    "modifiedBy": "67fcd112d1b76ee1a98a21e7",
+                    "__v": 0
+                },
+                {
+                    "_id": "684c155515cd59e28c3f0986",
+                    "name": "slid3",
+                    "elementRepoId": "683585fbd9d9f7a5ff38d921",
+                    "elementId": "684c14ca15cd59e28c3f0780",
+                    "stepNo": 10,
+                    "keywordVal": "clickElement",
+                    "appType": "Web",
+                    "inputVal": [
+                        ""
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "683587a1d9d9f7a5ff38da31",
+                    "parentName": "Accept Terms & Condition",
+                    "modifiedBy": "67fcd112d1b76ee1a98a21e7",
+                    "__v": 0
+                },
+                {
+                    "_id": "684c155515cd59e28c3f0987",
+                    "name": "Next_new",
+                    "elementRepoId": "683585fbd9d9f7a5ff38d921",
+                    "elementId": "684c14ca15cd59e28c3f078b",
+                    "stepNo": 11,
+                    "keywordVal": "click",
+                    "appType": "Web",
+                    "inputVal": [
+                        ""
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "683587a1d9d9f7a5ff38da31",
+                    "parentName": "Accept Terms & Condition",
+                    "modifiedBy": "67fcd112d1b76ee1a98a21e7",
+                    "__v": 0
+                },
+                {
+                    "_id": "684c155515cd59e28c3f0988",
+                    "name": "Get Started_New",
+                    "elementRepoId": "683585fbd9d9f7a5ff38d921",
+                    "elementId": "684c14ca15cd59e28c3f0796",
+                    "stepNo": 12,
+                    "keywordVal": "click",
+                    "appType": "Web",
+                    "inputVal": [
+                        ""
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "683587a1d9d9f7a5ff38da31",
+                    "parentName": "Accept Terms & Condition",
+                    "modifiedBy": "67fcd112d1b76ee1a98a21e7",
+                    "__v": 0
+                }
+            ],
+            "__v": 0
+        }
+    ],
+    "associatedrepopaths": [
+        "Admin Screen/Automateqa Login",
+        "Admin Screen/User Creation",
+        "Admin Screen/Logout",
+        "Imported Login/Creating a new Project",
+        "Imported Login/Design Studio (ER)",
+        "Admin Screen/Accept Policy Download client",
+        "Element Repository/Creating Folder",
+        "Admin Screen/User Delete",
+        "Execution Profile/Testcase Creation",
+        "Execution Profile/Add Testcase to list",
+        "AvoGenius_ER and TC_Prateek/Avo Assure",
+        "AvoGenius_ER and TC_Prateek/Extra",
+        "Avo Client/Client Install",
+        "Element Repository/Importing",
+        "Element Repository/Selfheal",
+        "AvoGenius_Test Case (Prateek)/Avo Assure",
+        "Test Case/Drag and Drop",
+        "Test Case/Delete all",
+        "Test Case/Debug",
+        "AvoGenius_Logout/Avo Assure",
+        "AvoGenius_Login/Avo Assure"
+    ],
+    "associated": [
+        "elementRepositories\\Admin Screen\\Automateqa Login.json",
+        "elementRepositories\\Admin Screen\\User Creation.json",
+        "elementRepositories\\Admin Screen\\Logout.json",
+        "elementRepositories\\Admin Screen\\Accept Policy Download client.json"
+    ]
+}

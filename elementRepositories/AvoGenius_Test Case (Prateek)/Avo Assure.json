@@ -1,0 +1,2941 @@
+{
+    "_id": "684fbdf3a00debf3efef2354",
+    "projectId": "68355fe5d9d9f7a5ff38b34a",
+    "title": "Avo Assure",
+    "folderId": "684fbdf2a00debf3efef234c",
+    "createdBy": "67fcd112d1b76ee1a98a21e7",
+    "createdOn": "2025-06-16T06:47:15.240Z",
+    "createdByRole": "5db0022cf87fdec084ae49ab",
+    "userName": "nagendra",
+    "modifiedBy": "67fcd112d1b76ee1a98a21e7",
+    "modifiedOn": "2025-06-16T06:47:15.240Z",
+    "displayOn": "2025-06-16T06:47:15.240Z",
+    "type": "elementRepo",
+    "appType": "Web",
+    "scrapedUrl": "false",
+    "description": "",
+    "repository": false,
+    "isLeaf": false,
+    "versions": [],
+    "selfHeal": false,
+    "elements": [
+        {
+            "_id": "684fbdf3a00debf3efef235c",
+            "name": "Test Case",
+            "height": 0,
+            "hiddentag": "No",
+            "left": 0,
+            "tag": "div",
+            "top": 0,
+            "url": "https://automateqa.avoassurecloud.com/repository",
+            "width": 0,
+            "xpath": "NaN",
+            "tempOrderId": "80de2a7a-15fd-41ef-b939-5a5f9ed3bf1c",
+            "identifiers": {
+                "cssselector": "div[class=\"landing_header_middle_label font-bold text-sm\"]",
+                "id": "None",
+                "xpath": "/html/body/div[2]/div/div[1]/div[3]/a[2]/div/div[2]",
+                "rxpath": "//a[2]/div/div[2]",
+                "name": "None",
+                "classname": "landing_header_middle_label font-bold text-sm[1]",
+                "href": "None",
+                "label": "None",
+                "custom1": "None",
+                "custom2": "None"
+            },
+            "identifierpriority": [
+                {
+                    "id": 1,
+                    "identifier": "cssselector",
+                    "_id": "684fbdf3a00debf3efef235d"
+                },
+                {
+                    "id": 2,
+                    "identifier": "id",
+                    "_id": "684fbdf3a00debf3efef235e"
+                },
+                {
+                    "id": 3,
+                    "identifier": "xpath",
+                    "_id": "684fbdf3a00debf3efef235f"
+                },
+                {
+                    "id": 4,
+                    "identifier": "rxpath",
+                    "_id": "684fbdf3a00debf3efef2360"
+                },
+                {
+                    "id": 5,
+                    "identifier": "name",
+                    "_id": "684fbdf3a00debf3efef2361"
+                },
+                {
+                    "id": 6,
+                    "identifier": "classname",
+                    "_id": "684fbdf3a00debf3efef2362"
+                },
+                {
+                    "id": 7,
+                    "identifier": "href",
+                    "_id": "684fbdf3a00debf3efef2363"
+                },
+                {
+                    "id": 8,
+                    "identifier": "label",
+                    "_id": "684fbdf3a00debf3efef2364"
+                },
+                {
+                    "id": 9,
+                    "identifier": "custom1",
+                    "_id": "684fbdf3a00debf3efef2365"
+                },
+                {
+                    "id": 10,
+                    "identifier": "custom2",
+                    "_id": "684fbdf3a00debf3efef2366"
+                }
+            ],
+            "elementrepoid": "684fbdf3a00debf3efef2354",
+            "appType": "Web",
+            "isCustom": false,
+            "__v": 0
+        },
+        {
+            "_id": "684fbdf3a00debf3efef2367",
+            "name": "create folder",
+            "height": 0,
+            "hiddentag": "No",
+            "left": 0,
+            "tag": "img",
+            "top": 0,
+            "url": "https://automateqa.avoassurecloud.com/design",
+            "width": 0,
+            "xpath": "NaN",
+            "tempOrderId": "ba218c2d-cf21-4681-a30a-aa537658d953",
+            "identifiers": {
+                "cssselector": "img[class=\"folder_img\"]",
+                "id": "None",
+                "xpath": "/html/body/div[2]/div/div[5]/div[1]/div/div/div/div[1]/div[2]/div/div[2]/img",
+                "rxpath": "//div[2]/div/div[2]/img",
+                "name": "None",
+                "classname": "folder_img",
+                "href": "None",
+                "label": "None",
+                "custom1": "None",
+                "custom2": "None"
+            },
+            "identifierpriority": [
+                {
+                    "id": 1,
+                    "identifier": "cssselector",
+                    "_id": "684fbdf3a00debf3efef2368"
+                },
+                {
+                    "id": 2,
+                    "identifier": "id",
+                    "_id": "684fbdf3a00debf3efef2369"
+                },
+                {
+                    "id": 3,
+                    "identifier": "xpath",
+                    "_id": "684fbdf3a00debf3efef236a"
+                },
+                {
+                    "id": 4,
+                    "identifier": "rxpath",
+                    "_id": "684fbdf3a00debf3efef236b"
+                },
+                {
+                    "id": 5,
+                    "identifier": "name",
+                    "_id": "684fbdf3a00debf3efef236c"
+                },
+                {
+                    "id": 6,
+                    "identifier": "classname",
+                    "_id": "684fbdf3a00debf3efef236d"
+                },
+                {
+                    "id": 7,
+                    "identifier": "href",
+                    "_id": "684fbdf3a00debf3efef236e"
+                },
+                {
+                    "id": 8,
+                    "identifier": "label",
+                    "_id": "684fbdf3a00debf3efef236f"
+                },
+                {
+                    "id": 9,
+                    "identifier": "custom1",
+                    "_id": "684fbdf3a00debf3efef2370"
+                },
+                {
+                    "id": 10,
+                    "identifier": "custom2",
+                    "_id": "684fbdf3a00debf3efef2371"
+                }
+            ],
+            "elementrepoid": "684fbdf3a00debf3efef2354",
+            "appType": "Web",
+            "isCustom": false,
+            "__v": 0
+        },
+        {
+            "_id": "684fbdf3a00debf3efef2372",
+            "name": "Create new folder",
+            "height": 0,
+            "hiddentag": "No",
+            "left": 0,
+            "tag": "span",
+            "top": 0,
+            "url": "https://automateqa.avoassurecloud.com/design",
+            "width": 0,
+            "xpath": "NaN",
+            "tempOrderId": "1e2110a5-1df9-4e21-922e-fc540f317a01",
+            "identifiers": {
+                "cssselector": "None",
+                "id": "None",
+                "xpath": "/html/body/div[4]/div/div[2]/div/div/div/div[3]/span",
+                "rxpath": "//div[3]/span",
+                "name": "None",
+                "classname": "popover_content[2]",
+                "href": "None",
+                "label": "None",
+                "custom1": "None",
+                "custom2": "None"
+            },
+            "identifierpriority": [
+                {
+                    "id": 1,
+                    "identifier": "cssselector",
+                    "_id": "684fbdf3a00debf3efef2373"
+                },
+                {
+                    "id": 2,
+                    "identifier": "id",
+                    "_id": "684fbdf3a00debf3efef2374"
+                },
+                {
+                    "id": 3,
+                    "identifier": "xpath",
+                    "_id": "684fbdf3a00debf3efef2375"
+                },
+                {
+                    "id": 4,
+                    "identifier": "rxpath",
+                    "_id": "684fbdf3a00debf3efef2376"
+                },
+                {
+                    "id": 5,
+                    "identifier": "name",
+                    "_id": "684fbdf3a00debf3efef2377"
+                },
+                {
+                    "id": 6,
+                    "identifier": "classname",
+                    "_id": "684fbdf3a00debf3efef2378"
+                },
+                {
+                    "id": 7,
+                    "identifier": "href",
+                    "_id": "684fbdf3a00debf3efef2379"
+                },
+                {
+                    "id": 8,
+                    "identifier": "label",
+                    "_id": "684fbdf3a00debf3efef237a"
+                },
+                {
+                    "id": 9,
+                    "identifier": "custom1",
+                    "_id": "684fbdf3a00debf3efef237b"
+                },
+                {
+                    "id": 10,
+                    "identifier": "custom2",
+                    "_id": "684fbdf3a00debf3efef237c"
+                }
+            ],
+            "elementrepoid": "684fbdf3a00debf3efef2354",
+            "appType": "Web",
+            "isCustom": false,
+            "__v": 0
+        },
+        {
+            "_id": "684fbdf3a00debf3efef237d",
+            "name": "Enter Folder Name",
+            "height": 0,
+            "hiddentag": "No",
+            "left": 0,
+            "tag": "input",
+            "top": 0,
+            "url": "https://automateqa.avoassurecloud.com/design",
+            "width": 0,
+            "xpath": "NaN",
+            "tempOrderId": "b0e3c327-0beb-4fd0-a46e-c54f6d0c2f04",
+            "identifiers": {
+                "cssselector": "input[placeholder=\"Enter Folder Name\"]",
+                "id": "None",
+                "xpath": "/html/body/div[2]/div/div[5]/div[1]/div/div/div/div[1]/div[3]/div[2]/div/div[3]/div/div/div/div/span[4]/span/div/div[1]/span[2]/input",
+                "rxpath": "//span[2]/input",
+                "name": "None",
+                "classname": "ant-input css-m4timi ant-input-outlined inputFolder",
+                "href": "None",
+                "label": "Enter Folder Name",
+                "custom1": "None",
+                "custom2": "None"
+            },
+            "identifierpriority": [
+                {
+                    "id": 1,
+                    "identifier": "cssselector",
+                    "_id": "684fbdf3a00debf3efef237e"
+                },
+                {
+                    "id": 2,
+                    "identifier": "id",
+                    "_id": "684fbdf3a00debf3efef237f"
+                },
+                {
+                    "id": 3,
+                    "identifier": "xpath",
+                    "_id": "684fbdf3a00debf3efef2380"
+                },
+                {
+                    "id": 4,
+                    "identifier": "rxpath",
+                    "_id": "684fbdf3a00debf3efef2381"
+                },
+                {
+                    "id": 5,
+                    "identifier": "name",
+                    "_id": "684fbdf3a00debf3efef2382"
+                },
+                {
+                    "id": 6,
+                    "identifier": "classname",
+                    "_id": "684fbdf3a00debf3efef2383"
+                },
+                {
+                    "id": 7,
+                    "identifier": "href",
+                    "_id": "684fbdf3a00debf3efef2384"
+                },
+                {
+                    "id": 8,
+                    "identifier": "label",
+                    "_id": "684fbdf3a00debf3efef2385"
+                },
+                {
+                    "id": 9,
+                    "identifier": "custom1",
+                    "_id": "684fbdf3a00debf3efef2386"
+                },
+                {
+                    "id": 10,
+                    "identifier": "custom2",
+                    "_id": "684fbdf3a00debf3efef2387"
+                }
+            ],
+            "elementrepoid": "684fbdf3a00debf3efef2354",
+            "appType": "Web",
+            "isCustom": false,
+            "__v": 0
+        },
+        {
+            "_id": "684fbdf3a00debf3efef2388",
+            "name": "Create Test Case",
+            "height": 0,
+            "hiddentag": "No",
+            "left": 0,
+            "tag": "div",
+            "top": 0,
+            "url": "https://automateqa.avoassurecloud.com/design",
+            "width": 0,
+            "xpath": "NaN",
+            "tempOrderId": "c35f6a80-805f-45ce-9579-99c67832ff00",
+            "identifiers": {
+                "cssselector": "button[class=\"ant-btn css-m4timi ant-btn-primary ant-btn-sm ant-btn-background-ghost\"] div[class=\"SLKNineteen68_Highlight\"]",
+                "id": "None",
+                "xpath": "/html/body/div[2]/div/div[5]/div[3]/div/div/div/div/div/div/div/button[2]/div",
+                "rxpath": "//button[2]/div",
+                "name": "None",
+                "classname": "SLKNineteen68_Highlight",
+                "href": "None",
+                "label": "None",
+                "custom1": "None",
+                "custom2": "None"
+            },
+            "identifierpriority": [
+                {
+                    "id": 1,
+                    "identifier": "cssselector",
+                    "_id": "684fbdf3a00debf3efef2389"
+                },
+                {
+                    "id": 2,
+                    "identifier": "id",
+                    "_id": "684fbdf3a00debf3efef238a"
+                },
+                {
+                    "id": 3,
+                    "identifier": "xpath",
+                    "_id": "684fbdf3a00debf3efef238b"
+                },
+                {
+                    "id": 4,
+                    "identifier": "rxpath",
+                    "_id": "684fbdf3a00debf3efef238c"
+                },
+                {
+                    "id": 5,
+                    "identifier": "name",
+                    "_id": "684fbdf3a00debf3efef238d"
+                },
+                {
+                    "id": 6,
+                    "identifier": "classname",
+                    "_id": "684fbdf3a00debf3efef238e"
+                },
+                {
+                    "id": 7,
+                    "identifier": "href",
+                    "_id": "684fbdf3a00debf3efef238f"
+                },
+                {
+                    "id": 8,
+                    "identifier": "label",
+                    "_id": "684fbdf3a00debf3efef2390"
+                },
+                {
+                    "id": 9,
+                    "identifier": "custom1",
+                    "_id": "684fbdf3a00debf3efef2391"
+                },
+                {
+                    "id": 10,
+                    "identifier": "custom2",
+                    "_id": "684fbdf3a00debf3efef2392"
+                }
+            ],
+            "elementrepoid": "684fbdf3a00debf3efef2354",
+            "appType": "Web",
+            "isCustom": false,
+            "__v": 0
+        },
+        {
+            "_id": "684fbdf3a00debf3efef2393",
+            "name": "Enter Test case Name",
+            "height": 0,
+            "hiddentag": "No",
+            "left": 0,
+            "tag": "input",
+            "top": 0,
+            "url": "https://automateqa.avoassurecloud.com/design",
+            "width": 0,
+            "xpath": "NaN",
+            "tempOrderId": "3fc4e83a-f867-4862-8271-0eb3068558be",
+            "identifiers": {
+                "cssselector": "input[placeholder=\"Enter Test case Name\"]",
+                "id": "None",
+                "xpath": "/html/body/div[2]/div/div[5]/div[1]/div/div/div/div[1]/div[3]/div[2]/div/div[3]/div/div/div/div[2]/span[4]/span/div/div[1]/span[2]/input",
+                "rxpath": "//span[2]/input",
+                "name": "None",
+                "classname": "ant-input css-m4timi ant-input-outlined inputFolder",
+                "href": "None",
+                "label": "Enter Test case Name",
+                "custom1": "None",
+                "custom2": "None"
+            },
+            "identifierpriority": [
+                {
+                    "id": 1,
+                    "identifier": "cssselector",
+                    "_id": "684fbdf3a00debf3efef2394"
+                },
+                {
+                    "id": 2,
+                    "identifier": "id",
+                    "_id": "684fbdf3a00debf3efef2395"
+                },
+                {
+                    "id": 3,
+                    "identifier": "xpath",
+                    "_id": "684fbdf3a00debf3efef2396"
+                },
+                {
+                    "id": 4,
+                    "identifier": "rxpath",
+                    "_id": "684fbdf3a00debf3efef2397"
+                },
+                {
+                    "id": 5,
+                    "identifier": "name",
+                    "_id": "684fbdf3a00debf3efef2398"
+                },
+                {
+                    "id": 6,
+                    "identifier": "classname",
+                    "_id": "684fbdf3a00debf3efef2399"
+                },
+                {
+                    "id": 7,
+                    "identifier": "href",
+                    "_id": "684fbdf3a00debf3efef239a"
+                },
+                {
+                    "id": 8,
+                    "identifier": "label",
+                    "_id": "684fbdf3a00debf3efef239b"
+                },
+                {
+                    "id": 9,
+                    "identifier": "custom1",
+                    "_id": "684fbdf3a00debf3efef239c"
+                },
+                {
+                    "id": 10,
+                    "identifier": "custom2",
+                    "_id": "684fbdf3a00debf3efef239d"
+                }
+            ],
+            "elementrepoid": "684fbdf3a00debf3efef2354",
+            "appType": "Web",
+            "isCustom": false,
+            "__v": 0
+        },
+        {
+            "_id": "684fbdf3a00debf3efef239e",
+            "name": "Create Test Step Group",
+            "height": 0,
+            "hiddentag": "No",
+            "left": 0,
+            "tag": "div",
+            "top": 0,
+            "url": "https://automateqa.avoassurecloud.com/design",
+            "width": 0,
+            "xpath": "NaN",
+            "tempOrderId": "40721e24-af02-4b3a-bac0-35d2ece70f3b",
+            "identifiers": {
+                "cssselector": "button[class=\"ant-btn css-m4timi ant-btn-primary ant-btn-background-ghost\"] div[class=\"SLKNineteen68_Highlight\"]",
+                "id": "None",
+                "xpath": "/html/body/div[2]/div/div[5]/div[3]/div/div/div/div/div[3]/div/div/div/div/div/div/div/div/div/table/tbody/tr/td/div/div/button/div",
+                "rxpath": "//button/div",
+                "name": "None",
+                "classname": "SLKNineteen68_Highlight",
+                "href": "None",
+                "label": "None",
+                "custom1": "None",
+                "custom2": "None"
+            },
+            "identifierpriority": [
+                {
+                    "id": 1,
+                    "identifier": "cssselector",
+                    "_id": "684fbdf3a00debf3efef239f"
+                },
+                {
+                    "id": 2,
+                    "identifier": "id",
+                    "_id": "684fbdf3a00debf3efef23a0"
+                },
+                {
+                    "id": 3,
+                    "identifier": "xpath",
+                    "_id": "684fbdf3a00debf3efef23a1"
+                },
+                {
+                    "id": 4,
+                    "identifier": "rxpath",
+                    "_id": "684fbdf3a00debf3efef23a2"
+                },
+                {
+                    "id": 5,
+                    "identifier": "name",
+                    "_id": "684fbdf3a00debf3efef23a3"
+                },
+                {
+                    "id": 6,
+                    "identifier": "classname",
+                    "_id": "684fbdf3a00debf3efef23a4"
+                },
+                {
+                    "id": 7,
+                    "identifier": "href",
+                    "_id": "684fbdf3a00debf3efef23a5"
+                },
+                {
+                    "id": 8,
+                    "identifier": "label",
+                    "_id": "684fbdf3a00debf3efef23a6"
+                },
+                {
+                    "id": 9,
+                    "identifier": "custom1",
+                    "_id": "684fbdf3a00debf3efef23a7"
+                },
+                {
+                    "id": 10,
+                    "identifier": "custom2",
+                    "_id": "684fbdf3a00debf3efef23a8"
+                }
+            ],
+            "elementrepoid": "684fbdf3a00debf3efef2354",
+            "appType": "Web",
+            "isCustom": false,
+            "__v": 0
+        },
+        {
+            "_id": "684fbdf3a00debf3efef23a9",
+            "name": "Add new test step group",
+            "height": 0,
+            "hiddentag": "No",
+            "left": 0,
+            "tag": "span",
+            "top": 0,
+            "url": "https://automateqa.avoassurecloud.com/design",
+            "width": 0,
+            "xpath": "NaN",
+            "tempOrderId": "ced08569-b070-4510-b2be-c170aeafa6b9",
+            "identifiers": {
+                "cssselector": "None",
+                "id": "None",
+                "xpath": "/html/body/div[6]/div/div[2]/div/div/div/div[1]/span",
+                "rxpath": "None",
+                "name": "None",
+                "classname": "popover_content[3]",
+                "href": "None",
+                "label": "None",
+                "custom1": "None",
+                "custom2": "None"
+            },
+            "identifierpriority": [
+                {
+                    "id": 1,
+                    "identifier": "cssselector",
+                    "_id": "684fbdf3a00debf3efef23aa"
+                },
+                {
+                    "id": 2,
+                    "identifier": "id",
+                    "_id": "684fbdf3a00debf3efef23ab"
+                },
+                {
+                    "id": 3,
+                    "identifier": "xpath",
+                    "_id": "684fbdf3a00debf3efef23ac"
+                },
+                {
+                    "id": 4,
+                    "identifier": "rxpath",
+                    "_id": "684fbdf3a00debf3efef23ad"
+                },
+                {
+                    "id": 5,
+                    "identifier": "name",
+                    "_id": "684fbdf3a00debf3efef23ae"
+                },
+                {
+                    "id": 6,
+                    "identifier": "classname",
+                    "_id": "684fbdf3a00debf3efef23af"
+                },
+                {
+                    "id": 7,
+                    "identifier": "href",
+                    "_id": "684fbdf3a00debf3efef23b0"
+                },
+                {
+                    "id": 8,
+                    "identifier": "label",
+                    "_id": "684fbdf3a00debf3efef23b1"
+                },
+                {
+                    "id": 9,
+                    "identifier": "custom1",
+                    "_id": "684fbdf3a00debf3efef23b2"
+                },
+                {
+                    "id": 10,
+                    "identifier": "custom2",
+                    "_id": "684fbdf3a00debf3efef23b3"
+                }
+            ],
+            "elementrepoid": "684fbdf3a00debf3efef2354",
+            "appType": "Web",
+            "isCustom": false,
+            "__v": 0
+        },
+        {
+            "_id": "684fbdf3a00debf3efef23b4",
+            "name": "inputNONAME1",
+            "height": 0,
+            "hiddentag": "No",
+            "left": 0,
+            "tag": "input",
+            "top": 0,
+            "url": "https://automateqa.avoassurecloud.com/design",
+            "width": 0,
+            "xpath": "NaN",
+            "tempOrderId": "00ec9369-2871-4173-9d23-31c9890ef080",
+            "identifiers": {
+                "cssselector": "None",
+                "id": "None",
+                "xpath": "/html/body/div[7]/div/div[2]/div[1]/div/div/div/div[1]/span/div/input",
+                "rxpath": "//span/div/input",
+                "name": "None",
+                "classname": "ant-input css-m4timi ant-input-outlined[1]",
+                "href": "None",
+                "label": "None",
+                "custom1": "None",
+                "custom2": "None"
+            },
+            "identifierpriority": [
+                {
+                    "id": 1,
+                    "identifier": "cssselector",
+                    "_id": "684fbdf3a00debf3efef23b5"
+                },
+                {
+                    "id": 2,
+                    "identifier": "id",
+                    "_id": "684fbdf3a00debf3efef23b6"
+                },
+                {
+                    "id": 3,
+                    "identifier": "xpath",
+                    "_id": "684fbdf3a00debf3efef23b7"
+                },
+                {
+                    "id": 4,
+                    "identifier": "rxpath",
+                    "_id": "684fbdf3a00debf3efef23b8"
+                },
+                {
+                    "id": 5,
+                    "identifier": "name",
+                    "_id": "684fbdf3a00debf3efef23b9"
+                },
+                {
+                    "id": 6,
+                    "identifier": "classname",
+                    "_id": "684fbdf3a00debf3efef23ba"
+                },
+                {
+                    "id": 7,
+                    "identifier": "href",
+                    "_id": "684fbdf3a00debf3efef23bb"
+                },
+                {
+                    "id": 8,
+                    "identifier": "label",
+                    "_id": "684fbdf3a00debf3efef23bc"
+                },
+                {
+                    "id": 9,
+                    "identifier": "custom1",
+                    "_id": "684fbdf3a00debf3efef23bd"
+                },
+                {
+                    "id": 10,
+                    "identifier": "custom2",
+                    "_id": "684fbdf3a00debf3efef23be"
+                }
+            ],
+            "elementrepoid": "684fbdf3a00debf3efef2354",
+            "appType": "Web",
+            "isCustom": false,
+            "__v": 0
+        },
+        {
+            "_id": "684fbdf3a00debf3efef23bf",
+            "name": "Web",
+            "height": 0,
+            "hiddentag": "No",
+            "left": 0,
+            "tag": "div",
+            "top": 0,
+            "url": "https://automateqa.avoassurecloud.com/design",
+            "width": 0,
+            "xpath": "NaN",
+            "tempOrderId": "3c9325f5-8b42-4897-a841-acf9200a7f24",
+            "identifiers": {
+                "cssselector": "span[class=\"ant-select-selection-item\"] div[class=\"SLKNineteen68_Highlight\"]",
+                "id": "None",
+                "xpath": "/html/body/div[7]/div/div[2]/div[1]/div/div/div/div[2]/div/div/span[2]/div",
+                "rxpath": "//div[2]/div/div/span[2]/div",
+                "name": "None",
+                "classname": "SLKNineteen68_Highlight",
+                "href": "None",
+                "label": "None",
+                "custom1": "None",
+                "custom2": "None"
+            },
+            "identifierpriority": [
+                {
+                    "id": 1,
+                    "identifier": "cssselector",
+                    "_id": "684fbdf3a00debf3efef23c0"
+                },
+                {
+                    "id": 2,
+                    "identifier": "id",
+                    "_id": "684fbdf3a00debf3efef23c1"
+                },
+                {
+                    "id": 3,
+                    "identifier": "xpath",
+                    "_id": "684fbdf3a00debf3efef23c2"
+                },
+                {
+                    "id": 4,
+                    "identifier": "rxpath",
+                    "_id": "684fbdf3a00debf3efef23c3"
+                },
+                {
+                    "id": 5,
+                    "identifier": "name",
+                    "_id": "684fbdf3a00debf3efef23c4"
+                },
+                {
+                    "id": 6,
+                    "identifier": "classname",
+                    "_id": "684fbdf3a00debf3efef23c5"
+                },
+                {
+                    "id": 7,
+                    "identifier": "href",
+                    "_id": "684fbdf3a00debf3efef23c6"
+                },
+                {
+                    "id": 8,
+                    "identifier": "label",
+                    "_id": "684fbdf3a00debf3efef23c7"
+                },
+                {
+                    "id": 9,
+                    "identifier": "custom1",
+                    "_id": "684fbdf3a00debf3efef23c8"
+                },
+                {
+                    "id": 10,
+                    "identifier": "custom2",
+                    "_id": "684fbdf3a00debf3efef23c9"
+                }
+            ],
+            "elementrepoid": "684fbdf3a00debf3efef2354",
+            "appType": "Web",
+            "isCustom": false,
+            "__v": 0
+        },
+        {
+            "_id": "684fbdf3a00debf3efef23ca",
+            "name": "Web_34",
+            "height": 0,
+            "hiddentag": "No",
+            "left": 0,
+            "tag": "span",
+            "top": 0,
+            "url": "https://automateqa.avoassurecloud.com/design",
+            "width": 0,
+            "xpath": "NaN",
+            "tempOrderId": "fa683f34-f3c6-4e42-bc51-b9738a25ed3c",
+            "identifiers": {
+                "cssselector": "span[class=\"\"]",
+                "id": "None",
+                "xpath": "/html/body/div[8]/div/div/div[2]/div/div/div/div[1]/div/div/span/div/span",
+                "rxpath": "//div[1]/div/div/span/div/span",
+                "name": "None",
+                "classname": "SLKNineteen68_Highlight",
+                "href": "None",
+                "label": "None",
+                "custom1": "None",
+                "custom2": "None"
+            },
+            "identifierpriority": [
+                {
+                    "id": 1,
+                    "identifier": "cssselector",
+                    "_id": "684fbdf3a00debf3efef23cb"
+                },
+                {
+                    "id": 2,
+                    "identifier": "id",
+                    "_id": "684fbdf3a00debf3efef23cc"
+                },
+                {
+                    "id": 3,
+                    "identifier": "xpath",
+                    "_id": "684fbdf3a00debf3efef23cd"
+                },
+                {
+                    "id": 4,
+                    "identifier": "rxpath",
+                    "_id": "684fbdf3a00debf3efef23ce"
+                },
+                {
+                    "id": 5,
+                    "identifier": "name",
+                    "_id": "684fbdf3a00debf3efef23cf"
+                },
+                {
+                    "id": 6,
+                    "identifier": "classname",
+                    "_id": "684fbdf3a00debf3efef23d0"
+                },
+                {
+                    "id": 7,
+                    "identifier": "href",
+                    "_id": "684fbdf3a00debf3efef23d1"
+                },
+                {
+                    "id": 8,
+                    "identifier": "label",
+                    "_id": "684fbdf3a00debf3efef23d2"
+                },
+                {
+                    "id": 9,
+                    "identifier": "custom1",
+                    "_id": "684fbdf3a00debf3efef23d3"
+                },
+                {
+                    "id": 10,
+                    "identifier": "custom2",
+                    "_id": "684fbdf3a00debf3efef23d4"
+                }
+            ],
+            "elementrepoid": "684fbdf3a00debf3efef2354",
+            "appType": "Web",
+            "isCustom": false,
+            "__v": 0
+        },
+        {
+            "_id": "684fbdf3a00debf3efef23d5",
+            "name": "Create",
+            "height": 0,
+            "hiddentag": "No",
+            "left": 0,
+            "tag": "span",
+            "top": 0,
+            "url": "https://automateqa.avoassurecloud.com/design",
+            "width": 0,
+            "xpath": "NaN",
+            "tempOrderId": "4ad50670-1ebb-4fc7-bf97-b449f889b3f9",
+            "identifiers": {
+                "cssselector": "button[class=\"ant-btn css-m4timi ant-btn-default tsg_footer_btn tsg_create\"] span[class=\"SLKNineteen68_Highlight\"]",
+                "id": "None",
+                "xpath": "/html/body/div[7]/div/div[3]/footer/button[2]/span",
+                "rxpath": "//footer/button[2]/span",
+                "name": "None",
+                "classname": "SLKNineteen68_Highlight",
+                "href": "None",
+                "label": "None",
+                "custom1": "None",
+                "custom2": "None"
+            },
+            "identifierpriority": [
+                {
+                    "id": 1,
+                    "identifier": "cssselector",
+                    "_id": "684fbdf3a00debf3efef23d6"
+                },
+                {
+                    "id": 2,
+                    "identifier": "id",
+                    "_id": "684fbdf3a00debf3efef23d7"
+                },
+                {
+                    "id": 3,
+                    "identifier": "xpath",
+                    "_id": "684fbdf3a00debf3efef23d8"
+                },
+                {
+                    "id": 4,
+                    "identifier": "rxpath",
+                    "_id": "684fbdf3a00debf3efef23d9"
+                },
+                {
+                    "id": 5,
+                    "identifier": "name",
+                    "_id": "684fbdf3a00debf3efef23da"
+                },
+                {
+                    "id": 6,
+                    "identifier": "classname",
+                    "_id": "684fbdf3a00debf3efef23db"
+                },
+                {
+                    "id": 7,
+                    "identifier": "href",
+                    "_id": "684fbdf3a00debf3efef23dc"
+                },
+                {
+                    "id": 8,
+                    "identifier": "label",
+                    "_id": "684fbdf3a00debf3efef23dd"
+                },
+                {
+                    "id": 9,
+                    "identifier": "custom1",
+                    "_id": "684fbdf3a00debf3efef23de"
+                },
+                {
+                    "id": 10,
+                    "identifier": "custom2",
+                    "_id": "684fbdf3a00debf3efef23df"
+                }
+            ],
+            "elementrepoid": "684fbdf3a00debf3efef2354",
+            "appType": "Web",
+            "isCustom": false,
+            "__v": 0
+        },
+        {
+            "_id": "684fbdf3a00debf3efef23e0",
+            "name": "Add manually",
+            "height": 0,
+            "hiddentag": "No",
+            "left": 0,
+            "tag": "p",
+            "top": 0,
+            "url": "https://automateqa.avoassurecloud.com/design",
+            "width": 0,
+            "xpath": "NaN",
+            "tempOrderId": "9c053747-f9a8-44e7-a6ab-330c52479e8d",
+            "identifiers": {
+                "cssselector": "p[class=\"text-blue-500\"]",
+                "id": "None",
+                "xpath": "/html/body/div[2]/div/div[5]/div[3]/div/div/div/div/div[3]/div/div/div/div[1]/div/div/div/div/div/div/div[1]/div/table/tbody/tr[2]/td/div[1]/div[1]/div/div/div/div/div/table/tbody/tr/td/div/div/div/div/div[2]/p",
+                "rxpath": "//div[2]/p",
+                "name": "None",
+                "classname": "text-blue-500",
+                "href": "None",
+                "label": "None",
+                "custom1": "None",
+                "custom2": "None"
+            },
+            "identifierpriority": [
+                {
+                    "id": 1,
+                    "identifier": "cssselector",
+                    "_id": "684fbdf3a00debf3efef23e1"
+                },
+                {
+                    "id": 2,
+                    "identifier": "id",
+                    "_id": "684fbdf3a00debf3efef23e2"
+                },
+                {
+                    "id": 3,
+                    "identifier": "xpath",
+                    "_id": "684fbdf3a00debf3efef23e3"
+                },
+                {
+                    "id": 4,
+                    "identifier": "rxpath",
+                    "_id": "684fbdf3a00debf3efef23e4"
+                },
+                {
+                    "id": 5,
+                    "identifier": "name",
+                    "_id": "684fbdf3a00debf3efef23e5"
+                },
+                {
+                    "id": 6,
+                    "identifier": "classname",
+                    "_id": "684fbdf3a00debf3efef23e6"
+                },
+                {
+                    "id": 7,
+                    "identifier": "href",
+                    "_id": "684fbdf3a00debf3efef23e7"
+                },
+                {
+                    "id": 8,
+                    "identifier": "label",
+                    "_id": "684fbdf3a00debf3efef23e8"
+                },
+                {
+                    "id": 9,
+                    "identifier": "custom1",
+                    "_id": "684fbdf3a00debf3efef23e9"
+                },
+                {
+                    "id": 10,
+                    "identifier": "custom2",
+                    "_id": "684fbdf3a00debf3efef23ea"
+                }
+            ],
+            "elementrepoid": "684fbdf3a00debf3efef2354",
+            "appType": "Web",
+            "isCustom": false,
+            "__v": 0
+        },
+        {
+            "_id": "684fbdf3a00debf3efef23eb",
+            "name": "@Generic",
+            "height": 0,
+            "hiddentag": "No",
+            "left": 0,
+            "tag": "span",
+            "top": 0,
+            "url": "https://automateqa.avoassurecloud.com/design",
+            "width": 0,
+            "xpath": "NaN",
+            "tempOrderId": "c1e44a2f-9f95-4afd-a857-bc48b74c9338",
+            "identifiers": {
+                "cssselector": "span[title=\"@Generic\"]",
+                "id": "None",
+                "xpath": "/html/body/div[2]/div/div[5]/div[3]/div/div/div/div/div[3]/div/div/div/div[1]/div/div/div/div/div/div/div[1]/div/table/tbody/tr[2]/td/div[1]/div[1]/div/div/div/div/div/table/tbody/tr/td[4]/div/div/div/div/div/div/div/span[2]",
+                "rxpath": "//td[4]/div/div/div/div/div/div/div/span[2]",
+                "name": "None",
+                "classname": "ant-select-selection-item[1]",
+                "href": "None",
+                "label": "None",
+                "custom1": "None",
+                "custom2": "None"
+            },
+            "identifierpriority": [
+                {
+                    "id": 1,
+                    "identifier": "cssselector",
+                    "_id": "684fbdf3a00debf3efef23ec"
+                },
+                {
+                    "id": 2,
+                    "identifier": "id",
+                    "_id": "684fbdf3a00debf3efef23ed"
+                },
+                {
+                    "id": 3,
+                    "identifier": "xpath",
+                    "_id": "684fbdf3a00debf3efef23ee"
+                },
+                {
+                    "id": 4,
+                    "identifier": "rxpath",
+                    "_id": "684fbdf3a00debf3efef23ef"
+                },
+                {
+                    "id": 5,
+                    "identifier": "name",
+                    "_id": "684fbdf3a00debf3efef23f0"
+                },
+                {
+                    "id": 6,
+                    "identifier": "classname",
+                    "_id": "684fbdf3a00debf3efef23f1"
+                },
+                {
+                    "id": 7,
+                    "identifier": "href",
+                    "_id": "684fbdf3a00debf3efef23f2"
+                },
+                {
+                    "id": 8,
+                    "identifier": "label",
+                    "_id": "684fbdf3a00debf3efef23f3"
+                },
+                {
+                    "id": 9,
+                    "identifier": "custom1",
+                    "_id": "684fbdf3a00debf3efef23f4"
+                },
+                {
+                    "id": 10,
+                    "identifier": "custom2",
+                    "_id": "684fbdf3a00debf3efef23f5"
+                }
+            ],
+            "elementrepoid": "684fbdf3a00debf3efef2354",
+            "appType": "Web",
+            "isCustom": false,
+            "__v": 0
+        },
+        {
+            "_id": "684fbdf3a00debf3efef23f6",
+            "name": "@Browser",
+            "height": 0,
+            "hiddentag": "No",
+            "left": 0,
+            "tag": "div",
+            "top": 0,
+            "url": "https://automateqa.avoassurecloud.com/design",
+            "width": 0,
+            "xpath": "NaN",
+            "tempOrderId": "443e099c-bfa8-4d2f-9e51-3969f7463a93",
+            "identifiers": {
+                "cssselector": "div[class=\"ant-select-item ant-select-item-option ant-select-item-option-active\"] div",
+                "id": "None",
+                "xpath": "/html/body/div[6]/div/div/div[2]/div/div/div/div[4]/div",
+                "rxpath": "//body/div/div/div/div/div/div/div/div[4]/div",
+                "name": "None",
+                "classname": "ant-select-item-option-content[3]",
+                "href": "None",
+                "label": "None",
+                "custom1": "None",
+                "custom2": "None"
+            },
+            "identifierpriority": [
+                {
+                    "id": 1,
+                    "identifier": "cssselector",
+                    "_id": "684fbdf3a00debf3efef23f7"
+                },
+                {
+                    "id": 2,
+                    "identifier": "id",
+                    "_id": "684fbdf3a00debf3efef23f8"
+                },
+                {
+                    "id": 3,
+                    "identifier": "xpath",
+                    "_id": "684fbdf3a00debf3efef23f9"
+                },
+                {
+                    "id": 4,
+                    "identifier": "rxpath",
+                    "_id": "684fbdf3a00debf3efef23fa"
+                },
+                {
+                    "id": 5,
+                    "identifier": "name",
+                    "_id": "684fbdf3a00debf3efef23fb"
+                },
+                {
+                    "id": 6,
+                    "identifier": "classname",
+                    "_id": "684fbdf3a00debf3efef23fc"
+                },
+                {
+                    "id": 7,
+                    "identifier": "href",
+                    "_id": "684fbdf3a00debf3efef23fd"
+                },
+                {
+                    "id": 8,
+                    "identifier": "label",
+                    "_id": "684fbdf3a00debf3efef23fe"
+                },
+                {
+                    "id": 9,
+                    "identifier": "custom1",
+                    "_id": "684fbdf3a00debf3efef23ff"
+                },
+                {
+                    "id": 10,
+                    "identifier": "custom2",
+                    "_id": "684fbdf3a00debf3efef2400"
+                }
+            ],
+            "elementrepoid": "684fbdf3a00debf3efef2354",
+            "appType": "Web",
+            "isCustom": false,
+            "__v": 0
+        },
+        {
+            "_id": "684fbdf3a00debf3efef2401",
+            "name": "add_new_icon",
+            "height": 0,
+            "hiddentag": "No",
+            "left": 0,
+            "tag": "img",
+            "top": 0,
+            "url": "https://automateqa.avoassurecloud.com/design",
+            "width": 0,
+            "xpath": "NaN",
+            "tempOrderId": "60bbcd41-3028-4a5d-865a-6d7e2d81daba",
+            "identifiers": {
+                "cssselector": "div[class=\"flex align-items-center justify-content-center ant-tooltip-open\"] img",
+                "id": "None",
+                "xpath": "/html/body/div[2]/div/div[5]/div[3]/div/div/div/div/div[3]/div/div/div/div[1]/div/div/div/div/div/div/div[1]/div/table/tbody/tr[2]/td/div[1]/div[1]/div/div/div/div/div/table/tbody/tr/td[8]/div/div/div[1]/button/span/img",
+                "rxpath": "//td[8]/div/div/div[1]/button/span/img",
+                "name": "None",
+                "classname": "PopoverAddStep_iconsImgPlus__QKIlQ[1]",
+                "href": "None",
+                "label": "None",
+                "custom1": "None",
+                "custom2": "None"
+            },
+            "identifierpriority": [
+                {
+                    "id": 1,
+                    "identifier": "cssselector",
+                    "_id": "684fbdf3a00debf3efef2402"
+                },
+                {
+                    "id": 2,
+                    "identifier": "id",
+                    "_id": "684fbdf3a00debf3efef2403"
+                },
+                {
+                    "id": 3,
+                    "identifier": "xpath",
+                    "_id": "684fbdf3a00debf3efef2404"
+                },
+                {
+                    "id": 4,
+                    "identifier": "rxpath",
+                    "_id": "684fbdf3a00debf3efef2405"
+                },
+                {
+                    "id": 5,
+                    "identifier": "name",
+                    "_id": "684fbdf3a00debf3efef2406"
+                },
+                {
+                    "id": 6,
+                    "identifier": "classname",
+                    "_id": "684fbdf3a00debf3efef2407"
+                },
+                {
+                    "id": 7,
+                    "identifier": "href",
+                    "_id": "684fbdf3a00debf3efef2408"
+                },
+                {
+                    "id": 8,
+                    "identifier": "label",
+                    "_id": "684fbdf3a00debf3efef2409"
+                },
+                {
+                    "id": 9,
+                    "identifier": "custom1",
+                    "_id": "684fbdf3a00debf3efef240a"
+                },
+                {
+                    "id": 10,
+                    "identifier": "custom2",
+                    "_id": "684fbdf3a00debf3efef240b"
+                }
+            ],
+            "elementrepoid": "684fbdf3a00debf3efef2354",
+            "appType": "Web",
+            "isCustom": false,
+            "__v": 0
+        },
+        {
+            "_id": "684fbdf3a00debf3efef240c",
+            "name": "Add step manually",
+            "height": 0,
+            "hiddentag": "No",
+            "left": 0,
+            "tag": "span",
+            "top": 0,
+            "url": "https://automateqa.avoassurecloud.com/design",
+            "width": 0,
+            "xpath": "NaN",
+            "tempOrderId": "443cda9c-1321-42d6-b2ab-7ba33a780b6c",
+            "identifiers": {
+                "cssselector": "span[class=\"\"]",
+                "id": "None",
+                "xpath": "/html/body/div[7]/div/div[2]/div/div/div/button[1]/span",
+                "rxpath": "//div[2]/div/div/div/button[1]/span",
+                "name": "None",
+                "classname": "SLKNineteen68_Highlight",
+                "href": "None",
+                "label": "None",
+                "custom1": "None",
+                "custom2": "None"
+            },
+            "identifierpriority": [
+                {
+                    "id": 1,
+                    "identifier": "cssselector",
+                    "_id": "684fbdf3a00debf3efef240d"
+                },
+                {
+                    "id": 2,
+                    "identifier": "id",
+                    "_id": "684fbdf3a00debf3efef240e"
+                },
+                {
+                    "id": 3,
+                    "identifier": "xpath",
+                    "_id": "684fbdf3a00debf3efef240f"
+                },
+                {
+                    "id": 4,
+                    "identifier": "rxpath",
+                    "_id": "684fbdf3a00debf3efef2410"
+                },
+                {
+                    "id": 5,
+                    "identifier": "name",
+                    "_id": "684fbdf3a00debf3efef2411"
+                },
+                {
+                    "id": 6,
+                    "identifier": "classname",
+                    "_id": "684fbdf3a00debf3efef2412"
+                },
+                {
+                    "id": 7,
+                    "identifier": "href",
+                    "_id": "684fbdf3a00debf3efef2413"
+                },
+                {
+                    "id": 8,
+                    "identifier": "label",
+                    "_id": "684fbdf3a00debf3efef2414"
+                },
+                {
+                    "id": 9,
+                    "identifier": "custom1",
+                    "_id": "684fbdf3a00debf3efef2415"
+                },
+                {
+                    "id": 10,
+                    "identifier": "custom2",
+                    "_id": "684fbdf3a00debf3efef2416"
+                }
+            ],
+            "elementrepoid": "684fbdf3a00debf3efef2354",
+            "appType": "Web",
+            "isCustom": false,
+            "__v": 0
+        },
+        {
+            "_id": "684fbdf3a00debf3efef2417",
+            "name": "@Generic_35",
+            "height": 0,
+            "hiddentag": "No",
+            "left": 0,
+            "tag": "span",
+            "top": 0,
+            "url": "https://automateqa.avoassurecloud.com/design",
+            "width": 0,
+            "xpath": "NaN",
+            "tempOrderId": "4a28e2a0-003f-4575-9511-79a3d8e88289",
+            "identifiers": {
+                "cssselector": "span[title=\"@Generic\"]",
+                "id": "None",
+                "xpath": "/html/body/div[2]/div/div[5]/div[3]/div/div/div/div/div[3]/div/div/div/div[1]/div/div/div/div/div/div/div[1]/div/table/tbody/tr[2]/td/div[1]/div[1]/div/div/div/div/div/table/tbody/tr[2]/td[4]/div/div/div/div/div/div/div/span[2]",
+                "rxpath": "//td[4]/div/div/div/div/div/div/div/span[2]",
+                "name": "None",
+                "classname": "ant-select-selection-item[1]",
+                "href": "None",
+                "label": "None",
+                "custom1": "None",
+                "custom2": "None"
+            },
+            "identifierpriority": [
+                {
+                    "id": 1,
+                    "identifier": "cssselector",
+                    "_id": "684fbdf3a00debf3efef2418"
+                },
+                {
+                    "id": 2,
+                    "identifier": "id",
+                    "_id": "684fbdf3a00debf3efef2419"
+                },
+                {
+                    "id": 3,
+                    "identifier": "xpath",
+                    "_id": "684fbdf3a00debf3efef241a"
+                },
+                {
+                    "id": 4,
+                    "identifier": "rxpath",
+                    "_id": "684fbdf3a00debf3efef241b"
+                },
+                {
+                    "id": 5,
+                    "identifier": "name",
+                    "_id": "684fbdf3a00debf3efef241c"
+                },
+                {
+                    "id": 6,
+                    "identifier": "classname",
+                    "_id": "684fbdf3a00debf3efef241d"
+                },
+                {
+                    "id": 7,
+                    "identifier": "href",
+                    "_id": "684fbdf3a00debf3efef241e"
+                },
+                {
+                    "id": 8,
+                    "identifier": "label",
+                    "_id": "684fbdf3a00debf3efef241f"
+                },
+                {
+                    "id": 9,
+                    "identifier": "custom1",
+                    "_id": "684fbdf3a00debf3efef2420"
+                },
+                {
+                    "id": 10,
+                    "identifier": "custom2",
+                    "_id": "684fbdf3a00debf3efef2421"
+                }
+            ],
+            "elementrepoid": "684fbdf3a00debf3efef2354",
+            "appType": "Web",
+            "isCustom": false,
+            "__v": 0
+        },
+        {
+            "_id": "684fbdf3a00debf3efef2422",
+            "name": "@Browser_36",
+            "height": 0,
+            "hiddentag": "No",
+            "left": 0,
+            "tag": "div",
+            "top": 0,
+            "url": "https://automateqa.avoassurecloud.com/design",
+            "width": 0,
+            "xpath": "NaN",
+            "tempOrderId": "c4a89ff7-2ec7-4d24-8e85-14c573129ea3",
+            "identifiers": {
+                "cssselector": "div[class=\"ant-select-item ant-select-item-option ant-select-item-option-active\"] div",
+                "id": "None",
+                "xpath": "/html/body/div[6]/div/div/div[2]/div/div/div/div[4]/div",
+                "rxpath": "//body/div/div/div/div/div/div/div/div[4]/div",
+                "name": "None",
+                "classname": "ant-select-item-option-content[3]",
+                "href": "None",
+                "label": "None",
+                "custom1": "None",
+                "custom2": "None"
+            },
+            "identifierpriority": [
+                {
+                    "id": 1,
+                    "identifier": "cssselector",
+                    "_id": "684fbdf3a00debf3efef2423"
+                },
+                {
+                    "id": 2,
+                    "identifier": "id",
+                    "_id": "684fbdf3a00debf3efef2424"
+                },
+                {
+                    "id": 3,
+                    "identifier": "xpath",
+                    "_id": "684fbdf3a00debf3efef2425"
+                },
+                {
+                    "id": 4,
+                    "identifier": "rxpath",
+                    "_id": "684fbdf3a00debf3efef2426"
+                },
+                {
+                    "id": 5,
+                    "identifier": "name",
+                    "_id": "684fbdf3a00debf3efef2427"
+                },
+                {
+                    "id": 6,
+                    "identifier": "classname",
+                    "_id": "684fbdf3a00debf3efef2428"
+                },
+                {
+                    "id": 7,
+                    "identifier": "href",
+                    "_id": "684fbdf3a00debf3efef2429"
+                },
+                {
+                    "id": 8,
+                    "identifier": "label",
+                    "_id": "684fbdf3a00debf3efef242a"
+                },
+                {
+                    "id": 9,
+                    "identifier": "custom1",
+                    "_id": "684fbdf3a00debf3efef242b"
+                },
+                {
+                    "id": 10,
+                    "identifier": "custom2",
+                    "_id": "684fbdf3a00debf3efef242c"
+                }
+            ],
+            "elementrepoid": "684fbdf3a00debf3efef2354",
+            "appType": "Web",
+            "isCustom": false,
+            "__v": 0
+        },
+        {
+            "_id": "684fbdf3a00debf3efef242d",
+            "name": "Open Browser",
+            "height": 0,
+            "hiddentag": "No",
+            "left": 0,
+            "tag": "div",
+            "top": 0,
+            "url": "https://automateqa.avoassurecloud.com/design",
+            "width": 0,
+            "xpath": "NaN",
+            "tempOrderId": "33d6a8bf-af4f-44a2-87f4-2c12fac7044c",
+            "identifiers": {
+                "cssselector": "None",
+                "id": "None",
+                "xpath": "/html/body/div[2]/div/div[5]/div[3]/div/div/div/div/div[3]/div/div/div/div[1]/div/div/div/div/div/div/div[1]/div/table/tbody/tr[2]/td/div[1]/div[1]/div/div/div/div/div/table/tbody/tr[2]/td[5]/div",
+                "rxpath": "//tr[2]/td[5]/div",
+                "name": "None",
+                "classname": "editable-cell-value-wrap[12]",
+                "href": "None",
+                "label": "None",
+                "custom1": "None",
+                "custom2": "None"
+            },
+            "identifierpriority": [
+                {
+                    "id": 1,
+                    "identifier": "cssselector",
+                    "_id": "684fbdf3a00debf3efef242e"
+                },
+                {
+                    "id": 2,
+                    "identifier": "id",
+                    "_id": "684fbdf3a00debf3efef242f"
+                },
+                {
+                    "id": 3,
+                    "identifier": "xpath",
+                    "_id": "684fbdf3a00debf3efef2430"
+                },
+                {
+                    "id": 4,
+                    "identifier": "rxpath",
+                    "_id": "684fbdf3a00debf3efef2431"
+                },
+                {
+                    "id": 5,
+                    "identifier": "name",
+                    "_id": "684fbdf3a00debf3efef2432"
+                },
+                {
+                    "id": 6,
+                    "identifier": "classname",
+                    "_id": "684fbdf3a00debf3efef2433"
+                },
+                {
+                    "id": 7,
+                    "identifier": "href",
+                    "_id": "684fbdf3a00debf3efef2434"
+                },
+                {
+                    "id": 8,
+                    "identifier": "label",
+                    "_id": "684fbdf3a00debf3efef2435"
+                },
+                {
+                    "id": 9,
+                    "identifier": "custom1",
+                    "_id": "684fbdf3a00debf3efef2436"
+                },
+                {
+                    "id": 10,
+                    "identifier": "custom2",
+                    "_id": "684fbdf3a00debf3efef2437"
+                }
+            ],
+            "elementrepoid": "684fbdf3a00debf3efef2354",
+            "appType": "Web",
+            "isCustom": false,
+            "__v": 0
+        },
+        {
+            "_id": "684fbdf3a00debf3efef2438",
+            "name": "Open Browser_37",
+            "height": 0,
+            "hiddentag": "No",
+            "left": 0,
+            "tag": "span",
+            "top": 0,
+            "url": "https://automateqa.avoassurecloud.com/design",
+            "width": 0,
+            "xpath": "NaN",
+            "tempOrderId": "e659939f-7c20-40cb-8257-1f61074232af",
+            "identifiers": {
+                "cssselector": "span[title=\"Open Browser\"]",
+                "id": "None",
+                "xpath": "/html/body/div[2]/div/div[5]/div[3]/div/div/div/div/div[3]/div/div/div/div[1]/div/div/div/div/div/div/div[1]/div/table/tbody/tr[2]/td/div[1]/div[1]/div/div/div/div/div/table/tbody/tr[2]/td[5]/div/div/div/div/div/div/div/span[2]",
+                "rxpath": "//td[5]/div/div/div/div/div/div/div/span[2]",
+                "name": "None",
+                "classname": "ant-select-selection-item[2]",
+                "href": "None",
+                "label": "None",
+                "custom1": "None",
+                "custom2": "None"
+            },
+            "identifierpriority": [
+                {
+                    "id": 1,
+                    "identifier": "cssselector",
+                    "_id": "684fbdf3a00debf3efef2439"
+                },
+                {
+                    "id": 2,
+                    "identifier": "id",
+                    "_id": "684fbdf3a00debf3efef243a"
+                },
+                {
+                    "id": 3,
+                    "identifier": "xpath",
+                    "_id": "684fbdf3a00debf3efef243b"
+                },
+                {
+                    "id": 4,
+                    "identifier": "rxpath",
+                    "_id": "684fbdf3a00debf3efef243c"
+                },
+                {
+                    "id": 5,
+                    "identifier": "name",
+                    "_id": "684fbdf3a00debf3efef243d"
+                },
+                {
+                    "id": 6,
+                    "identifier": "classname",
+                    "_id": "684fbdf3a00debf3efef243e"
+                },
+                {
+                    "id": 7,
+                    "identifier": "href",
+                    "_id": "684fbdf3a00debf3efef243f"
+                },
+                {
+                    "id": 8,
+                    "identifier": "label",
+                    "_id": "684fbdf3a00debf3efef2440"
+                },
+                {
+                    "id": 9,
+                    "identifier": "custom1",
+                    "_id": "684fbdf3a00debf3efef2441"
+                },
+                {
+                    "id": 10,
+                    "identifier": "custom2",
+                    "_id": "684fbdf3a00debf3efef2442"
+                }
+            ],
+            "elementrepoid": "684fbdf3a00debf3efef2354",
+            "appType": "Web",
+            "isCustom": false,
+            "__v": 0
+        },
+        {
+            "_id": "684fbdf3a00debf3efef2443",
+            "name": "Navigate to URL",
+            "height": 0,
+            "hiddentag": "No",
+            "left": 0,
+            "tag": "span",
+            "top": 0,
+            "url": "https://automateqa.avoassurecloud.com/design",
+            "width": 0,
+            "xpath": "NaN",
+            "tempOrderId": "b677b765-3a76-4c55-a2ab-3aa0ed5c7d0c",
+            "identifiers": {
+                "cssselector": "span[class=\"ant-tooltip-open\"]",
+                "id": "None",
+                "xpath": "/html/body/div[6]/div/div/span/div[2]/div[1]/div/div/div[8]/div/span",
+                "rxpath": "//div[8]/div/span",
+                "name": "None",
+                "classname": "ant-tooltip-open",
+                "href": "None",
+                "label": "None",
+                "custom1": "None",
+                "custom2": "None"
+            },
+            "identifierpriority": [
+                {
+                    "id": 1,
+                    "identifier": "cssselector",
+                    "_id": "684fbdf3a00debf3efef2444"
+                },
+                {
+                    "id": 2,
+                    "identifier": "id",
+                    "_id": "684fbdf3a00debf3efef2445"
+                },
+                {
+                    "id": 3,
+                    "identifier": "xpath",
+                    "_id": "684fbdf3a00debf3efef2446"
+                },
+                {
+                    "id": 4,
+                    "identifier": "rxpath",
+                    "_id": "684fbdf3a00debf3efef2447"
+                },
+                {
+                    "id": 5,
+                    "identifier": "name",
+                    "_id": "684fbdf3a00debf3efef2448"
+                },
+                {
+                    "id": 6,
+                    "identifier": "classname",
+                    "_id": "684fbdf3a00debf3efef2449"
+                },
+                {
+                    "id": 7,
+                    "identifier": "href",
+                    "_id": "684fbdf3a00debf3efef244a"
+                },
+                {
+                    "id": 8,
+                    "identifier": "label",
+                    "_id": "684fbdf3a00debf3efef244b"
+                },
+                {
+                    "id": 9,
+                    "identifier": "custom1",
+                    "_id": "684fbdf3a00debf3efef244c"
+                },
+                {
+                    "id": 10,
+                    "identifier": "custom2",
+                    "_id": "684fbdf3a00debf3efef244d"
+                }
+            ],
+            "elementrepoid": "684fbdf3a00debf3efef2354",
+            "appType": "Web",
+            "isCustom": false,
+            "__v": 0
+        },
+        {
+            "_id": "684fbdf3a00debf3efef244e",
+            "name": "Save",
+            "height": 0,
+            "hiddentag": "No",
+            "left": 0,
+            "tag": "span",
+            "top": 0,
+            "url": "https://automateqa.avoassurecloud.com/design",
+            "width": 0,
+            "xpath": "NaN",
+            "tempOrderId": "7b5a2a09-fb35-402e-8f38-b0bba36ebc2d",
+            "identifiers": {
+                "cssselector": "span[class=\"\"]",
+                "id": "None",
+                "xpath": "/html/body/div[2]/div/div[5]/div[3]/div/div/div/div/div[2]/div[3]/div[5]/button[2]/span",
+                "rxpath": "//div[5]/button[2]/span",
+                "name": "None",
+                "classname": "SLKNineteen68_Highlight",
+                "href": "None",
+                "label": "None",
+                "custom1": "None",
+                "custom2": "None"
+            },
+            "identifierpriority": [
+                {
+                    "id": 1,
+                    "identifier": "cssselector",
+                    "_id": "684fbdf3a00debf3efef244f"
+                },
+                {
+                    "id": 2,
+                    "identifier": "id",
+                    "_id": "684fbdf3a00debf3efef2450"
+                },
+                {
+                    "id": 3,
+                    "identifier": "xpath",
+                    "_id": "684fbdf3a00debf3efef2451"
+                },
+                {
+                    "id": 4,
+                    "identifier": "rxpath",
+                    "_id": "684fbdf3a00debf3efef2452"
+                },
+                {
+                    "id": 5,
+                    "identifier": "name",
+                    "_id": "684fbdf3a00debf3efef2453"
+                },
+                {
+                    "id": 6,
+                    "identifier": "classname",
+                    "_id": "684fbdf3a00debf3efef2454"
+                },
+                {
+                    "id": 7,
+                    "identifier": "href",
+                    "_id": "684fbdf3a00debf3efef2455"
+                },
+                {
+                    "id": 8,
+                    "identifier": "label",
+                    "_id": "684fbdf3a00debf3efef2456"
+                },
+                {
+                    "id": 9,
+                    "identifier": "custom1",
+                    "_id": "684fbdf3a00debf3efef2457"
+                },
+                {
+                    "id": 10,
+                    "identifier": "custom2",
+                    "_id": "684fbdf3a00debf3efef2458"
+                }
+            ],
+            "elementrepoid": "684fbdf3a00debf3efef2354",
+            "appType": "Web",
+            "isCustom": false,
+            "__v": 0
+        },
+        {
+            "_id": "684fbdf3a00debf3efef2459",
+            "name": "import",
+            "height": 0,
+            "hiddentag": "No",
+            "left": 0,
+            "tag": "img",
+            "top": 0,
+            "url": "https://automateqa.avoassurecloud.com/design",
+            "width": 0,
+            "xpath": "NaN",
+            "tempOrderId": "d22885b4-0617-4938-9a3c-98a753838caf",
+            "identifiers": {
+                "cssselector": "img[class=\"icon-20 ant-tooltip-open\"]",
+                "id": "None",
+                "xpath": "/html/body/div[2]/div/div[5]/div[3]/div/div/div/div/div[2]/div[3]/div[3]/img[1]",
+                "rxpath": "//div[3]/div[3]/img[1]",
+                "name": "None",
+                "classname": "icon-20 ant-tooltip-open",
+                "href": "None",
+                "label": "None",
+                "custom1": "None",
+                "custom2": "None"
+            },
+            "identifierpriority": [
+                {
+                    "id": 1,
+                    "identifier": "cssselector",
+                    "_id": "684fbdf3a00debf3efef245a"
+                },
+                {
+                    "id": 2,
+                    "identifier": "id",
+                    "_id": "684fbdf3a00debf3efef245b"
+                },
+                {
+                    "id": 3,
+                    "identifier": "xpath",
+                    "_id": "684fbdf3a00debf3efef245c"
+                },
+                {
+                    "id": 4,
+                    "identifier": "rxpath",
+                    "_id": "684fbdf3a00debf3efef245d"
+                },
+                {
+                    "id": 5,
+                    "identifier": "name",
+                    "_id": "684fbdf3a00debf3efef245e"
+                },
+                {
+                    "id": 6,
+                    "identifier": "classname",
+                    "_id": "684fbdf3a00debf3efef245f"
+                },
+                {
+                    "id": 7,
+                    "identifier": "href",
+                    "_id": "684fbdf3a00debf3efef2460"
+                },
+                {
+                    "id": 8,
+                    "identifier": "label",
+                    "_id": "684fbdf3a00debf3efef2461"
+                },
+                {
+                    "id": 9,
+                    "identifier": "custom1",
+                    "_id": "684fbdf3a00debf3efef2462"
+                },
+                {
+                    "id": 10,
+                    "identifier": "custom2",
+                    "_id": "684fbdf3a00debf3efef2463"
+                }
+            ],
+            "elementrepoid": "684fbdf3a00debf3efef2354",
+            "appType": "Web",
+            "isCustom": false,
+            "__v": 0
+        },
+        {
+            "_id": "684fbdf3a00debf3efef2464",
+            "name": "Upload File (Only .json):",
+            "height": 0,
+            "hiddentag": "No",
+            "left": 0,
+            "tag": "button",
+            "top": 0,
+            "url": "https://automateqa.avoassurecloud.com/design",
+            "width": 0,
+            "xpath": "NaN",
+            "tempOrderId": "ccedb365-db4e-4999-81e2-e8a51afa7ef3",
+            "identifiers": {
+                "cssselector": "input[class=\"\"]",
+                "id": "None",
+                "xpath": "/html/body/div[8]/div/div[2]/div[1]/div/div/div[1]/input",
+                "rxpath": "//div[2]/div[1]/div/div/div[1]/input",
+                "name": "None",
+                "classname": "SLKNineteen68_Highlight",
+                "href": "None",
+                "label": "None",
+                "custom1": "None",
+                "custom2": "None"
+            },
+            "identifierpriority": [
+                {
+                    "id": 1,
+                    "identifier": "cssselector",
+                    "_id": "684fbdf3a00debf3efef2465"
+                },
+                {
+                    "id": 2,
+                    "identifier": "id",
+                    "_id": "684fbdf3a00debf3efef2466"
+                },
+                {
+                    "id": 3,
+                    "identifier": "xpath",
+                    "_id": "684fbdf3a00debf3efef2467"
+                },
+                {
+                    "id": 4,
+                    "identifier": "rxpath",
+                    "_id": "684fbdf3a00debf3efef2468"
+                },
+                {
+                    "id": 5,
+                    "identifier": "name",
+                    "_id": "684fbdf3a00debf3efef2469"
+                },
+                {
+                    "id": 6,
+                    "identifier": "classname",
+                    "_id": "684fbdf3a00debf3efef246a"
+                },
+                {
+                    "id": 7,
+                    "identifier": "href",
+                    "_id": "684fbdf3a00debf3efef246b"
+                },
+                {
+                    "id": 8,
+                    "identifier": "label",
+                    "_id": "684fbdf3a00debf3efef246c"
+                },
+                {
+                    "id": 9,
+                    "identifier": "custom1",
+                    "_id": "684fbdf3a00debf3efef246d"
+                },
+                {
+                    "id": 10,
+                    "identifier": "custom2",
+                    "_id": "684fbdf3a00debf3efef246e"
+                }
+            ],
+            "elementrepoid": "684fbdf3a00debf3efef2354",
+            "appType": "Web",
+            "isCustom": false,
+            "__v": 0
+        },
+        {
+            "_id": "684fbdf3a00debf3efef246f",
+            "name": "NONAME1",
+            "height": 0,
+            "hiddentag": "No",
+            "left": 0,
+            "tag": "div",
+            "top": 0,
+            "url": "https://automateqa.avoassurecloud.com/design",
+            "width": 0,
+            "xpath": "NaN",
+            "tempOrderId": "a962b174-97fc-4106-91c8-a00b4157b8c8",
+            "identifiers": {
+                "cssselector": "div[class=\"p-checkbox-box\"]",
+                "id": "None",
+                "xpath": "/html/body/div[8]/div/div[2]/div[1]/div/div/div[2]/div/div[1]/div[2]",
+                "rxpath": "//div[2]/div[1]/div/div/div[2]/div/div[1]/div[2]",
+                "name": "None",
+                "classname": "p-checkbox-box",
+                "href": "None",
+                "label": "None",
+                "custom1": "None",
+                "custom2": "None"
+            },
+            "identifierpriority": [
+                {
+                    "id": 1,
+                    "identifier": "cssselector",
+                    "_id": "684fbdf3a00debf3efef2470"
+                },
+                {
+                    "id": 2,
+                    "identifier": "id",
+                    "_id": "684fbdf3a00debf3efef2471"
+                },
+                {
+                    "id": 3,
+                    "identifier": "xpath",
+                    "_id": "684fbdf3a00debf3efef2472"
+                },
+                {
+                    "id": 4,
+                    "identifier": "rxpath",
+                    "_id": "684fbdf3a00debf3efef2473"
+                },
+                {
+                    "id": 5,
+                    "identifier": "name",
+                    "_id": "684fbdf3a00debf3efef2474"
+                },
+                {
+                    "id": 6,
+                    "identifier": "classname",
+                    "_id": "684fbdf3a00debf3efef2475"
+                },
+                {
+                    "id": 7,
+                    "identifier": "href",
+                    "_id": "684fbdf3a00debf3efef2476"
+                },
+                {
+                    "id": 8,
+                    "identifier": "label",
+                    "_id": "684fbdf3a00debf3efef2477"
+                },
+                {
+                    "id": 9,
+                    "identifier": "custom1",
+                    "_id": "684fbdf3a00debf3efef2478"
+                },
+                {
+                    "id": 10,
+                    "identifier": "custom2",
+                    "_id": "684fbdf3a00debf3efef2479"
+                }
+            ],
+            "elementrepoid": "684fbdf3a00debf3efef2354",
+            "appType": "Web",
+            "isCustom": false,
+            "__v": 0
+        },
+        {
+            "_id": "684fbdf3a00debf3efef247a",
+            "name": ": If not selected, the existing elements",
+            "height": 0,
+            "hiddentag": "No",
+            "left": 0,
+            "tag": "div",
+            "top": 0,
+            "url": "https://automateqa.avoassurecloud.com/design",
+            "width": 0,
+            "xpath": "NaN",
+            "tempOrderId": "1007b18a-eeab-4873-8aab-23e8afbb11ef",
+            "identifiers": {
+                "cssselector": "div[class=\"flex flex-column\"] div[class=\"SLKNineteen68_Highlight\"]",
+                "id": "None",
+                "xpath": "/html/body/div[8]/div/div[2]/div[1]/div/div/div[2]/div/div[2]/div",
+                "rxpath": "//div[2]/div[1]/div/div/div[2]/div/div[2]/div",
+                "name": "None",
+                "classname": "SLKNineteen68_Highlight",
+                "href": "None",
+                "label": "None",
+                "custom1": "None",
+                "custom2": "None"
+            },
+            "identifierpriority": [
+                {
+                    "id": 1,
+                    "identifier": "cssselector",
+                    "_id": "684fbdf3a00debf3efef247b"
+                },
+                {
+                    "id": 2,
+                    "identifier": "id",
+                    "_id": "684fbdf3a00debf3efef247c"
+                },
+                {
+                    "id": 3,
+                    "identifier": "xpath",
+                    "_id": "684fbdf3a00debf3efef247d"
+                },
+                {
+                    "id": 4,
+                    "identifier": "rxpath",
+                    "_id": "684fbdf3a00debf3efef247e"
+                },
+                {
+                    "id": 5,
+                    "identifier": "name",
+                    "_id": "684fbdf3a00debf3efef247f"
+                },
+                {
+                    "id": 6,
+                    "identifier": "classname",
+                    "_id": "684fbdf3a00debf3efef2480"
+                },
+                {
+                    "id": 7,
+                    "identifier": "href",
+                    "_id": "684fbdf3a00debf3efef2481"
+                },
+                {
+                    "id": 8,
+                    "identifier": "label",
+                    "_id": "684fbdf3a00debf3efef2482"
+                },
+                {
+                    "id": 9,
+                    "identifier": "custom1",
+                    "_id": "684fbdf3a00debf3efef2483"
+                },
+                {
+                    "id": 10,
+                    "identifier": "custom2",
+                    "_id": "684fbdf3a00debf3efef2484"
+                }
+            ],
+            "elementrepoid": "684fbdf3a00debf3efef2354",
+            "appType": "Web",
+            "isCustom": false,
+            "__v": 0
+        },
+        {
+            "_id": "684fbdf3a00debf3efef2485",
+            "name": "NONAME2",
+            "height": 0,
+            "hiddentag": "No",
+            "left": 0,
+            "tag": "svg",
+            "top": 0,
+            "url": "https://automateqa.avoassurecloud.com/design",
+            "width": 0,
+            "xpath": "NaN",
+            "tempOrderId": "66db0cfc-a692-4bb6-a7e9-ddebd16ba45a",
+            "identifiers": {
+                "cssselector": "div[class=\"p-checkbox-box p-highlight\"] svg[class=\"p-icon p-checkbox-icon p-c\"]",
+                "id": "None",
+                "xpath": "/html/body/div[8]/div/div[2]/div[1]/div/div/div[2]/div/div[1]/div[2]/*[local-name()=\"svg\"]",
+                "rxpath": "//div[2]/div/div[1]/div[2]/*[local-name()=\"svg\"]",
+                "name": "None",
+                "classname": "p-icon p-checkbox-icon p-c",
+                "href": "None",
+                "label": "None",
+                "custom1": "None",
+                "custom2": "None"
+            },
+            "identifierpriority": [
+                {
+                    "id": 1,
+                    "identifier": "cssselector",
+                    "_id": "684fbdf3a00debf3efef2486"
+                },
+                {
+                    "id": 2,
+                    "identifier": "id",
+                    "_id": "684fbdf3a00debf3efef2487"
+                },
+                {
+                    "id": 3,
+                    "identifier": "xpath",
+                    "_id": "684fbdf3a00debf3efef2488"
+                },
+                {
+                    "id": 4,
+                    "identifier": "rxpath",
+                    "_id": "684fbdf3a00debf3efef2489"
+                },
+                {
+                    "id": 5,
+                    "identifier": "name",
+                    "_id": "684fbdf3a00debf3efef248a"
+                },
+                {
+                    "id": 6,
+                    "identifier": "classname",
+                    "_id": "684fbdf3a00debf3efef248b"
+                },
+                {
+                    "id": 7,
+                    "identifier": "href",
+                    "_id": "684fbdf3a00debf3efef248c"
+                },
+                {
+                    "id": 8,
+                    "identifier": "label",
+                    "_id": "684fbdf3a00debf3efef248d"
+                },
+                {
+                    "id": 9,
+                    "identifier": "custom1",
+                    "_id": "684fbdf3a00debf3efef248e"
+                },
+                {
+                    "id": 10,
+                    "identifier": "custom2",
+                    "_id": "684fbdf3a00debf3efef248f"
+                }
+            ],
+            "elementrepoid": "684fbdf3a00debf3efef2354",
+            "appType": "Web",
+            "isCustom": false,
+            "__v": 0
+        },
+        {
+            "_id": "684fbdf3a00debf3efef2490",
+            "name": "Import",
+            "height": 0,
+            "hiddentag": "No",
+            "left": 0,
+            "tag": "span",
+            "top": 0,
+            "url": "https://automateqa.avoassurecloud.com/design",
+            "width": 0,
+            "xpath": "NaN",
+            "tempOrderId": "8f646596-d877-41e4-8b3a-3fa61432f17e",
+            "identifiers": {
+                "cssselector": "span[class=\"p-button-label p-c\"]",
+                "id": "None",
+                "xpath": "/html/body/div[8]/div/div[3]/div/button/span[1]",
+                "rxpath": "None",
+                "name": "None",
+                "classname": "p-button-label p-c",
+                "href": "None",
+                "label": "None",
+                "custom1": "None",
+                "custom2": "None"
+            },
+            "identifierpriority": [
+                {
+                    "id": 1,
+                    "identifier": "cssselector",
+                    "_id": "684fbdf3a00debf3efef2491"
+                },
+                {
+                    "id": 2,
+                    "identifier": "id",
+                    "_id": "684fbdf3a00debf3efef2492"
+                },
+                {
+                    "id": 3,
+                    "identifier": "xpath",
+                    "_id": "684fbdf3a00debf3efef2493"
+                },
+                {
+                    "id": 4,
+                    "identifier": "rxpath",
+                    "_id": "684fbdf3a00debf3efef2494"
+                },
+                {
+                    "id": 5,
+                    "identifier": "name",
+                    "_id": "684fbdf3a00debf3efef2495"
+                },
+                {
+                    "id": 6,
+                    "identifier": "classname",
+                    "_id": "684fbdf3a00debf3efef2496"
+                },
+                {
+                    "id": 7,
+                    "identifier": "href",
+                    "_id": "684fbdf3a00debf3efef2497"
+                },
+                {
+                    "id": 8,
+                    "identifier": "label",
+                    "_id": "684fbdf3a00debf3efef2498"
+                },
+                {
+                    "id": 9,
+                    "identifier": "custom1",
+                    "_id": "684fbdf3a00debf3efef2499"
+                },
+                {
+                    "id": 10,
+                    "identifier": "custom2",
+                    "_id": "684fbdf3a00debf3efef249a"
+                }
+            ],
+            "elementrepoid": "684fbdf3a00debf3efef2354",
+            "appType": "Web",
+            "isCustom": false,
+            "__v": 0
+        },
+        {
+            "_id": "684fbdf3a00debf3efef249b",
+            "name": "create_folder_blue_icon",
+            "height": 0,
+            "hiddentag": "No",
+            "left": 0,
+            "tag": "img",
+            "top": 0,
+            "url": "https://automateqa.avoassurecloud.com/design",
+            "width": 0,
+            "xpath": "NaN",
+            "tempOrderId": "2f57efb4-67ce-4b02-806a-06b118392df6",
+            "identifiers": {
+                "cssselector": "img[class=\"\"]",
+                "id": "None",
+                "xpath": "/html/body/div[2]/div/div[5]/div[3]/div/div/div/div/div[3]/div/div/div/div[3]/div/div/div/div/div/div/div[2]/div/button/span/img",
+                "rxpath": "None",
+                "name": "None",
+                "classname": "SLKNineteen68_Highlight",
+                "href": "None",
+                "label": "None",
+                "custom1": "None",
+                "custom2": "None"
+            },
+            "identifierpriority": [
+                {
+                    "id": 1,
+                    "identifier": "cssselector",
+                    "_id": "684fbdf3a00debf3efef249c"
+                },
+                {
+                    "id": 2,
+                    "identifier": "id",
+                    "_id": "684fbdf3a00debf3efef249d"
+                },
+                {
+                    "id": 3,
+                    "identifier": "xpath",
+                    "_id": "684fbdf3a00debf3efef249e"
+                },
+                {
+                    "id": 4,
+                    "identifier": "rxpath",
+                    "_id": "684fbdf3a00debf3efef249f"
+                },
+                {
+                    "id": 5,
+                    "identifier": "name",
+                    "_id": "684fbdf3a00debf3efef24a0"
+                },
+                {
+                    "id": 6,
+                    "identifier": "classname",
+                    "_id": "684fbdf3a00debf3efef24a1"
+                },
+                {
+                    "id": 7,
+                    "identifier": "href",
+                    "_id": "684fbdf3a00debf3efef24a2"
+                },
+                {
+                    "id": 8,
+                    "identifier": "label",
+                    "_id": "684fbdf3a00debf3efef24a3"
+                },
+                {
+                    "id": 9,
+                    "identifier": "custom1",
+                    "_id": "684fbdf3a00debf3efef24a4"
+                },
+                {
+                    "id": 10,
+                    "identifier": "custom2",
+                    "_id": "684fbdf3a00debf3efef24a5"
+                }
+            ],
+            "elementrepoid": "684fbdf3a00debf3efef2354",
+            "appType": "Web",
+            "isCustom": false,
+            "__v": 0
+        },
+        {
+            "_id": "684fbdf3a00debf3efef24a6",
+            "name": "Add from repository",
+            "height": 0,
+            "hiddentag": "No",
+            "left": 0,
+            "tag": "span",
+            "top": 0,
+            "url": "https://automateqa.avoassurecloud.com/design",
+            "width": 0,
+            "xpath": "NaN",
+            "tempOrderId": "7a6ccc0f-6ccd-4a78-aded-1d3619471919",
+            "identifiers": {
+                "cssselector": "None",
+                "id": "None",
+                "xpath": "/html/body/div[8]/div/div[2]/div/div/div/div[2]/span",
+                "rxpath": "None",
+                "name": "None",
+                "classname": "popover_content[4]",
+                "href": "None",
+                "label": "None",
+                "custom1": "None",
+                "custom2": "None"
+            },
+            "identifierpriority": [
+                {
+                    "id": 1,
+                    "identifier": "cssselector",
+                    "_id": "684fbdf3a00debf3efef24a7"
+                },
+                {
+                    "id": 2,
+                    "identifier": "id",
+                    "_id": "684fbdf3a00debf3efef24a8"
+                },
+                {
+                    "id": 3,
+                    "identifier": "xpath",
+                    "_id": "684fbdf3a00debf3efef24a9"
+                },
+                {
+                    "id": 4,
+                    "identifier": "rxpath",
+                    "_id": "684fbdf3a00debf3efef24aa"
+                },
+                {
+                    "id": 5,
+                    "identifier": "name",
+                    "_id": "684fbdf3a00debf3efef24ab"
+                },
+                {
+                    "id": 6,
+                    "identifier": "classname",
+                    "_id": "684fbdf3a00debf3efef24ac"
+                },
+                {
+                    "id": 7,
+                    "identifier": "href",
+                    "_id": "684fbdf3a00debf3efef24ad"
+                },
+                {
+                    "id": 8,
+                    "identifier": "label",
+                    "_id": "684fbdf3a00debf3efef24ae"
+                },
+                {
+                    "id": 9,
+                    "identifier": "custom1",
+                    "_id": "684fbdf3a00debf3efef24af"
+                },
+                {
+                    "id": 10,
+                    "identifier": "custom2",
+                    "_id": "684fbdf3a00debf3efef24b0"
+                }
+            ],
+            "elementrepoid": "684fbdf3a00debf3efef2354",
+            "appType": "Web",
+            "isCustom": false,
+            "__v": 0
+        },
+        {
+            "_id": "684fbdf3a00debf3efef24b1",
+            "name": "Repo1",
+            "height": 0,
+            "hiddentag": "No",
+            "left": 0,
+            "tag": "span",
+            "top": 0,
+            "url": "https://automateqa.avoassurecloud.com/design",
+            "width": 0,
+            "xpath": "NaN",
+            "tempOrderId": "e24bf677-4621-4249-a019-f3992ac09e58",
+            "identifiers": {
+                "cssselector": "None",
+                "id": "None",
+                "xpath": "/html/body/div[2]/div/div[5]/div[3]/div/div/div/div/div[3]/div[1]/div/div[2]/div[3]/div/div[3]/div/div/div/div[2]/span[4]/span/span/span/span[2]",
+                "rxpath": "//div[2]/span[4]/span/span/span/span[2]",
+                "name": "None",
+                "classname": "AddTestStepFromER_testcaseName_ellipses__bx9mR[1]",
+                "href": "None",
+                "label": "None",
+                "custom1": "None",
+                "custom2": "None"
+            },
+            "identifierpriority": [
+                {
+                    "id": 1,
+                    "identifier": "cssselector",
+                    "_id": "684fbdf3a00debf3efef24b2"
+                },
+                {
+                    "id": 2,
+                    "identifier": "id",
+                    "_id": "684fbdf3a00debf3efef24b3"
+                },
+                {
+                    "id": 3,
+                    "identifier": "xpath",
+                    "_id": "684fbdf3a00debf3efef24b4"
+                },
+                {
+                    "id": 4,
+                    "identifier": "rxpath",
+                    "_id": "684fbdf3a00debf3efef24b5"
+                },
+                {
+                    "id": 5,
+                    "identifier": "name",
+                    "_id": "684fbdf3a00debf3efef24b6"
+                },
+                {
+                    "id": 6,
+                    "identifier": "classname",
+                    "_id": "684fbdf3a00debf3efef24b7"
+                },
+                {
+                    "id": 7,
+                    "identifier": "href",
+                    "_id": "684fbdf3a00debf3efef24b8"
+                },
+                {
+                    "id": 8,
+                    "identifier": "label",
+                    "_id": "684fbdf3a00debf3efef24b9"
+                },
+                {
+                    "id": 9,
+                    "identifier": "custom1",
+                    "_id": "684fbdf3a00debf3efef24ba"
+                },
+                {
+                    "id": 10,
+                    "identifier": "custom2",
+                    "_id": "684fbdf3a00debf3efef24bb"
+                }
+            ],
+            "elementrepoid": "684fbdf3a00debf3efef2354",
+            "appType": "Web",
+            "isCustom": false,
+            "__v": 0
+        },
+        {
+            "_id": "684fbdf3a00debf3efef24bc",
+            "name": "SI. No.ElementActionInput ValueOutput Va",
+            "height": 0,
+            "hiddentag": "No",
+            "left": 0,
+            "tag": "th",
+            "top": 0,
+            "url": "https://automateqa.avoassurecloud.com/design",
+            "width": 0,
+            "xpath": "NaN",
+            "tempOrderId": "6c69e9c9-1c9f-4f8a-bde7-c0cbdf5c65be",
+            "identifiers": {
+                "cssselector": "th[class=\"ant-table-cell ant-table-selection-column\"]",
+                "id": "None",
+                "xpath": "/html/body/div[2]/div/div[5]/div[3]/div/div/div/div/div[3]/div[2]/div/div/div[1]/div/div/div/div/div/div/div[1]/div/table/tbody/tr[2]/td/div[1]/div[1]/div/div/div/div/div/table/thead/tr/th[1]",
+                "rxpath": "//th[1]",
+                "name": "None",
+                "classname": "ant-table-cell ant-table-selection-column[0]",
+                "href": "None",
+                "label": "None",
+                "custom1": "None",
+                "custom2": "None"
+            },
+            "identifierpriority": [
+                {
+                    "id": 1,
+                    "identifier": "cssselector",
+                    "_id": "684fbdf3a00debf3efef24bd"
+                },
+                {
+                    "id": 2,
+                    "identifier": "id",
+                    "_id": "684fbdf3a00debf3efef24be"
+                },
+                {
+                    "id": 3,
+                    "identifier": "xpath",
+                    "_id": "684fbdf3a00debf3efef24bf"
+                },
+                {
+                    "id": 4,
+                    "identifier": "rxpath",
+                    "_id": "684fbdf3a00debf3efef24c0"
+                },
+                {
+                    "id": 5,
+                    "identifier": "name",
+                    "_id": "684fbdf3a00debf3efef24c1"
+                },
+                {
+                    "id": 6,
+                    "identifier": "classname",
+                    "_id": "684fbdf3a00debf3efef24c2"
+                },
+                {
+                    "id": 7,
+                    "identifier": "href",
+                    "_id": "684fbdf3a00debf3efef24c3"
+                },
+                {
+                    "id": 8,
+                    "identifier": "label",
+                    "_id": "684fbdf3a00debf3efef24c4"
+                },
+                {
+                    "id": 9,
+                    "identifier": "custom1",
+                    "_id": "684fbdf3a00debf3efef24c5"
+                },
+                {
+                    "id": 10,
+                    "identifier": "custom2",
+                    "_id": "684fbdf3a00debf3efef24c6"
+                }
+            ],
+            "elementrepoid": "684fbdf3a00debf3efef2354",
+            "appType": "Web",
+            "isCustom": false,
+            "__v": 0
+        },
+        {
+            "_id": "684fbdf3a00debf3efef24c7",
+            "name": "save_new_icon",
+            "height": 0,
+            "hiddentag": "No",
+            "left": 0,
+            "tag": "img",
+            "top": 0,
+            "url": "https://automateqa.avoassurecloud.com/design",
+            "width": 0,
+            "xpath": "NaN",
+            "tempOrderId": "932b80c3-d523-4889-af24-38e8e16771f4",
+            "identifiers": {
+                "cssselector": "button[class=\"ant-btn css-m4timi ant-btn-default TestCaseHeader_savebtn_testcase__59Ier ant-tooltip-open\"] img[class=\"SLKNineteen68_Highlight\"]",
+                "id": "None",
+                "xpath": "/html/body/div[2]/div/div[5]/div[3]/div/div/div/div/div[2]/div[3]/div[5]/button[2]/img",
+                "rxpath": "//button[2]/img",
+                "name": "None",
+                "classname": "SLKNineteen68_Highlight",
+                "href": "None",
+                "label": "None",
+                "custom1": "None",
+                "custom2": "None"
+            },
+            "identifierpriority": [
+                {
+                    "id": 1,
+                    "identifier": "cssselector",
+                    "_id": "684fbdf3a00debf3efef24c8"
+                },
+                {
+                    "id": 2,
+                    "identifier": "id",
+                    "_id": "684fbdf3a00debf3efef24c9"
+                },
+                {
+                    "id": 3,
+                    "identifier": "xpath",
+                    "_id": "684fbdf3a00debf3efef24ca"
+                },
+                {
+                    "id": 4,
+                    "identifier": "rxpath",
+                    "_id": "684fbdf3a00debf3efef24cb"
+                },
+                {
+                    "id": 5,
+                    "identifier": "name",
+                    "_id": "684fbdf3a00debf3efef24cc"
+                },
+                {
+                    "id": 6,
+                    "identifier": "classname",
+                    "_id": "684fbdf3a00debf3efef24cd"
+                },
+                {
+                    "id": 7,
+                    "identifier": "href",
+                    "_id": "684fbdf3a00debf3efef24ce"
+                },
+                {
+                    "id": 8,
+                    "identifier": "label",
+                    "_id": "684fbdf3a00debf3efef24cf"
+                },
+                {
+                    "id": 9,
+                    "identifier": "custom1",
+                    "_id": "684fbdf3a00debf3efef24d0"
+                },
+                {
+                    "id": 10,
+                    "identifier": "custom2",
+                    "_id": "684fbdf3a00debf3efef24d1"
+                }
+            ],
+            "elementrepoid": "684fbdf3a00debf3efef2354",
+            "appType": "Web",
+            "isCustom": false,
+            "__v": 0
+        },
+        {
+            "_id": "684fbdf3a00debf3efef24d2",
+            "name": "export",
+            "height": 0,
+            "hiddentag": "No",
+            "left": 0,
+            "tag": "img",
+            "top": 0,
+            "url": "https://automateqa.avoassurecloud.com/design",
+            "width": 0,
+            "xpath": "NaN",
+            "tempOrderId": "117d5564-e27b-47e7-8af9-d4da0cc53a8d",
+            "identifiers": {
+                "cssselector": "img[class=\"icon-20 ant-tooltip-open\"]",
+                "id": "None",
+                "xpath": "/html/body/div[2]/div/div[5]/div[3]/div/div/div/div/div[2]/div[3]/div[3]/img[2]",
+                "rxpath": "//div[3]/img[2]",
+                "name": "None",
+                "classname": "icon-20 ant-tooltip-open",
+                "href": "None",
+                "label": "None",
+                "custom1": "None",
+                "custom2": "None"
+            },
+            "identifierpriority": [
+                {
+                    "id": 1,
+                    "identifier": "cssselector",
+                    "_id": "684fbdf3a00debf3efef24d3"
+                },
+                {
+                    "id": 2,
+                    "identifier": "id",
+                    "_id": "684fbdf3a00debf3efef24d4"
+                },
+                {
+                    "id": 3,
+                    "identifier": "xpath",
+                    "_id": "684fbdf3a00debf3efef24d5"
+                },
+                {
+                    "id": 4,
+                    "identifier": "rxpath",
+                    "_id": "684fbdf3a00debf3efef24d6"
+                },
+                {
+                    "id": 5,
+                    "identifier": "name",
+                    "_id": "684fbdf3a00debf3efef24d7"
+                },
+                {
+                    "id": 6,
+                    "identifier": "classname",
+                    "_id": "684fbdf3a00debf3efef24d8"
+                },
+                {
+                    "id": 7,
+                    "identifier": "href",
+                    "_id": "684fbdf3a00debf3efef24d9"
+                },
+                {
+                    "id": 8,
+                    "identifier": "label",
+                    "_id": "684fbdf3a00debf3efef24da"
+                },
+                {
+                    "id": 9,
+                    "identifier": "custom1",
+                    "_id": "684fbdf3a00debf3efef24db"
+                },
+                {
+                    "id": 10,
+                    "identifier": "custom2",
+                    "_id": "684fbdf3a00debf3efef24dc"
+                }
+            ],
+            "elementrepoid": "684fbdf3a00debf3efef2354",
+            "appType": "Web",
+            "isCustom": false,
+            "__v": 0
+        },
+        {
+            "_id": "684fbdf3a00debf3efef24dd",
+            "name": "Export",
+            "height": 0,
+            "hiddentag": "No",
+            "left": 0,
+            "tag": "span",
+            "top": 0,
+            "url": "https://automateqa.avoassurecloud.com/design",
+            "width": 0,
+            "xpath": "NaN",
+            "tempOrderId": "909145db-18b0-4a75-b1e9-db9c8f4a7122",
+            "identifiers": {
+                "cssselector": "span[class=\"p-button-label p-c\"]",
+                "id": "None",
+                "xpath": "/html/body/div[12]/div/div[3]/div/button/span[1]",
+                "rxpath": "//body/div/div/div[3]/div/button/span[1]",
+                "name": "None",
+                "classname": "p-button-label p-c",
+                "href": "None",
+                "label": "None",
+                "custom1": "None",
+                "custom2": "None"
+            },
+            "identifierpriority": [
+                {
+                    "id": 1,
+                    "identifier": "cssselector",
+                    "_id": "684fbdf3a00debf3efef24de"
+                },
+                {
+                    "id": 2,
+                    "identifier": "id",
+                    "_id": "684fbdf3a00debf3efef24df"
+                },
+                {
+                    "id": 3,
+                    "identifier": "xpath",
+                    "_id": "684fbdf3a00debf3efef24e0"
+                },
+                {
+                    "id": 4,
+                    "identifier": "rxpath",
+                    "_id": "684fbdf3a00debf3efef24e1"
+                },
+                {
+                    "id": 5,
+                    "identifier": "name",
+                    "_id": "684fbdf3a00debf3efef24e2"
+                },
+                {
+                    "id": 6,
+                    "identifier": "classname",
+                    "_id": "684fbdf3a00debf3efef24e3"
+                },
+                {
+                    "id": 7,
+                    "identifier": "href",
+                    "_id": "684fbdf3a00debf3efef24e4"
+                },
+                {
+                    "id": 8,
+                    "identifier": "label",
+                    "_id": "684fbdf3a00debf3efef24e5"
+                },
+                {
+                    "id": 9,
+                    "identifier": "custom1",
+                    "_id": "684fbdf3a00debf3efef24e6"
+                },
+                {
+                    "id": 10,
+                    "identifier": "custom2",
+                    "_id": "684fbdf3a00debf3efef24e7"
+                }
+            ],
+            "elementrepoid": "684fbdf3a00debf3efef2354",
+            "appType": "Web",
+            "isCustom": false,
+            "__v": 0
+        }
+    ],
+    "name": "Avo Assure",
+    "parentPath": "AvoGenius_Test Case (Prateek)"
+}

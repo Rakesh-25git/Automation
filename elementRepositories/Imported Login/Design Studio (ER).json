@@ -1,0 +1,1169 @@
+{
+    "_id": "68358318d9d9f7a5ff38d170",
+    "projectId": "68355fe5d9d9f7a5ff38b34a",
+    "title": "Design Studio (ER)",
+    "folderId": "68358317d9d9f7a5ff38d0fe",
+    "createdBy": "67ff3246e9689353c6b0e3c5",
+    "createdOn": "2025-05-27T09:17:12.202Z",
+    "createdByRole": "5db0022cf87fdec084ae49ab",
+    "userName": "prateeku",
+    "modifiedBy": "677b5757e630ee1a15602a19",
+    "modifiedOn": "2025-06-02T06:38:10.359Z",
+    "displayOn": "2025-05-27T09:17:12.202Z",
+    "type": "elementRepo",
+    "appType": "Web",
+    "scrapedUrl": "false",
+    "description": "",
+    "repository": false,
+    "isLeaf": false,
+    "versions": [],
+    "selfHeal": false,
+    "elements": [
+        {
+            "_id": "68358318d9d9f7a5ff38d178",
+            "name": "Design Studio",
+            "height": 38,
+            "hiddentag": "No",
+            "left": 1158,
+            "tag": "div",
+            "top": 72,
+            "url": "https://fis-beta.avoassure.ai/landing",
+            "viewTop": 71.59375,
+            "width": 165,
+            "xpath": "NaN",
+            "fullSS": false,
+            "tempOrderId": "aa1a7fc9-fce9-4ef6-9aa7-82a452a9415c",
+            "identifiers": {
+                "custom1": "None",
+                "cssselector": "div[class=\"font-bold landingPageAntButton ant-tooltip-open\"]",
+                "id": "None",
+                "xpath": "/html/body/div[2]/div/div[5]/div[2]/div[2]/div/div[3]/div[1]/div[2]/div[2]",
+                "rxpath": "//div[2]/div/div[3]/div[1]/div[2]/div[2]",
+                "name": "None",
+                "classname": "font-bold landingPageAntButton ant-tooltip-open",
+                "href": "None",
+                "label": "None",
+                "custom2": "None"
+            },
+            "identifierpriority": [
+                {
+                    "id": 1,
+                    "identifier": "cssselector",
+                    "_id": "6821bd2edb52a2f8e09362cb"
+                },
+                {
+                    "id": 2,
+                    "identifier": "id",
+                    "_id": "6821bd2edb52a2f8e09362cc"
+                },
+                {
+                    "id": 3,
+                    "identifier": "xpath",
+                    "_id": "6821bd2edb52a2f8e09362cd"
+                },
+                {
+                    "id": 4,
+                    "identifier": "rxpath",
+                    "_id": "6821bd2edb52a2f8e09362ce"
+                },
+                {
+                    "id": 5,
+                    "identifier": "name",
+                    "_id": "6821bd2edb52a2f8e09362cf"
+                },
+                {
+                    "id": 6,
+                    "identifier": "classname",
+                    "_id": "6821bd2edb52a2f8e09362d0"
+                },
+                {
+                    "id": 7,
+                    "identifier": "href",
+                    "_id": "6821bd2edb52a2f8e09362d1"
+                },
+                {
+                    "id": 8,
+                    "identifier": "label",
+                    "_id": "6821bd2edb52a2f8e09362d2"
+                },
+                {
+                    "id": 9,
+                    "identifier": "custom1",
+                    "_id": "6821bd2edb52a2f8e09362d3"
+                },
+                {
+                    "id": 10,
+                    "identifier": "custom2",
+                    "_id": "6821bd2edb52a2f8e09362d4"
+                }
+            ],
+            "elementrepoid": "68358318d9d9f7a5ff38d170",
+            "appType": "Web",
+            "isCustom": false,
+            "screen_id": "6fa18bcc-b873-4ae2-b984-e5c2e85285ed",
+            "mapping": {
+                "custom1": "custom1",
+                "custom2": "custom2"
+            },
+            "__v": 0
+        },
+        {
+            "_id": "68358318d9d9f7a5ff38d183",
+            "name": "Create_folder_Element_Repo",
+            "height": 28,
+            "hiddentag": "No",
+            "left": 189,
+            "tag": "img",
+            "top": 115,
+            "url": "https://fis-beta.avoassure.ai/repository",
+            "viewTop": 114.59375,
+            "width": 28,
+            "xpath": "NaN",
+            "fullSS": false,
+            "tempOrderId": "051b9693-5505-4f1d-9acc-e643b81c1357",
+            "identifiers": {
+                "custom1": "None",
+                "cssselector": "img[class=\"folder_img\"]",
+                "id": "None",
+                "xpath": "/html/body/div[2]/div/div[4]/div[1]/div/div[2]/div/div[2]/img",
+                "rxpath": "//div[2]/div/div[2]/img",
+                "name": "None",
+                "classname": "folder_img",
+                "href": "None",
+                "label": "None",
+                "custom2": "None"
+            },
+            "identifierpriority": [
+                {
+                    "id": 1,
+                    "identifier": "cssselector",
+                    "_id": "6821bd2edb52a2f8e09362d6"
+                },
+                {
+                    "id": 2,
+                    "identifier": "id",
+                    "_id": "6821bd2edb52a2f8e09362d7"
+                },
+                {
+                    "id": 3,
+                    "identifier": "xpath",
+                    "_id": "6821bd2edb52a2f8e09362d8"
+                },
+                {
+                    "id": 4,
+                    "identifier": "rxpath",
+                    "_id": "6821bd2edb52a2f8e09362d9"
+                },
+                {
+                    "id": 5,
+                    "identifier": "name",
+                    "_id": "6821bd2edb52a2f8e09362da"
+                },
+                {
+                    "id": 6,
+                    "identifier": "classname",
+                    "_id": "6821bd2edb52a2f8e09362db"
+                },
+                {
+                    "id": 7,
+                    "identifier": "href",
+                    "_id": "6821bd2edb52a2f8e09362dc"
+                },
+                {
+                    "id": 8,
+                    "identifier": "label",
+                    "_id": "6821bd2edb52a2f8e09362dd"
+                },
+                {
+                    "id": 9,
+                    "identifier": "custom1",
+                    "_id": "6821bd2edb52a2f8e09362de"
+                },
+                {
+                    "id": 10,
+                    "identifier": "custom2",
+                    "_id": "6821bd2edb52a2f8e09362df"
+                }
+            ],
+            "elementrepoid": "68358318d9d9f7a5ff38d170",
+            "appType": "Web",
+            "isCustom": false,
+            "screen_id": "895d23a8-1b66-4473-a07c-18ec40e20c8a",
+            "mapping": {
+                "custom1": "custom1",
+                "custom2": "custom2"
+            },
+            "__v": 0
+        },
+        {
+            "_id": "68358318d9d9f7a5ff38d18e",
+            "name": "Create new folder",
+            "height": 23,
+            "hiddentag": "No",
+            "left": 137,
+            "tag": "span",
+            "top": 168,
+            "url": "https://fis-beta.avoassure.ai/repository",
+            "viewTop": 170,
+            "width": 120,
+            "xpath": "NaN",
+            "fullSS": false,
+            "tempOrderId": "c022d95b-e870-4dcc-8593-ccbb444f81b5",
+            "identifiers": {
+                "custom1": "None",
+                "cssselector": "None",
+                "id": "None",
+                "xpath": "/html/body/div[5]/div/div[2]/div/div/div/div[1]/span",
+                "rxpath": "//div/div[2]/div/div/div/div[1]/span",
+                "name": "None",
+                "classname": "popover_content[0]",
+                "href": "None",
+                "label": "None",
+                "custom2": "None"
+            },
+            "identifierpriority": [
+                {
+                    "id": 1,
+                    "identifier": "cssselector",
+                    "_id": "6821c13adb52a2f8e09378e9"
+                },
+                {
+                    "id": 2,
+                    "identifier": "id",
+                    "_id": "6821c13adb52a2f8e09378ea"
+                },
+                {
+                    "id": 3,
+                    "identifier": "xpath",
+                    "_id": "6821c13adb52a2f8e09378eb"
+                },
+                {
+                    "id": 4,
+                    "identifier": "rxpath",
+                    "_id": "6821c13adb52a2f8e09378ec"
+                },
+                {
+                    "id": 5,
+                    "identifier": "name",
+                    "_id": "6821c13adb52a2f8e09378ed"
+                },
+                {
+                    "id": 6,
+                    "identifier": "classname",
+                    "_id": "6821c13adb52a2f8e09378ee"
+                },
+                {
+                    "id": 7,
+                    "identifier": "href",
+                    "_id": "6821c13adb52a2f8e09378ef"
+                },
+                {
+                    "id": 8,
+                    "identifier": "label",
+                    "_id": "6821c13adb52a2f8e09378f0"
+                },
+                {
+                    "id": 9,
+                    "identifier": "custom1",
+                    "_id": "6821c13adb52a2f8e09378f1"
+                },
+                {
+                    "id": 10,
+                    "identifier": "custom2",
+                    "_id": "6821c13adb52a2f8e09378f2"
+                }
+            ],
+            "elementrepoid": "68358318d9d9f7a5ff38d170",
+            "appType": "Web",
+            "isCustom": false,
+            "screen_id": "ce599815-de62-46b3-8990-598931ac9234",
+            "mapping": {
+                "custom1": "custom1",
+                "custom2": "custom2"
+            },
+            "__v": 0
+        },
+        {
+            "_id": "68358318d9d9f7a5ff38d199",
+            "name": "New Folder ...",
+            "height": 14,
+            "hiddentag": "No",
+            "left": 243,
+            "tag": "img",
+            "top": 225,
+            "url": "https://fis-beta.avoassure.ai/repository",
+            "viewTop": 224.1875,
+            "width": 14,
+            "xpath": "NaN",
+            "fullSS": false,
+            "tempOrderId": "01d3bf8e-7e35-4763-9f0f-289c01517a91",
+            "identifiers": {
+                "custom1": "None",
+                "cssselector": "img[class=\"ant-dropdown-trigger\"]",
+                "id": "None",
+                "xpath": "/html/body/div[2]/div/div[4]/div[1]/div/div[3]/div/div[3]/div/div/div/div/span[4]/span/span/img",
+                "rxpath": "//span[4]/span/span/img",
+                "name": "None",
+                "classname": "ant-dropdown-trigger[0]",
+                "href": "None",
+                "label": "None",
+                "custom2": "None"
+            },
+            "identifierpriority": [
+                {
+                    "id": 1,
+                    "identifier": "cssselector",
+                    "_id": "6821c13adb52a2f8e09378ff"
+                },
+                {
+                    "id": 2,
+                    "identifier": "id",
+                    "_id": "6821c13adb52a2f8e0937900"
+                },
+                {
+                    "id": 3,
+                    "identifier": "xpath",
+                    "_id": "6821c13adb52a2f8e0937901"
+                },
+                {
+                    "id": 4,
+                    "identifier": "rxpath",
+                    "_id": "6821c13adb52a2f8e0937902"
+                },
+                {
+                    "id": 5,
+                    "identifier": "name",
+                    "_id": "6821c13adb52a2f8e0937903"
+                },
+                {
+                    "id": 6,
+                    "identifier": "classname",
+                    "_id": "6821c13adb52a2f8e0937904"
+                },
+                {
+                    "id": 7,
+                    "identifier": "href",
+                    "_id": "6821c13adb52a2f8e0937905"
+                },
+                {
+                    "id": 8,
+                    "identifier": "label",
+                    "_id": "6821c13adb52a2f8e0937906"
+                },
+                {
+                    "id": 9,
+                    "identifier": "custom1",
+                    "_id": "6821c13adb52a2f8e0937907"
+                },
+                {
+                    "id": 10,
+                    "identifier": "custom2",
+                    "_id": "6821c13adb52a2f8e0937908"
+                }
+            ],
+            "elementrepoid": "68358318d9d9f7a5ff38d170",
+            "appType": "Web",
+            "isCustom": false,
+            "screen_id": "b0eefd23-6960-4373-b375-e908b0f237df",
+            "mapping": {
+                "custom1": "custom1",
+                "custom2": "custom2"
+            },
+            "__v": 0
+        },
+        {
+            "_id": "68358318d9d9f7a5ff38d1a4",
+            "name": "NONAME1",
+            "height": 36,
+            "hiddentag": "No",
+            "left": 249,
+            "tag": "li",
+            "top": 417,
+            "url": "https://fis-beta.avoassure.ai/repository",
+            "viewTop": 417,
+            "width": 199,
+            "xpath": "NaN",
+            "fullSS": false,
+            "tempOrderId": "4639e960-3058-4eb5-bcac-ce2d35104247",
+            "identifiers": {
+                "custom1": "None",
+                "cssselector": "None",
+                "id": "None",
+                "xpath": "/html/body/div[6]/div/ul/li[7]",
+                "rxpath": "/html/body/div[6]/div/ul/li[7]",
+                "name": "None",
+                "classname": "ant-dropdown-menu-item ant-dropdown-menu-item-active ant-dropdown-menu-item-only-child",
+                "href": "None",
+                "label": "None",
+                "custom2": "None"
+            },
+            "identifierpriority": [
+                {
+                    "id": 1,
+                    "identifier": "cssselector",
+                    "_id": "6821c13adb52a2f8e093790a"
+                },
+                {
+                    "id": 2,
+                    "identifier": "id",
+                    "_id": "6821c13adb52a2f8e093790b"
+                },
+                {
+                    "id": 3,
+                    "identifier": "xpath",
+                    "_id": "6821c13adb52a2f8e093790c"
+                },
+                {
+                    "id": 4,
+                    "identifier": "rxpath",
+                    "_id": "6821c13adb52a2f8e093790d"
+                },
+                {
+                    "id": 5,
+                    "identifier": "name",
+                    "_id": "6821c13adb52a2f8e093790e"
+                },
+                {
+                    "id": 6,
+                    "identifier": "classname",
+                    "_id": "6821c13adb52a2f8e093790f"
+                },
+                {
+                    "id": 7,
+                    "identifier": "href",
+                    "_id": "6821c13adb52a2f8e0937910"
+                },
+                {
+                    "id": 8,
+                    "identifier": "label",
+                    "_id": "6821c13adb52a2f8e0937911"
+                },
+                {
+                    "id": 9,
+                    "identifier": "custom1",
+                    "_id": "6821c13adb52a2f8e0937912"
+                },
+                {
+                    "id": 10,
+                    "identifier": "custom2",
+                    "_id": "6821c13adb52a2f8e0937913"
+                }
+            ],
+            "elementrepoid": "68358318d9d9f7a5ff38d170",
+            "appType": "Web",
+            "isCustom": false,
+            "screen_id": "f870c4a8-9ad0-472a-9005-c3f6a6373813",
+            "mapping": {
+                "custom1": "custom1",
+                "custom2": "custom2"
+            },
+            "__v": 0
+        },
+        {
+            "_id": "68358318d9d9f7a5ff38d1af",
+            "name": "Enter Folder Name",
+            "height": 16,
+            "hiddentag": "No",
+            "left": 74,
+            "tag": "input",
+            "top": 224,
+            "url": "https://fis-beta.avoassure.ai/repository",
+            "viewTop": 223.1875,
+            "width": 124,
+            "xpath": "NaN",
+            "fullSS": false,
+            "tempOrderId": "afd31ba5-3407-4407-9b87-8589a38249a8",
+            "identifiers": {
+                "custom1": "None",
+                "cssselector": "input[placeholder=\"Enter Folder Name\"]",
+                "id": "None",
+                "xpath": "/html/body/div[2]/div/div[4]/div[1]/div/div[3]/div/div[3]/div/div/div/div/span[4]/span/span/span/span/input",
+                "rxpath": "//span/span/span/input",
+                "name": "None",
+                "classname": "ant-input css-m4timi ant-input-outlined inputFolder_repo",
+                "href": "None",
+                "label": "Enter Folder Name",
+                "custom2": "None"
+            },
+            "identifierpriority": [
+                {
+                    "id": 1,
+                    "identifier": "cssselector",
+                    "_id": "6821c82d7d7a5a9f932d52b8"
+                },
+                {
+                    "id": 2,
+                    "identifier": "id",
+                    "_id": "6821c82d7d7a5a9f932d52b9"
+                },
+                {
+                    "id": 3,
+                    "identifier": "xpath",
+                    "_id": "6821c82d7d7a5a9f932d52ba"
+                },
+                {
+                    "id": 4,
+                    "identifier": "rxpath",
+                    "_id": "6821c82d7d7a5a9f932d52bb"
+                },
+                {
+                    "id": 5,
+                    "identifier": "name",
+                    "_id": "6821c82d7d7a5a9f932d52bc"
+                },
+                {
+                    "id": 6,
+                    "identifier": "classname",
+                    "_id": "6821c82d7d7a5a9f932d52bd"
+                },
+                {
+                    "id": 7,
+                    "identifier": "href",
+                    "_id": "6821c82d7d7a5a9f932d52be"
+                },
+                {
+                    "id": 8,
+                    "identifier": "label",
+                    "_id": "6821c82d7d7a5a9f932d52bf"
+                },
+                {
+                    "id": 9,
+                    "identifier": "custom1",
+                    "_id": "6821c82d7d7a5a9f932d52c0"
+                },
+                {
+                    "id": 10,
+                    "identifier": "custom2",
+                    "_id": "6821c82d7d7a5a9f932d52c1"
+                }
+            ],
+            "elementrepoid": "68358318d9d9f7a5ff38d170",
+            "appType": "Web",
+            "isCustom": false,
+            "screen_id": "c800aaec-5d54-4841-a8a7-0fac268561d4",
+            "mapping": {
+                "custom1": "custom1",
+                "custom2": "custom2"
+            },
+            "__v": 0
+        },
+        {
+            "_id": "68358318d9d9f7a5ff38d1ba",
+            "name": "NONAME12",
+            "height": 36,
+            "hiddentag": "No",
+            "left": 450,
+            "tag": "li",
+            "top": 314,
+            "url": "https://fis-beta.avoassure.ai/repository",
+            "viewTop": 314,
+            "width": 196,
+            "xpath": "NaN",
+            "fullSS": false,
+            "tempOrderId": "6db68959-b695-4126-953e-c349b683ab4e",
+            "identifiers": {
+                "custom1": "None",
+                "cssselector": "None",
+                "id": "None",
+                "xpath": "/html/body/div[8]/div/ul/li[1]",
+                "rxpath": "//*[@id=\"rc-menu-uuid-39723-3-3-popup\"]/li[1]",
+                "name": "None",
+                "classname": "ant-dropdown-menu-item ant-dropdown-menu-item-active",
+                "href": "None",
+                "label": "None",
+                "custom2": "None"
+            },
+            "identifierpriority": [
+                {
+                    "id": 1,
+                    "identifier": "cssselector",
+                    "_id": "6821cb977d7a5a9f932d64ca"
+                },
+                {
+                    "id": 2,
+                    "identifier": "id",
+                    "_id": "6821cb977d7a5a9f932d64cb"
+                },
+                {
+                    "id": 3,
+                    "identifier": "xpath",
+                    "_id": "6821cb977d7a5a9f932d64cc"
+                },
+                {
+                    "id": 4,
+                    "identifier": "rxpath",
+                    "_id": "6821cb977d7a5a9f932d64cd"
+                },
+                {
+                    "id": 5,
+                    "identifier": "name",
+                    "_id": "6821cb977d7a5a9f932d64ce"
+                },
+                {
+                    "id": 6,
+                    "identifier": "classname",
+                    "_id": "6821cb977d7a5a9f932d64cf"
+                },
+                {
+                    "id": 7,
+                    "identifier": "href",
+                    "_id": "6821cb977d7a5a9f932d64d0"
+                },
+                {
+                    "id": 8,
+                    "identifier": "label",
+                    "_id": "6821cb977d7a5a9f932d64d1"
+                },
+                {
+                    "id": 9,
+                    "identifier": "custom1",
+                    "_id": "6821cb977d7a5a9f932d64d2"
+                },
+                {
+                    "id": 10,
+                    "identifier": "custom2",
+                    "_id": "6821cb977d7a5a9f932d64d3"
+                }
+            ],
+            "elementrepoid": "68358318d9d9f7a5ff38d170",
+            "appType": "Web",
+            "isCustom": false,
+            "screen_id": "d0a74fc1-dd2a-4a04-80c2-bca1261c8838",
+            "mapping": {
+                "custom1": "custom1",
+                "custom2": "custom2"
+            },
+            "__v": 0
+        },
+        {
+            "_id": "68358318d9d9f7a5ff38d1c5",
+            "name": "Enter repository name",
+            "height": 16,
+            "hiddentag": "No",
+            "left": 98,
+            "tag": "input",
+            "top": 260,
+            "url": "https://fis-beta.avoassure.ai/repository",
+            "viewTop": 259.1875,
+            "width": 185,
+            "xpath": "NaN",
+            "fullSS": false,
+            "tempOrderId": "60bed57e-9f29-4c9c-96a3-2ea4c7e1b448",
+            "identifiers": {
+                "custom1": "None",
+                "cssselector": "input[placeholder=\"Enter repository name\"]",
+                "id": "None",
+                "xpath": "/html/body/div[2]/div/div[4]/div[1]/div/div[3]/div/div[3]/div/div/div/div[2]/span[4]/span/span/span/span/input",
+                "rxpath": "//span/span/span/input",
+                "name": "None",
+                "classname": "ant-input css-m4timi ant-input-outlined inputFolder_repo",
+                "href": "None",
+                "label": "Enter repository name",
+                "custom2": "None"
+            },
+            "identifierpriority": [
+                {
+                    "id": 1,
+                    "identifier": "cssselector",
+                    "_id": "6821cb977d7a5a9f932d64d5"
+                },
+                {
+                    "id": 2,
+                    "identifier": "id",
+                    "_id": "6821cb977d7a5a9f932d64d6"
+                },
+                {
+                    "id": 3,
+                    "identifier": "xpath",
+                    "_id": "6821cb977d7a5a9f932d64d7"
+                },
+                {
+                    "id": 4,
+                    "identifier": "rxpath",
+                    "_id": "6821cb977d7a5a9f932d64d8"
+                },
+                {
+                    "id": 5,
+                    "identifier": "name",
+                    "_id": "6821cb977d7a5a9f932d64d9"
+                },
+                {
+                    "id": 6,
+                    "identifier": "classname",
+                    "_id": "6821cb977d7a5a9f932d64da"
+                },
+                {
+                    "id": 7,
+                    "identifier": "href",
+                    "_id": "6821cb977d7a5a9f932d64db"
+                },
+                {
+                    "id": 8,
+                    "identifier": "label",
+                    "_id": "6821cb977d7a5a9f932d64dc"
+                },
+                {
+                    "id": 9,
+                    "identifier": "custom1",
+                    "_id": "6821cb977d7a5a9f932d64dd"
+                },
+                {
+                    "id": 10,
+                    "identifier": "custom2",
+                    "_id": "6821cb977d7a5a9f932d64de"
+                }
+            ],
+            "elementrepoid": "68358318d9d9f7a5ff38d170",
+            "appType": "Web",
+            "isCustom": false,
+            "screen_id": "ef215990-de90-4c9f-b643-87eab20d2fe3",
+            "mapping": {
+                "custom1": "custom1",
+                "custom2": "custom2"
+            },
+            "__v": 0
+        },
+        {
+            "_id": "68358318d9d9f7a5ff38d1d0",
+            "name": "New Repository",
+            "height": 14,
+            "hiddentag": "No",
+            "left": 267,
+            "tag": "img",
+            "top": 261,
+            "url": "https://fis-beta.avoassure.ai/repository",
+            "viewTop": 260.1875,
+            "width": 14,
+            "xpath": "NaN",
+            "fullSS": false,
+            "tempOrderId": "9ee8318e-79dd-4bfa-83bc-c942acfaed6e",
+            "identifiers": {
+                "custom1": "None",
+                "cssselector": "img[class=\"ant-dropdown-trigger\"]",
+                "id": "None",
+                "xpath": "/html/body/div[2]/div/div[4]/div[1]/div/div[3]/div/div[3]/div/div/div/div[2]/span[4]/span/span/img",
+                "rxpath": "//span[4]/span/span/img",
+                "name": "None",
+                "classname": "ant-dropdown-trigger",
+                "href": "None",
+                "label": "None",
+                "custom2": "None"
+            },
+            "identifierpriority": [
+                {
+                    "id": 1,
+                    "identifier": "cssselector",
+                    "_id": "6821cb977d7a5a9f932d64e0"
+                },
+                {
+                    "id": 2,
+                    "identifier": "id",
+                    "_id": "6821cb977d7a5a9f932d64e1"
+                },
+                {
+                    "id": 3,
+                    "identifier": "xpath",
+                    "_id": "6821cb977d7a5a9f932d64e2"
+                },
+                {
+                    "id": 4,
+                    "identifier": "rxpath",
+                    "_id": "6821cb977d7a5a9f932d64e3"
+                },
+                {
+                    "id": 5,
+                    "identifier": "name",
+                    "_id": "6821cb977d7a5a9f932d64e4"
+                },
+                {
+                    "id": 6,
+                    "identifier": "classname",
+                    "_id": "6821cb977d7a5a9f932d64e5"
+                },
+                {
+                    "id": 7,
+                    "identifier": "href",
+                    "_id": "6821cb977d7a5a9f932d64e6"
+                },
+                {
+                    "id": 8,
+                    "identifier": "label",
+                    "_id": "6821cb977d7a5a9f932d64e7"
+                },
+                {
+                    "id": 9,
+                    "identifier": "custom1",
+                    "_id": "6821cb977d7a5a9f932d64e8"
+                },
+                {
+                    "id": 10,
+                    "identifier": "custom2",
+                    "_id": "6821cb977d7a5a9f932d64e9"
+                }
+            ],
+            "elementrepoid": "68358318d9d9f7a5ff38d170",
+            "appType": "Web",
+            "isCustom": false,
+            "screen_id": "ce38e3a3-9d70-40f5-9dc5-ad9b36000948",
+            "mapping": {
+                "custom1": "custom1",
+                "custom2": "custom2"
+            },
+            "__v": 0
+        },
+        {
+            "_id": "68358318d9d9f7a5ff38d1db",
+            "name": "DeleteShift+D",
+            "height": 26,
+            "hiddentag": "No",
+            "left": 283,
+            "tag": "div",
+            "top": 360,
+            "url": "https://fis-beta.avoassure.ai/repository",
+            "viewTop": 360,
+            "width": 139,
+            "xpath": "NaN",
+            "fullSS": false,
+            "tempOrderId": "1feae769-19ff-4bc8-8997-945515f26d00",
+            "identifiers": {
+                "custom1": "None",
+                "cssselector": "None",
+                "id": "None",
+                "xpath": "/html/body/div[7]/div/ul/li[4]/span/div",
+                "rxpath": "//li[4]/span/div",
+                "name": "None",
+                "classname": "None",
+                "href": "None",
+                "label": "None",
+                "custom2": "None"
+            },
+            "identifierpriority": [
+                {
+                    "id": 1,
+                    "identifier": "cssselector",
+                    "_id": "6821cb977d7a5a9f932d64eb"
+                },
+                {
+                    "id": 2,
+                    "identifier": "id",
+                    "_id": "6821cb977d7a5a9f932d64ec"
+                },
+                {
+                    "id": 3,
+                    "identifier": "xpath",
+                    "_id": "6821cb977d7a5a9f932d64ed"
+                },
+                {
+                    "id": 4,
+                    "identifier": "rxpath",
+                    "_id": "6821cb977d7a5a9f932d64ee"
+                },
+                {
+                    "id": 5,
+                    "identifier": "name",
+                    "_id": "6821cb977d7a5a9f932d64ef"
+                },
+                {
+                    "id": 6,
+                    "identifier": "classname",
+                    "_id": "6821cb977d7a5a9f932d64f0"
+                },
+                {
+                    "id": 7,
+                    "identifier": "href",
+                    "_id": "6821cb977d7a5a9f932d64f1"
+                },
+                {
+                    "id": 8,
+                    "identifier": "label",
+                    "_id": "6821cb977d7a5a9f932d64f2"
+                },
+                {
+                    "id": 9,
+                    "identifier": "custom1",
+                    "_id": "6821cb977d7a5a9f932d64f3"
+                },
+                {
+                    "id": 10,
+                    "identifier": "custom2",
+                    "_id": "6821cb977d7a5a9f932d64f4"
+                }
+            ],
+            "elementrepoid": "68358318d9d9f7a5ff38d170",
+            "appType": "Web",
+            "isCustom": false,
+            "screen_id": "ff4d28aa-1446-4b7d-946b-e460dbd9e4b3",
+            "mapping": {
+                "custom1": "custom1",
+                "custom2": "custom2"
+            },
+            "__v": 0
+        },
+        {
+            "_id": "68358318d9d9f7a5ff38d1e6",
+            "name": "Create Repository",
+            "height": 36,
+            "hiddentag": "No",
+            "left": 247,
+            "tag": "div",
+            "top": 310,
+            "url": "https://fis-beta.avoassure.ai/repository",
+            "viewTop": 310,
+            "width": 199,
+            "xpath": "NaN",
+            "fullSS": false,
+            "tempOrderId": "2faf945d-8abc-41a1-aaaf-eaca88fa6b76",
+            "identifiers": {
+                "custom1": "None",
+                "cssselector": "div[class=\"ant-dropdown-menu-submenu-title\"]",
+                "id": "None",
+                "xpath": "/html/body/div[5]/div/ul/li[3]/div",
+                "rxpath": "//li[3]/div",
+                "name": "None",
+                "classname": "ant-dropdown-menu-submenu-title",
+                "href": "None",
+                "label": "None",
+                "custom2": "None"
+            },
+            "identifierpriority": [
+                {
+                    "id": 1,
+                    "identifier": "cssselector",
+                    "_id": "6821cf737d7a5a9f932d747e"
+                },
+                {
+                    "id": 2,
+                    "identifier": "id",
+                    "_id": "6821cf737d7a5a9f932d747f"
+                },
+                {
+                    "id": 3,
+                    "identifier": "xpath",
+                    "_id": "6821cf737d7a5a9f932d7480"
+                },
+                {
+                    "id": 4,
+                    "identifier": "rxpath",
+                    "_id": "6821cf737d7a5a9f932d7481"
+                },
+                {
+                    "id": 5,
+                    "identifier": "name",
+                    "_id": "6821cf737d7a5a9f932d7482"
+                },
+                {
+                    "id": 6,
+                    "identifier": "classname",
+                    "_id": "6821cf737d7a5a9f932d7483"
+                },
+                {
+                    "id": 7,
+                    "identifier": "href",
+                    "_id": "6821cf737d7a5a9f932d7484"
+                },
+                {
+                    "id": 8,
+                    "identifier": "label",
+                    "_id": "6821cf737d7a5a9f932d7485"
+                },
+                {
+                    "id": 9,
+                    "identifier": "custom1",
+                    "_id": "6821cf737d7a5a9f932d7486"
+                },
+                {
+                    "id": 10,
+                    "identifier": "custom2",
+                    "_id": "6821cf737d7a5a9f932d7487"
+                }
+            ],
+            "elementrepoid": "68358318d9d9f7a5ff38d170",
+            "appType": "Web",
+            "isCustom": false,
+            "screen_id": "9339ad31-b303-4e49-8c79-11bde94cbe5c",
+            "mapping": {
+                "custom1": "custom1",
+                "custom2": "custom2"
+            },
+            "__v": 0
+        },
+        {
+            "_id": "68358318d9d9f7a5ff38d1f1",
+            "name": "Yes",
+            "height": 40,
+            "hiddentag": "No",
+            "left": 755,
+            "tag": "button",
+            "top": 483,
+            "url": "https://fis-beta.avoassure.ai/repository",
+            "viewTop": 482.796875,
+            "width": 57,
+            "xpath": "NaN",
+            "fullSS": false,
+            "tempOrderId": "d72437b1-6fe9-455b-92e3-4badc5e5c6ac",
+            "identifiers": {
+                "custom1": "None",
+                "cssselector": "button[class=\"ant-btn css-m4timi ant-btn-primary ant-btn-lg\"]",
+                "id": "None",
+                "xpath": "/html/body/div[7]/div/div[3]/button[2]",
+                "rxpath": "//div[3]/button[2]",
+                "name": "None",
+                "classname": "ant-btn css-m4timi ant-btn-primary ant-btn-lg",
+                "href": "None",
+                "label": "Yes",
+                "custom2": "None"
+            },
+            "identifierpriority": [
+                {
+                    "id": 1,
+                    "identifier": "cssselector",
+                    "_id": "6821d0e37d7a5a9f932d78bd"
+                },
+                {
+                    "id": 2,
+                    "identifier": "id",
+                    "_id": "6821d0e37d7a5a9f932d78be"
+                },
+                {
+                    "id": 3,
+                    "identifier": "xpath",
+                    "_id": "6821d0e37d7a5a9f932d78bf"
+                },
+                {
+                    "id": 4,
+                    "identifier": "rxpath",
+                    "_id": "6821d0e37d7a5a9f932d78c0"
+                },
+                {
+                    "id": 5,
+                    "identifier": "name",
+                    "_id": "6821d0e37d7a5a9f932d78c1"
+                },
+                {
+                    "id": 6,
+                    "identifier": "classname",
+                    "_id": "6821d0e37d7a5a9f932d78c2"
+                },
+                {
+                    "id": 7,
+                    "identifier": "href",
+                    "_id": "6821d0e37d7a5a9f932d78c3"
+                },
+                {
+                    "id": 8,
+                    "identifier": "label",
+                    "_id": "6821d0e37d7a5a9f932d78c4"
+                },
+                {
+                    "id": 9,
+                    "identifier": "custom1",
+                    "_id": "6821d0e37d7a5a9f932d78c5"
+                },
+                {
+                    "id": 10,
+                    "identifier": "custom2",
+                    "_id": "6821d0e37d7a5a9f932d78c6"
+                }
+            ],
+            "elementrepoid": "68358318d9d9f7a5ff38d170",
+            "appType": "Web",
+            "isCustom": false,
+            "screen_id": "05a9ac6c-2467-4c0d-a3e7-e82936aad0e4",
+            "mapping": {
+                "custom1": "custom1",
+                "custom2": "custom2"
+            },
+            "__v": 0
+        },
+        {
+            "_id": "68358318d9d9f7a5ff38d1fc",
+            "name": "WebShift+E+W",
+            "height": 26,
+            "hiddentag": "No",
+            "left": 484,
+            "tag": "div",
+            "top": 319,
+            "url": "https://fis-beta.avoassure.ai/repository",
+            "viewTop": 321,
+            "width": 148,
+            "xpath": "NaN",
+            "fullSS": false,
+            "tempOrderId": "558dddc0-8f4e-49e6-9673-fcda6a14db2c",
+            "identifiers": {
+                "custom1": "None",
+                "cssselector": "None",
+                "id": "None",
+                "xpath": "/html/body/div[6]/div/ul/li[1]/span/div",
+                "rxpath": "//li[1]/span/div",
+                "name": "None",
+                "classname": "None",
+                "href": "None",
+                "label": "None",
+                "custom2": "None"
+            },
+            "identifierpriority": [
+                {
+                    "id": 1,
+                    "identifier": "cssselector",
+                    "_id": "6821db157d7a5a9f932d9b7b"
+                },
+                {
+                    "id": 2,
+                    "identifier": "id",
+                    "_id": "6821db157d7a5a9f932d9b7c"
+                },
+                {
+                    "id": 3,
+                    "identifier": "xpath",
+                    "_id": "6821db157d7a5a9f932d9b7d"
+                },
+                {
+                    "id": 4,
+                    "identifier": "rxpath",
+                    "_id": "6821db157d7a5a9f932d9b7e"
+                },
+                {
+                    "id": 5,
+                    "identifier": "name",
+                    "_id": "6821db157d7a5a9f932d9b7f"
+                },
+                {
+                    "id": 6,
+                    "identifier": "classname",
+                    "_id": "6821db157d7a5a9f932d9b80"
+                },
+                {
+                    "id": 7,
+                    "identifier": "href",
+                    "_id": "6821db157d7a5a9f932d9b81"
+                },
+                {
+                    "id": 8,
+                    "identifier": "label",
+                    "_id": "6821db157d7a5a9f932d9b82"
+                },
+                {
+                    "id": 9,
+                    "identifier": "custom1",
+                    "_id": "6821db157d7a5a9f932d9b83"
+                },
+                {
+                    "id": 10,
+                    "identifier": "custom2",
+                    "_id": "6821db157d7a5a9f932d9b84"
+                }
+            ],
+            "elementrepoid": "68358318d9d9f7a5ff38d170",
+            "appType": "Web",
+            "isCustom": false,
+            "screen_id": "05ecef0b-d326-496c-a162-85a1f50af5ee",
+            "mapping": {
+                "custom1": "custom1",
+                "custom2": "custom2"
+            },
+            "__v": 0
+        }
+    ],
+    "name": "Design Studio (ER)",
+    "parentPath": "Imported Login"
+}

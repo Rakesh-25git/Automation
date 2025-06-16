@@ -1,0 +1,658 @@
+{
+    "_id": "684aaf35ea84ee09a02ac86a",
+    "name": "Execution Profile",
+    "projectId": "68355fe5d9d9f7a5ff38b34a",
+    "testCaseFolderId": "683562b0d9d9f7a5ff38b6d9",
+    "appType": "Web",
+    "assignedTo": "nagendra",
+    "description": "",
+    "createdOn": "2025-06-12T10:43:01.132Z",
+    "displayOn": "2025-06-12T10:43:01.132Z",
+    "createdBy": "677b5757e630ee1a15602a19",
+    "createdByRole": "5db0022cf87fdec084ae49ab",
+    "modifiedBy": "677b5757e630ee1a15602a19",
+    "modifiedByRole": "5db0022cf87fdec084ae49ab",
+    "modifiedOn": "2025-06-16T06:09:17.531Z",
+    "isTestCaseRecoveryStep": false,
+    "tag": [],
+    "versions": [],
+    "__v": 0,
+    "parentPath": "Automate QA",
+    "testStepGroups": [
+        {
+            "_id": "684ab8d8a2e25fe1f6c703d9",
+            "name": "Create Folder and List",
+            "projectId": "68355fe5d9d9f7a5ff38b34a",
+            "testCaseId": "684aaf35ea84ee09a02ac86a",
+            "appType": "Web",
+            "assignedTo": "rakesh",
+            "groupIndex": 1,
+            "createdBy": "677b5757e630ee1a15602a19",
+            "createdByRole": "5db0022cf87fdec084ae49ab",
+            "modifiedBy": "677b5757e630ee1a15602a19",
+            "modifiedByRole": "5db0022cf87fdec084ae49ab",
+            "createdOn": "2025-06-16T06:09:17.518Z",
+            "displayOn": "2025-06-16T06:09:17.518Z",
+            "modifiedOn": "2025-06-16T06:09:17.518Z",
+            "testSteps": [
+                {
+                    "_id": "684ab8d8a2e25fe1f6c703dc",
+                    "name": "Execution",
+                    "elementRepoId": "684a9e8aea84ee09a02aa6ae",
+                    "elementId": "684aa0beea84ee09a02aa826",
+                    "stepNo": 1,
+                    "keywordVal": "clickElement",
+                    "appType": "Web",
+                    "inputVal": [
+                        ""
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "684ab8d8a2e25fe1f6c703d9",
+                    "parentName": "Create Folder and List",
+                    "modifiedBy": "677b5757e630ee1a15602a19",
+                    "__v": 0
+                },
+                {
+                    "_id": "684ab8d8a2e25fe1f6c703dd",
+                    "name": "create folder",
+                    "elementRepoId": "684a9e8aea84ee09a02aa6ae",
+                    "elementId": "684aa0beea84ee09a02aa831",
+                    "stepNo": 2,
+                    "keywordVal": "click",
+                    "appType": "Web",
+                    "inputVal": [
+                        ""
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "684ab8d8a2e25fe1f6c703d9",
+                    "parentName": "Create Folder and List",
+                    "modifiedBy": "677b5757e630ee1a15602a19",
+                    "__v": 0
+                },
+                {
+                    "_id": "684ab8d8a2e25fe1f6c703de",
+                    "name": "Create new folder",
+                    "elementRepoId": "684a9e8aea84ee09a02aa6ae",
+                    "elementId": "684aa0beea84ee09a02aa83c",
+                    "stepNo": 3,
+                    "keywordVal": "clickElement",
+                    "appType": "Web",
+                    "inputVal": [
+                        ""
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "684ab8d8a2e25fe1f6c703d9",
+                    "parentName": "Create Folder and List",
+                    "modifiedBy": "677b5757e630ee1a15602a19",
+                    "__v": 0
+                },
+                {
+                    "_id": "684ab8d8a2e25fe1f6c703df",
+                    "name": "Enter folder name",
+                    "elementRepoId": "684a9e8aea84ee09a02aa6ae",
+                    "elementId": "684aa0beea84ee09a02aa847",
+                    "stepNo": 8,
+                    "keywordVal": "setText",
+                    "appType": "Web",
+                    "inputVal": [
+                        "Auto Execute"
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "684ab8d8a2e25fe1f6c703d9",
+                    "parentName": "Create Folder and List",
+                    "modifiedBy": "677b5757e630ee1a15602a19",
+                    "__v": 0
+                },
+                {
+                    "_id": "684ab8d8a2e25fe1f6c703e0",
+                    "name": "More Option1",
+                    "elementRepoId": "684a9e8aea84ee09a02aa6ae",
+                    "elementId": "684aa0beea84ee09a02aa852",
+                    "stepNo": 5,
+                    "keywordVal": "click",
+                    "appType": "Web",
+                    "inputVal": [
+                        ""
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "684ab8d8a2e25fe1f6c703d9",
+                    "parentName": "Create Folder and List",
+                    "modifiedBy": "677b5757e630ee1a15602a19",
+                    "__v": 0
+                },
+                {
+                    "_id": "684ab8d8a2e25fe1f6c703e1",
+                    "name": "Rename",
+                    "elementRepoId": "684a9e8aea84ee09a02aa6ae",
+                    "elementId": "684aa0beea84ee09a02aa85d",
+                    "stepNo": 6,
+                    "keywordVal": "clickElement",
+                    "appType": "Web",
+                    "inputVal": [
+                        ""
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "684ab8d8a2e25fe1f6c703d9",
+                    "parentName": "Create Folder and List",
+                    "modifiedBy": "677b5757e630ee1a15602a19",
+                    "__v": 0
+                },
+                {
+                    "_id": "684ab8d8a2e25fe1f6c703e2",
+                    "name": "Create Execution List",
+                    "elementRepoId": "684a9e8aea84ee09a02aa6ae",
+                    "elementId": "684aa0beea84ee09a02aa868",
+                    "stepNo": 12,
+                    "keywordVal": "clickElement",
+                    "appType": "Web",
+                    "inputVal": [
+                        ""
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "684ab8d8a2e25fe1f6c703d9",
+                    "parentName": "Create Folder and List",
+                    "modifiedBy": "677b5757e630ee1a15602a19",
+                    "__v": 0
+                },
+                {
+                    "_id": "684ab8d8a2e25fe1f6c703e3",
+                    "name": "Enter the execution list name",
+                    "elementRepoId": "684a9e8aea84ee09a02aa6ae",
+                    "elementId": "684aa0beea84ee09a02aa873",
+                    "stepNo": 17,
+                    "keywordVal": "setText",
+                    "appType": "Web",
+                    "inputVal": [
+                        "List Exe"
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "684ab8d8a2e25fe1f6c703d9",
+                    "parentName": "Create Folder and List",
+                    "modifiedBy": "677b5757e630ee1a15602a19",
+                    "__v": 0
+                },
+                {
+                    "_id": "684ab8d8a2e25fe1f6c703e4",
+                    "name": "More Option2",
+                    "elementRepoId": "684a9e8aea84ee09a02aa6ae",
+                    "elementId": "684aa0beea84ee09a02aa87e",
+                    "stepNo": 14,
+                    "keywordVal": "click",
+                    "appType": "Web",
+                    "inputVal": [
+                        ""
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "684ab8d8a2e25fe1f6c703d9",
+                    "parentName": "Create Folder and List",
+                    "modifiedBy": "677b5757e630ee1a15602a19",
+                    "__v": 0
+                },
+                {
+                    "_id": "684ab8d8a2e25fe1f6c703e5",
+                    "name": "Rename1",
+                    "elementRepoId": "684a9e8aea84ee09a02aa6ae",
+                    "elementId": "684aa0beea84ee09a02aa889",
+                    "stepNo": 15,
+                    "keywordVal": "clickElement",
+                    "appType": "Web",
+                    "inputVal": [
+                        ""
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "684ab8d8a2e25fe1f6c703d9",
+                    "parentName": "Create Folder and List",
+                    "modifiedBy": "677b5757e630ee1a15602a19",
+                    "__v": 0
+                },
+                {
+                    "_id": "684ba27ea3af8095ec843c8b",
+                    "name": "More Option1",
+                    "elementRepoId": "684a9e8aea84ee09a02aa6ae",
+                    "elementId": "684aa0beea84ee09a02aa852",
+                    "stepNo": 11,
+                    "keywordVal": "click",
+                    "appType": "Web",
+                    "inputVal": [
+                        ""
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "684ab8d8a2e25fe1f6c703d9",
+                    "parentName": "Create Folder and List",
+                    "modifiedBy": "677b5757e630ee1a15602a19",
+                    "__v": 0
+                },
+                {
+                    "_id": "684ba2e3a3af8095ec843d93",
+                    "name": "Enter folder name",
+                    "elementRepoId": "684a9e8aea84ee09a02aa6ae",
+                    "elementId": "684aa0beea84ee09a02aa847",
+                    "stepNo": 7,
+                    "keywordVal": "clearText",
+                    "appType": "Web",
+                    "inputVal": [
+                        ""
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "684ab8d8a2e25fe1f6c703d9",
+                    "parentName": "Create Folder and List",
+                    "modifiedBy": "677b5757e630ee1a15602a19",
+                    "__v": 0
+                },
+                {
+                    "_id": "684ba2e3a3af8095ec843d94",
+                    "name": "Enter the execution list name",
+                    "elementRepoId": "684a9e8aea84ee09a02aa6ae",
+                    "elementId": "684aa0beea84ee09a02aa873",
+                    "stepNo": 16,
+                    "keywordVal": "clearText",
+                    "appType": "Web",
+                    "inputVal": [
+                        ""
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "684ab8d8a2e25fe1f6c703d9",
+                    "parentName": "Create Folder and List",
+                    "modifiedBy": "677b5757e630ee1a15602a19",
+                    "__v": 0
+                },
+                {
+                    "_id": "684fadc7a00debf3efeeef69",
+                    "name": "@Generic",
+                    "elementRepoId": "",
+                    "elementId": "",
+                    "stepNo": 4,
+                    "keywordVal": "sendFunctionKeys",
+                    "appType": "Generic",
+                    "inputVal": [
+                        "enter"
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "684ab8d8a2e25fe1f6c703d9",
+                    "parentName": "Create Folder and List",
+                    "modifiedBy": "677b5757e630ee1a15602a19",
+                    "__v": 0
+                },
+                {
+                    "_id": "684faddfa00debf3efeef0bd",
+                    "name": "@Generic",
+                    "elementRepoId": "",
+                    "elementId": "",
+                    "stepNo": 10,
+                    "keywordVal": "sendFunctionKeys",
+                    "appType": "Generic",
+                    "inputVal": [
+                        "enter"
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "684ab8d8a2e25fe1f6c703d9",
+                    "parentName": "Create Folder and List",
+                    "modifiedBy": "677b5757e630ee1a15602a19",
+                    "__v": 0
+                },
+                {
+                    "_id": "684fae15a00debf3efeef32c",
+                    "name": "@Generic",
+                    "elementRepoId": "",
+                    "elementId": "",
+                    "stepNo": 13,
+                    "keywordVal": "sendFunctionKeys",
+                    "appType": "Generic",
+                    "inputVal": [
+                        "enter"
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "684ab8d8a2e25fe1f6c703d9",
+                    "parentName": "Create Folder and List",
+                    "modifiedBy": "677b5757e630ee1a15602a19",
+                    "__v": 0
+                },
+                {
+                    "_id": "684fae2fa00debf3efeef3e1",
+                    "name": "@Generic",
+                    "elementRepoId": "",
+                    "elementId": "",
+                    "stepNo": 18,
+                    "keywordVal": "sendFunctionKeys",
+                    "appType": "Generic",
+                    "inputVal": [
+                        "enter"
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "684ab8d8a2e25fe1f6c703d9",
+                    "parentName": "Create Folder and List",
+                    "modifiedBy": "677b5757e630ee1a15602a19",
+                    "__v": 0
+                },
+                {
+                    "_id": "684fae8ba00debf3efeef77d",
+                    "name": "@Generic",
+                    "elementRepoId": "",
+                    "elementId": "",
+                    "stepNo": 9,
+                    "keywordVal": "wait",
+                    "appType": "Generic",
+                    "inputVal": [
+                        "2"
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "684ab8d8a2e25fe1f6c703d9",
+                    "parentName": "Create Folder and List",
+                    "modifiedBy": "677b5757e630ee1a15602a19",
+                    "__v": 0
+                }
+            ],
+            "__v": 0
+        },
+        {
+            "_id": "684ba451a3af8095ec843fcb",
+            "name": "Add Testcase",
+            "projectId": "68355fe5d9d9f7a5ff38b34a",
+            "testCaseId": "684aaf35ea84ee09a02ac86a",
+            "appType": "Web",
+            "assignedTo": "rakesh",
+            "groupIndex": 2,
+            "createdBy": "677b5757e630ee1a15602a19",
+            "createdByRole": "5db0022cf87fdec084ae49ab",
+            "modifiedBy": "677b5757e630ee1a15602a19",
+            "modifiedByRole": "5db0022cf87fdec084ae49ab",
+            "createdOn": "2025-06-16T06:09:17.529Z",
+            "displayOn": "2025-06-16T06:09:17.529Z",
+            "modifiedOn": "2025-06-16T06:09:17.529Z",
+            "testSteps": [
+                {
+                    "_id": "684ba60ea3af8095ec844201",
+                    "name": "Add Test Case",
+                    "elementRepoId": "684aa0fbea84ee09a02aa94b",
+                    "elementId": "684aa25bea84ee09a02ab023",
+                    "stepNo": 1,
+                    "keywordVal": "press",
+                    "appType": "Web",
+                    "inputVal": [
+                        ""
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "684ba451a3af8095ec843fcb",
+                    "parentName": "Add Testcase",
+                    "modifiedBy": "677b5757e630ee1a15602a19",
+                    "__v": 0
+                },
+                {
+                    "_id": "684ba60ea3af8095ec844202",
+                    "name": "New Folder",
+                    "elementRepoId": "684aa0fbea84ee09a02aa94b",
+                    "elementId": "684aa2d3ea84ee09a02ab1d7",
+                    "stepNo": 2,
+                    "keywordVal": "drag",
+                    "appType": "Web",
+                    "inputVal": [
+                        ""
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "684ba451a3af8095ec843fcb",
+                    "parentName": "Add Testcase",
+                    "modifiedBy": "677b5757e630ee1a15602a19",
+                    "__v": 0
+                },
+                {
+                    "_id": "684ba60ea3af8095ec844203",
+                    "name": "No test case/E2E flows yet",
+                    "elementRepoId": "684aa0fbea84ee09a02aa94b",
+                    "elementId": "684ba57da3af8095ec844106",
+                    "stepNo": 3,
+                    "keywordVal": "drop",
+                    "appType": "Web",
+                    "inputVal": [
+                        ""
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "684ba451a3af8095ec843fcb",
+                    "parentName": "Add Testcase",
+                    "modifiedBy": "677b5757e630ee1a15602a19",
+                    "__v": 0
+                },
+                {
+                    "_id": "684ba60ea3af8095ec844204",
+                    "name": "close",
+                    "elementRepoId": "684aa0fbea84ee09a02aa94b",
+                    "elementId": "684ba57da3af8095ec844111",
+                    "stepNo": 4,
+                    "keywordVal": "click",
+                    "appType": "Web",
+                    "inputVal": [
+                        ""
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "684ba451a3af8095ec843fcb",
+                    "parentName": "Add Testcase",
+                    "modifiedBy": "677b5757e630ee1a15602a19",
+                    "__v": 0
+                },
+                {
+                    "_id": "684ba60ea3af8095ec844206",
+                    "name": "Select Browser",
+                    "elementRepoId": "684aa0fbea84ee09a02aa94b",
+                    "elementId": "684ba57da3af8095ec844127",
+                    "stepNo": 7,
+                    "keywordVal": "clickElement",
+                    "appType": "Web",
+                    "inputVal": [
+                        ""
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "684ba451a3af8095ec843fcb",
+                    "parentName": "Add Testcase",
+                    "modifiedBy": "677b5757e630ee1a15602a19",
+                    "__v": 0
+                },
+                {
+                    "_id": "684ba60ea3af8095ec844207",
+                    "name": "Chrome",
+                    "elementRepoId": "684aa0fbea84ee09a02aa94b",
+                    "elementId": "684ba57da3af8095ec844132",
+                    "stepNo": 8,
+                    "keywordVal": "clickElement",
+                    "appType": "Web",
+                    "inputVal": [
+                        ""
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "684ba451a3af8095ec843fcb",
+                    "parentName": "Add Testcase",
+                    "modifiedBy": "677b5757e630ee1a15602a19",
+                    "__v": 0
+                },
+                {
+                    "_id": "684ba60ea3af8095ec844208",
+                    "name": "Save",
+                    "elementRepoId": "684aa0fbea84ee09a02aa94b",
+                    "elementId": "684ba57da3af8095ec84415e",
+                    "stepNo": 9,
+                    "keywordVal": "click",
+                    "appType": "Web",
+                    "inputVal": [
+                        ""
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "684ba451a3af8095ec843fcb",
+                    "parentName": "Add Testcase",
+                    "modifiedBy": "677b5757e630ee1a15602a19",
+                    "__v": 0
+                },
+                {
+                    "_id": "684fb439a00debf3efef09f2",
+                    "name": "Select ICE",
+                    "elementRepoId": "684aa0fbea84ee09a02aa94b",
+                    "elementId": "684faf20a00debf3efeefad8",
+                    "stepNo": 5,
+                    "keywordVal": "clickElement",
+                    "appType": "Web",
+                    "inputVal": [
+                        ""
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "684ba451a3af8095ec843fcb",
+                    "parentName": "Add Testcase",
+                    "modifiedBy": "677b5757e630ee1a15602a19",
+                    "__v": 0
+                },
+                {
+                    "_id": "684fb439a00debf3efef09f3",
+                    "name": "Select ICE Name",
+                    "elementRepoId": "684aa0fbea84ee09a02aa94b",
+                    "elementId": "684faf20a00debf3efeefae3",
+                    "stepNo": 6,
+                    "keywordVal": "clickElement",
+                    "appType": "Web",
+                    "inputVal": [
+                        ""
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "684ba451a3af8095ec843fcb",
+                    "parentName": "Add Testcase",
+                    "modifiedBy": "677b5757e630ee1a15602a19",
+                    "__v": 0
+                },
+                {
+                    "_id": "684fb50da00debf3efef0e4d",
+                    "name": "Click Folder",
+                    "elementRepoId": "684aa0fbea84ee09a02aa94b",
+                    "elementId": "684fb4bca00debf3efef0ab0",
+                    "stepNo": 10,
+                    "keywordVal": "clickElement",
+                    "appType": "Web",
+                    "inputVal": [
+                        ""
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "684ba451a3af8095ec843fcb",
+                    "parentName": "Add Testcase",
+                    "modifiedBy": "677b5757e630ee1a15602a19",
+                    "__v": 0
+                },
+                {
+                    "_id": "684fb50da00debf3efef0e4e",
+                    "name": "Execute",
+                    "elementRepoId": "684aa0fbea84ee09a02aa94b",
+                    "elementId": "684fb4bca00debf3efef0abb",
+                    "stepNo": 11,
+                    "keywordVal": "press",
+                    "appType": "Web",
+                    "inputVal": [
+                        ""
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "684ba451a3af8095ec843fcb",
+                    "parentName": "Add Testcase",
+                    "modifiedBy": "677b5757e630ee1a15602a19",
+                    "__v": 0
+                },
+                {
+                    "_id": "684fb50da00debf3efef0e4f",
+                    "name": "Execute2",
+                    "elementRepoId": "684aa0fbea84ee09a02aa94b",
+                    "elementId": "684fb4bca00debf3efef0ac6",
+                    "stepNo": 12,
+                    "keywordVal": "press",
+                    "appType": "Web",
+                    "inputVal": [
+                        ""
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "684ba451a3af8095ec843fcb",
+                    "parentName": "Add Testcase",
+                    "modifiedBy": "677b5757e630ee1a15602a19",
+                    "__v": 0
+                }
+            ],
+            "__v": 0
+        }
+    ],
+    "associatedrepopaths": [
+        "Admin Screen/Automateqa Login",
+        "Admin Screen/User Creation",
+        "Admin Screen/Logout",
+        "Imported Login/Creating a new Project",
+        "Imported Login/Design Studio (ER)",
+        "Admin Screen/Accept Policy Download client",
+        "Element Repository/Creating Folder",
+        "Admin Screen/User Delete",
+        "Execution Profile/Testcase Creation",
+        "Execution Profile/Add Testcase to list",
+        "AvoGenius_ER and TC_Prateek/Avo Assure",
+        "AvoGenius_ER and TC_Prateek/Extra",
+        "Avo Client/Client Install",
+        "Element Repository/Importing",
+        "Element Repository/Selfheal",
+        "AvoGenius_Test Case (Prateek)/Avo Assure",
+        "Test Case/Drag and Drop",
+        "Test Case/Delete all",
+        "Test Case/Debug",
+        "AvoGenius_Logout/Avo Assure",
+        "AvoGenius_Login/Avo Assure"
+    ],
+    "associated": [
+        "elementRepositories\\Execution Profile\\Testcase Creation.json",
+        "elementRepositories\\Execution Profile\\Add Testcase to list.json"
+    ]
+}

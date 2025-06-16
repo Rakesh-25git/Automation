@@ -1,0 +1,298 @@
+{
+    "_id": "684901922ade587a2d9be49e",
+    "name": "User Delete (Rakesh)",
+    "projectId": "68355fe5d9d9f7a5ff38b34a",
+    "testCaseFolderId": "683562b0d9d9f7a5ff38b6d9",
+    "appType": "Web",
+    "assignedTo": "nagendra",
+    "description": "",
+    "createdOn": "2025-06-11T04:09:54.179Z",
+    "displayOn": "2025-06-11T04:09:54.179Z",
+    "createdBy": "677b5757e630ee1a15602a19",
+    "createdByRole": "5db0022cf87fdec084ae49ab",
+    "modifiedBy": "677b5757e630ee1a15602a19",
+    "modifiedByRole": "5db0022cf87fdec084ae49ab",
+    "modifiedOn": "2025-06-11T05:21:03.501Z",
+    "isTestCaseRecoveryStep": false,
+    "tag": [],
+    "versions": [],
+    "__v": 0,
+    "parentPath": "Automate QA",
+    "testStepGroups": [
+        {
+            "_id": "684901ab2ade587a2d9be4fd",
+            "name": "Admin Login",
+            "projectId": "68355fe5d9d9f7a5ff38b34a",
+            "testCaseId": "684901922ade587a2d9be49e",
+            "appType": "Web",
+            "assignedTo": "rakesh",
+            "groupIndex": 1,
+            "createdBy": "677b5757e630ee1a15602a19",
+            "createdByRole": "5db0022cf87fdec084ae49ab",
+            "modifiedBy": "677b5757e630ee1a15602a19",
+            "modifiedByRole": "5db0022cf87fdec084ae49ab",
+            "createdOn": "2025-06-11T05:21:03.485Z",
+            "displayOn": "2025-06-11T05:21:03.485Z",
+            "modifiedOn": "2025-06-11T05:21:03.485Z",
+            "testSteps": [
+                {
+                    "_id": "684901fa2ade587a2d9be555",
+                    "name": "@Browser",
+                    "elementRepoId": "",
+                    "elementId": "",
+                    "stepNo": 1,
+                    "keywordVal": "openBrowser",
+                    "appType": "Web",
+                    "inputVal": [
+                        ""
+                    ],
+                    "outputVal": "##",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "684901ab2ade587a2d9be4fd",
+                    "parentName": "Admin Login",
+                    "modifiedBy": "677b5757e630ee1a15602a19",
+                    "__v": 0
+                },
+                {
+                    "_id": "684901fa2ade587a2d9be556",
+                    "name": "@Browser",
+                    "elementRepoId": "",
+                    "elementId": "",
+                    "stepNo": 2,
+                    "keywordVal": "navigateToURL",
+                    "appType": "Web",
+                    "inputVal": [
+                        "https://automateqa.avoassurecloud.com"
+                    ],
+                    "outputVal": "##",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "684901ab2ade587a2d9be4fd",
+                    "parentName": "Admin Login",
+                    "modifiedBy": "677b5757e630ee1a15602a19",
+                    "__v": 0
+                },
+                {
+                    "_id": "684901fa2ade587a2d9be557",
+                    "name": "Username",
+                    "elementRepoId": "68356027d9d9f7a5ff38b3b4",
+                    "elementId": "6835609ad9d9f7a5ff38b422",
+                    "stepNo": 4,
+                    "keywordVal": "setText",
+                    "appType": "Web",
+                    "inputVal": [
+                        "admin"
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "684901ab2ade587a2d9be4fd",
+                    "parentName": "Admin Login",
+                    "modifiedBy": "677b5757e630ee1a15602a19",
+                    "__v": 0
+                },
+                {
+                    "_id": "684901fa2ade587a2d9be558",
+                    "name": "Password",
+                    "elementRepoId": "68356027d9d9f7a5ff38b3b4",
+                    "elementId": "6835609ad9d9f7a5ff38b42d",
+                    "stepNo": 5,
+                    "keywordVal": "setText",
+                    "appType": "Web",
+                    "inputVal": [
+                        "We!c0me@dmin"
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "684901ab2ade587a2d9be4fd",
+                    "parentName": "Admin Login",
+                    "modifiedBy": "677b5757e630ee1a15602a19",
+                    "__v": 0
+                },
+                {
+                    "_id": "684901fa2ade587a2d9be559",
+                    "name": "Login",
+                    "elementRepoId": "68356027d9d9f7a5ff38b3b4",
+                    "elementId": "6835609ad9d9f7a5ff38b438",
+                    "stepNo": 6,
+                    "keywordVal": "press",
+                    "appType": "Web",
+                    "inputVal": [
+                        ""
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "684901ab2ade587a2d9be4fd",
+                    "parentName": "Admin Login",
+                    "modifiedBy": "677b5757e630ee1a15602a19",
+                    "__v": 0
+                },
+                {
+                    "_id": "6849123f2ade587a2d9c0762",
+                    "name": "Click_here",
+                    "elementRepoId": "6835819dd9d9f7a5ff38cb68",
+                    "elementId": "6835823cd9d9f7a5ff38cce9",
+                    "stepNo": 3,
+                    "keywordVal": "click",
+                    "appType": "Web",
+                    "inputVal": [
+                        ""
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "684901ab2ade587a2d9be4fd",
+                    "parentName": "Admin Login",
+                    "modifiedBy": "677b5757e630ee1a15602a19",
+                    "__v": 0
+                }
+            ],
+            "__v": 0
+        },
+        {
+            "_id": "684902f52ade587a2d9be710",
+            "name": "Delete User",
+            "projectId": "68355fe5d9d9f7a5ff38b34a",
+            "testCaseId": "684901922ade587a2d9be49e",
+            "appType": "Web",
+            "assignedTo": "rakesh",
+            "groupIndex": 2,
+            "createdBy": "677b5757e630ee1a15602a19",
+            "createdByRole": "5db0022cf87fdec084ae49ab",
+            "modifiedBy": "677b5757e630ee1a15602a19",
+            "modifiedByRole": "5db0022cf87fdec084ae49ab",
+            "createdOn": "2025-06-11T05:21:03.499Z",
+            "displayOn": "2025-06-11T05:21:03.499Z",
+            "modifiedOn": "2025-06-11T05:21:03.499Z",
+            "testSteps": [
+                {
+                    "_id": "684902f52ade587a2d9be713",
+                    "name": "User management",
+                    "elementRepoId": "684901702ade587a2d9be424",
+                    "elementId": "684902dd2ade587a2d9be64f",
+                    "stepNo": 1,
+                    "keywordVal": "clickElement",
+                    "appType": "Web",
+                    "inputVal": [
+                        ""
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "684902f52ade587a2d9be710",
+                    "parentName": "Delete User",
+                    "modifiedBy": "677b5757e630ee1a15602a19",
+                    "__v": 0
+                },
+                {
+                    "_id": "684902f52ade587a2d9be714",
+                    "name": "Users",
+                    "elementRepoId": "684901702ade587a2d9be424",
+                    "elementId": "684902dd2ade587a2d9be65a",
+                    "stepNo": 2,
+                    "keywordVal": "clickElement",
+                    "appType": "Web",
+                    "inputVal": [
+                        ""
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "684902f52ade587a2d9be710",
+                    "parentName": "Delete User",
+                    "modifiedBy": "677b5757e630ee1a15602a19",
+                    "__v": 0
+                },
+                {
+                    "_id": "684902f52ade587a2d9be715",
+                    "name": "Search",
+                    "elementRepoId": "684901702ade587a2d9be424",
+                    "elementId": "684902dd2ade587a2d9be665",
+                    "stepNo": 3,
+                    "keywordVal": "setText",
+                    "appType": "Web",
+                    "inputVal": [
+                        "{User}"
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "684902f52ade587a2d9be710",
+                    "parentName": "Delete User",
+                    "modifiedBy": "677b5757e630ee1a15602a19",
+                    "__v": 0
+                },
+                {
+                    "_id": "684902f52ade587a2d9be716",
+                    "name": "deleteUser",
+                    "elementRepoId": "684901702ade587a2d9be424",
+                    "elementId": "684902dd2ade587a2d9be670",
+                    "stepNo": 4,
+                    "keywordVal": "press",
+                    "appType": "Web",
+                    "inputVal": [
+                        ""
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "684902f52ade587a2d9be710",
+                    "parentName": "Delete User",
+                    "modifiedBy": "677b5757e630ee1a15602a19",
+                    "__v": 0
+                },
+                {
+                    "_id": "684904572ade587a2d9beb95",
+                    "name": "Yes",
+                    "elementRepoId": "684901702ade587a2d9be424",
+                    "elementId": "684903f82ade587a2d9beb0e",
+                    "stepNo": 5,
+                    "keywordVal": "click",
+                    "appType": "Web",
+                    "inputVal": [
+                        ""
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "684902f52ade587a2d9be710",
+                    "parentName": "Delete User",
+                    "modifiedBy": "677b5757e630ee1a15602a19",
+                    "__v": 0
+                }
+            ],
+            "__v": 0
+        }
+    ],
+    "associatedrepopaths": [
+        "Admin Screen/Automateqa Login",
+        "Admin Screen/User Creation",
+        "Admin Screen/Logout",
+        "Imported Login/Creating a new Project",
+        "Imported Login/Design Studio (ER)",
+        "Admin Screen/Accept Policy Download client",
+        "Element Repository/Creating Folder",
+        "Admin Screen/User Delete",
+        "Execution Profile/Testcase Creation",
+        "Execution Profile/Add Testcase to list",
+        "AvoGenius_ER and TC_Prateek/Avo Assure",
+        "AvoGenius_ER and TC_Prateek/Extra",
+        "Avo Client/Client Install",
+        "Element Repository/Importing",
+        "Element Repository/Selfheal",
+        "AvoGenius_Test Case (Prateek)/Avo Assure",
+        "Test Case/Drag and Drop",
+        "Test Case/Delete all",
+        "Test Case/Debug",
+        "AvoGenius_Logout/Avo Assure",
+        "AvoGenius_Login/Avo Assure"
+    ],
+    "associated": [
+        "elementRepositories\\Admin Screen\\Automateqa Login.json",
+        "elementRepositories\\Admin Screen\\User Delete.json",
+        "elementRepositories\\Admin Screen\\Logout.json"
+    ]
+}

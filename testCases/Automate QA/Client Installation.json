@@ -1,0 +1,315 @@
+{
+    "_id": "684fc052a00debf3efef2d07",
+    "name": "Client Installation",
+    "projectId": "68355fe5d9d9f7a5ff38b34a",
+    "testCaseFolderId": "683562b0d9d9f7a5ff38b6d9",
+    "appType": "Web",
+    "assignedTo": "rakesh",
+    "description": "",
+    "createdOn": "2025-06-16T06:57:22.714Z",
+    "displayOn": "2025-06-16T06:57:22.714Z",
+    "createdBy": "677b5757e630ee1a15602a19",
+    "createdByRole": "5db0022cf87fdec084ae49ab",
+    "modifiedBy": "677b5757e630ee1a15602a19",
+    "modifiedByRole": "5db0022cf87fdec084ae49ab",
+    "modifiedOn": "2025-06-16T09:00:12.688Z",
+    "isTestCaseRecoveryStep": false,
+    "tag": [],
+    "versions": [],
+    "__v": 0,
+    "parentPath": "Automate QA",
+    "testStepGroups": [
+        {
+            "_id": "684fc0a4a00debf3efef2dc7",
+            "name": "Client Installation",
+            "projectId": "68355fe5d9d9f7a5ff38b34a",
+            "testCaseId": "684fc052a00debf3efef2d07",
+            "appType": "Desktop",
+            "assignedTo": "rakesh",
+            "groupIndex": 1,
+            "createdBy": "677b5757e630ee1a15602a19",
+            "createdByRole": "5db0022cf87fdec084ae49ab",
+            "modifiedBy": "677b5757e630ee1a15602a19",
+            "modifiedByRole": "5db0022cf87fdec084ae49ab",
+            "createdOn": "2025-06-16T09:00:12.675Z",
+            "displayOn": "2025-06-16T09:00:12.675Z",
+            "modifiedOn": "2025-06-16T09:00:12.675Z",
+            "testSteps": [
+                {
+                    "_id": "684fc1b4a00debf3efef30e7",
+                    "name": "@Window",
+                    "elementRepoId": "",
+                    "elementId": "",
+                    "stepNo": 1,
+                    "keywordVal": "launchApplication",
+                    "appType": "Desktop",
+                    "inputVal": [
+                        "C:\\Avo Client\\Test\\AvoAssureClient4_automateqa.avoassurecloud.com.exe"
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "684fc0a4a00debf3efef2dc7",
+                    "parentName": "Client Installation",
+                    "modifiedBy": "677b5757e630ee1a15602a19",
+                    "__v": 0
+                },
+                {
+                    "_id": "684fc1b4a00debf3efef30e8",
+                    "name": "@Window",
+                    "elementRepoId": "",
+                    "elementId": "",
+                    "stepNo": 2,
+                    "keywordVal": "findWindowAndAttach",
+                    "appType": "Desktop",
+                    "inputVal": [
+                        "Setup *"
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "684fc0a4a00debf3efef2dc7",
+                    "parentName": "Client Installation",
+                    "modifiedBy": "677b5757e630ee1a15602a19",
+                    "__v": 0
+                },
+                {
+                    "_id": "684fc1b4a00debf3efef30e9",
+                    "name": "Next",
+                    "elementRepoId": "684fb8f9a00debf3efef166a",
+                    "elementId": "684fb9c1a00debf3efef17c8",
+                    "stepNo": 3,
+                    "keywordVal": "click",
+                    "appType": "Desktop",
+                    "inputVal": [
+                        ""
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "684fc0a4a00debf3efef2dc7",
+                    "parentName": "Client Installation",
+                    "modifiedBy": "677b5757e630ee1a15602a19",
+                    "__v": 0
+                },
+                {
+                    "_id": "684fc1b4a00debf3efef30ea",
+                    "name": "Set Path",
+                    "elementRepoId": "684fb8f9a00debf3efef166a",
+                    "elementId": "684fbb4da00debf3efef1a0b",
+                    "stepNo": 4,
+                    "keywordVal": "setText",
+                    "appType": "Desktop",
+                    "inputVal": [
+                        "C:\\Avo Client\\Test\\New\\avo"
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "684fc0a4a00debf3efef2dc7",
+                    "parentName": "Client Installation",
+                    "modifiedBy": "677b5757e630ee1a15602a19",
+                    "__v": 0
+                },
+                {
+                    "_id": "684fc1b4a00debf3efef30eb",
+                    "name": "Next1",
+                    "elementRepoId": "684fb8f9a00debf3efef166a",
+                    "elementId": "684fbb4da00debf3efef1a05",
+                    "stepNo": 5,
+                    "keywordVal": "click",
+                    "appType": "Desktop",
+                    "inputVal": [
+                        ""
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "684fc0a4a00debf3efef2dc7",
+                    "parentName": "Client Installation",
+                    "modifiedBy": "677b5757e630ee1a15602a19",
+                    "__v": 0
+                },
+                {
+                    "_id": "684fc1b4a00debf3efef30ec",
+                    "name": "@Generic",
+                    "elementRepoId": "",
+                    "elementId": "",
+                    "stepNo": 6,
+                    "keywordVal": "wait",
+                    "appType": "Generic",
+                    "inputVal": [
+                        "300"
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "684fc0a4a00debf3efef2dc7",
+                    "parentName": "Client Installation",
+                    "modifiedBy": "677b5757e630ee1a15602a19",
+                    "__v": 0
+                },
+                {
+                    "_id": "684fc1b4a00debf3efef30ed",
+                    "name": "Finish",
+                    "elementRepoId": "684fb8f9a00debf3efef166a",
+                    "elementId": "684fbd3ba00debf3efef2193",
+                    "stepNo": 7,
+                    "keywordVal": "click",
+                    "appType": "Desktop",
+                    "inputVal": [
+                        ""
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "684fc0a4a00debf3efef2dc7",
+                    "parentName": "Client Installation",
+                    "modifiedBy": "677b5757e630ee1a15602a19",
+                    "__v": 0
+                }
+            ],
+            "__v": 0
+        },
+        {
+            "_id": "684fc753a00debf3efef6cff",
+            "name": "Register Client",
+            "projectId": "68355fe5d9d9f7a5ff38b34a",
+            "testCaseId": "684fc052a00debf3efef2d07",
+            "appType": "Desktop",
+            "assignedTo": "rakesh",
+            "groupIndex": 2,
+            "createdBy": "677b5757e630ee1a15602a19",
+            "createdByRole": "5db0022cf87fdec084ae49ab",
+            "modifiedBy": "677b5757e630ee1a15602a19",
+            "modifiedByRole": "5db0022cf87fdec084ae49ab",
+            "createdOn": "2025-06-16T09:00:12.685Z",
+            "displayOn": "2025-06-16T09:00:12.685Z",
+            "modifiedOn": "2025-06-16T09:00:12.685Z",
+            "testSteps": [
+                {
+                    "_id": "684fc753a00debf3efef6d02",
+                    "name": "@Window",
+                    "elementRepoId": "",
+                    "elementId": "",
+                    "stepNo": 2,
+                    "keywordVal": "findWindowAndAttach",
+                    "appType": "Desktop",
+                    "inputVal": [
+                        "Avo Assure Client Registration*"
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "684fc753a00debf3efef6cff",
+                    "parentName": "Register Client",
+                    "modifiedBy": "677b5757e630ee1a15602a19",
+                    "__v": 0
+                },
+                {
+                    "_id": "684fc753a00debf3efef6d03",
+                    "name": "@Generic",
+                    "elementRepoId": "",
+                    "elementId": "",
+                    "stepNo": 3,
+                    "keywordVal": "sendFunctionKeys",
+                    "appType": "Generic",
+                    "inputVal": [
+                        "tab;2"
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "684fc753a00debf3efef6cff",
+                    "parentName": "Register Client",
+                    "modifiedBy": "677b5757e630ee1a15602a19",
+                    "__v": 0
+                },
+                {
+                    "_id": "684fc753a00debf3efef6d04",
+                    "name": "@Generic",
+                    "elementRepoId": "",
+                    "elementId": "",
+                    "stepNo": 4,
+                    "keywordVal": "getContent",
+                    "appType": "Generic",
+                    "inputVal": [
+                        "C:\\Users\\rakesh.bhat\\Downloads\\mvfei_icetoken.txt"
+                    ],
+                    "outputVal": "{icetoken};##",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "684fc753a00debf3efef6cff",
+                    "parentName": "Register Client",
+                    "modifiedBy": "677b5757e630ee1a15602a19",
+                    "__v": 0
+                },
+                {
+                    "_id": "684fc753a00debf3efef6d05",
+                    "name": "@Generic",
+                    "elementRepoId": "",
+                    "elementId": "",
+                    "stepNo": 5,
+                    "keywordVal": "sendFunctionKeys",
+                    "appType": "Generic",
+                    "inputVal": [
+                        "{IceToken}"
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "684fc753a00debf3efef6cff",
+                    "parentName": "Register Client",
+                    "modifiedBy": "677b5757e630ee1a15602a19",
+                    "__v": 0
+                },
+                {
+                    "_id": "684fdd1cf215ceedc289f577",
+                    "name": "@Generic",
+                    "elementRepoId": "",
+                    "elementId": "",
+                    "stepNo": 1,
+                    "keywordVal": "wait",
+                    "appType": "Generic",
+                    "inputVal": [
+                        "80"
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "684fc753a00debf3efef6cff",
+                    "parentName": "Register Client",
+                    "modifiedBy": "677b5757e630ee1a15602a19",
+                    "__v": 0
+                }
+            ],
+            "__v": 0
+        }
+    ],
+    "associatedrepopaths": [
+        "Admin Screen/Automateqa Login",
+        "Admin Screen/User Creation",
+        "Admin Screen/Logout",
+        "Imported Login/Creating a new Project",
+        "Imported Login/Design Studio (ER)",
+        "Admin Screen/Accept Policy Download client",
+        "Element Repository/Creating Folder",
+        "Admin Screen/User Delete",
+        "Execution Profile/Testcase Creation",
+        "Execution Profile/Add Testcase to list",
+        "AvoGenius_ER and TC_Prateek/Avo Assure",
+        "AvoGenius_ER and TC_Prateek/Extra",
+        "Avo Client/Client Install",
+        "Element Repository/Importing",
+        "Element Repository/Selfheal",
+        "AvoGenius_Test Case (Prateek)/Avo Assure",
+        "Test Case/Drag and Drop",
+        "Test Case/Delete all",
+        "Test Case/Debug",
+        "AvoGenius_Logout/Avo Assure",
+        "AvoGenius_Login/Avo Assure"
+    ],
+    "associated": [
+        "elementRepositories\\Avo Client\\Client Install.json"
+    ]
+}

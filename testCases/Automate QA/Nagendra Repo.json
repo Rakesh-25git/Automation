@@ -1,0 +1,507 @@
+{
+    "_id": "684c19b515cd59e28c3f158b",
+    "name": "Nagendra Repo",
+    "projectId": "68355fe5d9d9f7a5ff38b34a",
+    "testCaseFolderId": "683562b0d9d9f7a5ff38b6d9",
+    "appType": "Web",
+    "assignedTo": "nagendra",
+    "description": "",
+    "createdOn": "2025-05-27T09:17:00.121Z",
+    "displayOn": "2025-05-27T09:17:00.121Z",
+    "createdBy": "67ff3246e9689353c6b0e3c5",
+    "createdByRole": "5db0022cf87fdec084ae49ab",
+    "modifiedBy": "67fcd112d1b76ee1a98a21e7",
+    "modifiedByRole": "5db0022cf87fdec084ae49ab",
+    "modifiedOn": "2025-06-13T12:35:41.948Z",
+    "isTestCaseRecoveryStep": false,
+    "tag": [],
+    "versions": [],
+    "__v": 0,
+    "parentPath": "Automate QA",
+    "testStepGroups": [
+        {
+            "_id": "684c19b515cd59e28c3f158e",
+            "name": "Creating a new Project",
+            "projectId": "68355fe5d9d9f7a5ff38b34a",
+            "testCaseId": "684c19b515cd59e28c3f158b",
+            "appType": "Web",
+            "assignedTo": "nagendra",
+            "groupIndex": 1,
+            "createdBy": "67fcd112d1b76ee1a98a21e7",
+            "createdByRole": "5db0022cf87fdec084ae49ab",
+            "modifiedBy": "67fcd112d1b76ee1a98a21e7",
+            "modifiedByRole": "5db0022cf87fdec084ae49ab",
+            "createdOn": "2025-06-13T12:35:41.920Z",
+            "displayOn": "2025-06-13T12:35:41.920Z",
+            "modifiedOn": "2025-06-13T12:35:41.920Z",
+            "testSteps": [
+                {
+                    "_id": "684c19b515cd59e28c3f1594",
+                    "name": "Enter Project Name",
+                    "elementRepoId": "68358317d9d9f7a5ff38d135",
+                    "elementId": "68358318d9d9f7a5ff38d148",
+                    "stepNo": 2,
+                    "keywordVal": "setText",
+                    "appType": "Web",
+                    "inputVal": [
+                        "Automation Flow"
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "684c19b515cd59e28c3f158e",
+                    "parentName": "Creating a new Project",
+                    "modifiedBy": "67fcd112d1b76ee1a98a21e7",
+                    "__v": 0
+                },
+                {
+                    "_id": "684c19b515cd59e28c3f1595",
+                    "name": "Enter description",
+                    "elementRepoId": "68358317d9d9f7a5ff38d135",
+                    "elementId": "68358318d9d9f7a5ff38d153",
+                    "stepNo": 3,
+                    "keywordVal": "setText",
+                    "appType": "Web",
+                    "inputVal": [
+                        "Manual Capture"
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "684c19b515cd59e28c3f158e",
+                    "parentName": "Creating a new Project",
+                    "modifiedBy": "67fcd112d1b76ee1a98a21e7",
+                    "__v": 0
+                },
+                {
+                    "_id": "684c19b515cd59e28c3f1596",
+                    "name": "Create",
+                    "elementRepoId": "68358317d9d9f7a5ff38d135",
+                    "elementId": "68358318d9d9f7a5ff38d15e",
+                    "stepNo": 4,
+                    "keywordVal": "click",
+                    "appType": "Web",
+                    "inputVal": [
+                        ""
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "684c19b515cd59e28c3f158e",
+                    "parentName": "Creating a new Project",
+                    "modifiedBy": "67fcd112d1b76ee1a98a21e7",
+                    "__v": 0
+                },
+                {
+                    "_id": "684c19b515cd59e28c3f15b3",
+                    "name": "Create project + button",
+                    "elementRepoId": "68358317d9d9f7a5ff38d135",
+                    "elementId": "684c0f1215cd59e28c3eeff8",
+                    "stepNo": 1,
+                    "keywordVal": "click",
+                    "appType": "Web",
+                    "inputVal": [
+                        ""
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "684c19b515cd59e28c3f158e",
+                    "parentName": "Creating a new Project",
+                    "modifiedBy": "67fcd112d1b76ee1a98a21e7",
+                    "__v": 0
+                }
+            ],
+            "__v": 0
+        },
+        {
+            "_id": "684c1a2715cd59e28c3f1a3f",
+            "name": "Design Studio (ER)",
+            "projectId": "68355fe5d9d9f7a5ff38b34a",
+            "testCaseId": "684c19b515cd59e28c3f158b",
+            "appType": "Web",
+            "assignedTo": "nagendra",
+            "groupIndex": 2,
+            "createdBy": "67fcd112d1b76ee1a98a21e7",
+            "createdByRole": "5db0022cf87fdec084ae49ab",
+            "modifiedBy": "67fcd112d1b76ee1a98a21e7",
+            "modifiedByRole": "5db0022cf87fdec084ae49ab",
+            "createdOn": "2025-06-13T12:35:41.945Z",
+            "displayOn": "2025-06-13T12:35:41.945Z",
+            "modifiedOn": "2025-06-13T12:35:41.945Z",
+            "testSteps": [
+                {
+                    "_id": "684c1a2715cd59e28c3f1a42",
+                    "name": "Design Studio",
+                    "elementRepoId": "68358318d9d9f7a5ff38d170",
+                    "elementId": "68358318d9d9f7a5ff38d178",
+                    "stepNo": 1,
+                    "keywordVal": "clickElement",
+                    "appType": "Web",
+                    "inputVal": [
+                        ""
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "684c1a2715cd59e28c3f1a3f",
+                    "parentName": "Design Studio (ER)",
+                    "modifiedBy": "67fcd112d1b76ee1a98a21e7",
+                    "__v": 0
+                },
+                {
+                    "_id": "684c1a2715cd59e28c3f1a43",
+                    "name": "Create_folder_Element_Repo",
+                    "elementRepoId": "68358318d9d9f7a5ff38d170",
+                    "elementId": "68358318d9d9f7a5ff38d183",
+                    "stepNo": 2,
+                    "keywordVal": "click",
+                    "appType": "Web",
+                    "inputVal": [
+                        ""
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "684c1a2715cd59e28c3f1a3f",
+                    "parentName": "Design Studio (ER)",
+                    "modifiedBy": "67fcd112d1b76ee1a98a21e7",
+                    "__v": 0
+                },
+                {
+                    "_id": "684c1a2715cd59e28c3f1a44",
+                    "name": "Create new folder",
+                    "elementRepoId": "68358318d9d9f7a5ff38d170",
+                    "elementId": "68358318d9d9f7a5ff38d18e",
+                    "stepNo": 3,
+                    "keywordVal": "clickElement",
+                    "appType": "Web",
+                    "inputVal": [
+                        ""
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "684c1a2715cd59e28c3f1a3f",
+                    "parentName": "Design Studio (ER)",
+                    "modifiedBy": "67fcd112d1b76ee1a98a21e7",
+                    "__v": 0
+                },
+                {
+                    "_id": "684c1a2715cd59e28c3f1a45",
+                    "name": "Enter Folder Name",
+                    "elementRepoId": "68358318d9d9f7a5ff38d170",
+                    "elementId": "68358318d9d9f7a5ff38d1af",
+                    "stepNo": 4,
+                    "keywordVal": "clearText",
+                    "appType": "Web",
+                    "inputVal": [
+                        ""
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "684c1a2715cd59e28c3f1a3f",
+                    "parentName": "Design Studio (ER)",
+                    "modifiedBy": "67fcd112d1b76ee1a98a21e7",
+                    "__v": 0
+                },
+                {
+                    "_id": "684c1a2715cd59e28c3f1a46",
+                    "name": "Enter Folder Name",
+                    "elementRepoId": "68358318d9d9f7a5ff38d170",
+                    "elementId": "68358318d9d9f7a5ff38d1af",
+                    "stepNo": 5,
+                    "keywordVal": "setText",
+                    "appType": "Web",
+                    "inputVal": [
+                        "Demo"
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "684c1a2715cd59e28c3f1a3f",
+                    "parentName": "Design Studio (ER)",
+                    "modifiedBy": "67fcd112d1b76ee1a98a21e7",
+                    "__v": 0
+                },
+                {
+                    "_id": "684c1a2715cd59e28c3f1a47",
+                    "name": "@Generic",
+                    "elementRepoId": "",
+                    "elementId": "",
+                    "stepNo": 6,
+                    "keywordVal": "sendFunctionKeys",
+                    "appType": "Generic",
+                    "inputVal": [
+                        "enter"
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "684c1a2715cd59e28c3f1a3f",
+                    "parentName": "Design Studio (ER)",
+                    "modifiedBy": "67fcd112d1b76ee1a98a21e7",
+                    "__v": 0
+                },
+                {
+                    "_id": "684c1b1d15cd59e28c3f1b7b",
+                    "name": "3 dots",
+                    "elementRepoId": "6835a6710aa7c448e548b79e",
+                    "elementId": "684c199d15cd59e28c3f12cc",
+                    "stepNo": 7,
+                    "keywordVal": "click",
+                    "appType": "Web",
+                    "inputVal": [
+                        ""
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "684c1a2715cd59e28c3f1a3f",
+                    "parentName": "Design Studio (ER)",
+                    "modifiedBy": "67fcd112d1b76ee1a98a21e7",
+                    "__v": 0
+                },
+                {
+                    "_id": "684c1b1d15cd59e28c3f1b7c",
+                    "name": "Create Repository",
+                    "elementRepoId": "6835a6710aa7c448e548b79e",
+                    "elementId": "684c199d15cd59e28c3f12d7",
+                    "stepNo": 8,
+                    "keywordVal": "clickElement",
+                    "appType": "Web",
+                    "inputVal": [
+                        ""
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "684c1a2715cd59e28c3f1a3f",
+                    "parentName": "Design Studio (ER)",
+                    "modifiedBy": "67fcd112d1b76ee1a98a21e7",
+                    "__v": 0
+                },
+                {
+                    "_id": "684c1b1d15cd59e28c3f1b7d",
+                    "name": "WebShift+E+W",
+                    "elementRepoId": "6835a6710aa7c448e548b79e",
+                    "elementId": "684c199d15cd59e28c3f12e2",
+                    "stepNo": 9,
+                    "keywordVal": "clickElement",
+                    "appType": "Web",
+                    "inputVal": [
+                        ""
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "684c1a2715cd59e28c3f1a3f",
+                    "parentName": "Design Studio (ER)",
+                    "modifiedBy": "67fcd112d1b76ee1a98a21e7",
+                    "__v": 0
+                },
+                {
+                    "_id": "684c1b1d15cd59e28c3f1b7e",
+                    "name": "@Generic",
+                    "elementRepoId": "",
+                    "elementId": "",
+                    "stepNo": 10,
+                    "keywordVal": "sendFunctionKeys",
+                    "appType": "Generic",
+                    "inputVal": [
+                        "enter"
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "684c1a2715cd59e28c3f1a3f",
+                    "parentName": "Design Studio (ER)",
+                    "modifiedBy": "67fcd112d1b76ee1a98a21e7",
+                    "__v": 0
+                },
+                {
+                    "_id": "684c1b1d15cd59e28c3f1b7f",
+                    "name": "Create Manually",
+                    "elementRepoId": "6835a6710aa7c448e548b79e",
+                    "elementId": "684c199d15cd59e28c3f12ed",
+                    "stepNo": 11,
+                    "keywordVal": "clickElement",
+                    "appType": "Web",
+                    "inputVal": [
+                        ""
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "684c1a2715cd59e28c3f1a3f",
+                    "parentName": "Design Studio (ER)",
+                    "modifiedBy": "67fcd112d1b76ee1a98a21e7",
+                    "__v": 0
+                },
+                {
+                    "_id": "684c1b1d15cd59e28c3f1b80",
+                    "name": "objName",
+                    "elementRepoId": "6835a6710aa7c448e548b79e",
+                    "elementId": "684c199d15cd59e28c3f12f8",
+                    "stepNo": 12,
+                    "keywordVal": "setText",
+                    "appType": "Web",
+                    "inputVal": [
+                        "Text box"
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "684c1a2715cd59e28c3f1a3f",
+                    "parentName": "Design Studio (ER)",
+                    "modifiedBy": "67fcd112d1b76ee1a98a21e7",
+                    "__v": 0
+                },
+                {
+                    "_id": "684c1b1d15cd59e28c3f1b81",
+                    "name": "Search",
+                    "elementRepoId": "6835a6710aa7c448e548b79e",
+                    "elementId": "684c199d15cd59e28c3f1303",
+                    "stepNo": 13,
+                    "keywordVal": "clickElement",
+                    "appType": "Web",
+                    "inputVal": [
+                        ""
+                    ],
+                    "outputVal": "##",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "684c1a2715cd59e28c3f1a3f",
+                    "parentName": "Design Studio (ER)",
+                    "modifiedBy": "67fcd112d1b76ee1a98a21e7",
+                    "__v": 0
+                },
+                {
+                    "_id": "684c1b1d15cd59e28c3f1b82",
+                    "name": "Search1",
+                    "elementRepoId": "6835a6710aa7c448e548b79e",
+                    "elementId": "684c199d15cd59e28c3f130e",
+                    "stepNo": 14,
+                    "keywordVal": "clickElement",
+                    "appType": "Web",
+                    "inputVal": [
+                        ""
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "684c1a2715cd59e28c3f1a3f",
+                    "parentName": "Design Studio (ER)",
+                    "modifiedBy": "67fcd112d1b76ee1a98a21e7",
+                    "__v": 0
+                },
+                {
+                    "_id": "684c1b1d15cd59e28c3f1b83",
+                    "name": "Textbox/Textarea",
+                    "elementRepoId": "6835a6710aa7c448e548b79e",
+                    "elementId": "684c199d15cd59e28c3f1319",
+                    "stepNo": 15,
+                    "keywordVal": "clickElement",
+                    "appType": "Web",
+                    "inputVal": [
+                        ""
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "684c1a2715cd59e28c3f1a3f",
+                    "parentName": "Design Studio (ER)",
+                    "modifiedBy": "67fcd112d1b76ee1a98a21e7",
+                    "__v": 0
+                },
+                {
+                    "_id": "684c1b1d15cd59e28c3f1b84",
+                    "name": "Submit",
+                    "elementRepoId": "6835a6710aa7c448e548b79e",
+                    "elementId": "684c199d15cd59e28c3f1324",
+                    "stepNo": 16,
+                    "keywordVal": "click",
+                    "appType": "Web",
+                    "inputVal": [
+                        ""
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "684c1a2715cd59e28c3f1a3f",
+                    "parentName": "Design Studio (ER)",
+                    "modifiedBy": "67fcd112d1b76ee1a98a21e7",
+                    "__v": 0
+                },
+                {
+                    "_id": "684c1b1d15cd59e28c3f1b85",
+                    "name": "Save",
+                    "elementRepoId": "6835a6710aa7c448e548b79e",
+                    "elementId": "684c199d15cd59e28c3f132f",
+                    "stepNo": 17,
+                    "keywordVal": "click",
+                    "appType": "Web",
+                    "inputVal": [
+                        ""
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "684c1a2715cd59e28c3f1a3f",
+                    "parentName": "Design Studio (ER)",
+                    "modifiedBy": "67fcd112d1b76ee1a98a21e7",
+                    "__v": 0
+                },
+                {
+                    "_id": "684c1b1d15cd59e28c3f1b86",
+                    "name": "import",
+                    "elementRepoId": "6835a6710aa7c448e548b79e",
+                    "elementId": "684c199d15cd59e28c3f133a",
+                    "stepNo": 18,
+                    "keywordVal": "click",
+                    "appType": "Web",
+                    "inputVal": [
+                        ""
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "684c1a2715cd59e28c3f1a3f",
+                    "parentName": "Design Studio (ER)",
+                    "modifiedBy": "67fcd112d1b76ee1a98a21e7",
+                    "__v": 0
+                }
+            ],
+            "__v": 0
+        }
+    ],
+    "associatedrepopaths": [
+        "Admin Screen/Automateqa Login",
+        "Admin Screen/User Creation",
+        "Admin Screen/Logout",
+        "Imported Login/Creating a new Project",
+        "Imported Login/Design Studio (ER)",
+        "Admin Screen/Accept Policy Download client",
+        "Element Repository/Creating Folder",
+        "Admin Screen/User Delete",
+        "Execution Profile/Testcase Creation",
+        "Execution Profile/Add Testcase to list",
+        "AvoGenius_ER and TC_Prateek/Avo Assure",
+        "AvoGenius_ER and TC_Prateek/Extra",
+        "Avo Client/Client Install",
+        "Element Repository/Importing",
+        "Element Repository/Selfheal",
+        "AvoGenius_Test Case (Prateek)/Avo Assure",
+        "Test Case/Drag and Drop",
+        "Test Case/Delete all",
+        "Test Case/Debug",
+        "AvoGenius_Logout/Avo Assure",
+        "AvoGenius_Login/Avo Assure"
+    ],
+    "associated": [
+        "elementRepositories\\Imported Login\\Creating a new Project.json",
+        "elementRepositories\\Imported Login\\Design Studio (ER).json",
+        "elementRepositories\\Element Repository\\Creating Folder.json"
+    ]
+}
